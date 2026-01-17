@@ -3,25 +3,54 @@
 
 <!-- Mirrored from cdn.bolvo.com/teknik/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:31 GMT -->
 <head>
-<meta charset="utf-8">
-<title>Teknik HTML-5 Template | Homepage</title>
-<!-- Stylesheets -->
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<link href="assets/css/responsive.css" rel="stylesheet">
+    <meta charset="utf-8">
 
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&amp;family=Rubik:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
+    <!-- Primary SEO -->
+    <title>Cosmos Enterprises | Fire Safety, CCTV & Security Solutions</title>
+    <meta name="description" content="Cosmos Enterprises provides fire fighting systems, CCTV surveillance, access control, biometric attendance machines, intruder alarms, EPABX intercom & complete security solutions with sales, service & AMC." />
+    <meta name="keywords" content="Cosmos Enterprises, Fire Fighting System, CCTV Camera, Security Systems, Access Control, Attendance Machine, Intruder Alarm, EPABX Intercom, Video Door Phone" />
+    <meta name="author" content="Cosmos Enterprises">
+    <meta name="robots" content="index, follow">
 
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- ================== FAVICONS (ADDED FROM YOUR FOLDER) ================== -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="assets/images/favicons/favicon.png">
 
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <!-- Android / PWA -->
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+    <meta name="theme-color" content="#0b3c5d">
+
+    <!-- Android Chrome Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/images/favicons/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/images/favicons/android-chrome-512x512.png">
+
+    <!-- ================== STYLESHEETS (UNCHANGED) ================== -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- Open Graph (Social Sharing) -->
+    <meta property="og:title" content="Cosmos Enterprises | Safety & Security Experts">
+    <meta property="og:description" content="Fire safety systems, CCTV surveillance, access control & security services by Cosmos Enterprises.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="assets/images/favicons/android-chrome-512x512.png">
+
+    <!-- IE Support -->
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+        <script src="js/respond.js"></script>
+    <![endif]-->
 </head>
+
 
 <body class="hidden-bar-wrapper">
 
@@ -34,42 +63,73 @@
 		<div class="main-slider-carousel owl-carousel owl-theme">
             
 			<div class="slide">
-				<div class="image-layer" style="background-image:url(assets/images/main-slider/image-1.jpg)"></div>
-				<div class="auto-container">
-					<!-- Content Boxed -->
-					<div class="content-boxed">
-						<div class="inner-boxed">
-							<div class="title">protecting what matters!</div>
-							<h1>real security <br> your home need</h1>
-							<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
-							<div class="btns-box clearfix">
-								<a href="contact.html" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> get started</span></a>
-								<a href="contact.html" class="talk">Talk With Us 1.700.231.0025</a>
-							</div>
-						</div>
-					</div>
+	<div class="image-layer" style="background-image:url(assets/images/main-slider/slider_1.png)"></div>
+	<div class="auto-container">
+		<div class="content-boxed">
+			<div class="inner-boxed">
+				<div class="title">protecting what matters!</div>
+				<h1>complete fire & <br> safety solutions</h1>
+				<div class="text">
+					End-to-end fire fighting systems designed for maximum safety,
+					compliance, and rapid response.
 				</div>
-				
+
+				<div class="btns-box clearfix">
+					<a href="contact.html" class="theme-btn btn-style-one">
+						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
+					</a>
+				</div>
 			</div>
+		</div>
+	</div>
+</div>
+
 			
 			<div class="slide">
-				<div class="image-layer" style="background-image:url(assets/images/main-slider/image-2.jpg)"></div>
-				<div class="auto-container">
-					<!-- Content Boxed -->
-					<div class="content-boxed alternate clearfix">
-						<div class="inner-boxed">
-							<div class="title">protecting what matters!</div>
-							<h1>real security <br> your home need</h1>
-							<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
-							<div class="btns-box clearfix">
-								<a href="contact.html" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> get started</span></a>
-								<a href="contact.html" class="talk">Talk With Us 1.700.231.0025</a>
-							</div>
-						</div>
-					</div>
+	<div class="image-layer" style="background-image:url(assets/images/main-slider/slider_2.png)"></div>
+	<div class="auto-container">
+		<div class="content-boxed">
+			<div class="inner-boxed">
+				<div class="title">smart security systems</div>
+				<h1>advanced cctv & <br> surveillance</h1>
+				<div class="text">
+					Intelligent surveillance solutions to monitor, protect,
+					and secure your property 24/7.
 				</div>
-				
+
+				<div class="btns-box clearfix">
+					<a href="contact.html" class="theme-btn btn-style-one">
+						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
+					</a>
+				</div>
 			</div>
+		</div>
+	</div>
+</div>
+
+
+			<div class="slide">
+	<div class="image-layer" style="background-image:url(assets/images/main-slider/slider_3.png)"></div>
+	<div class="auto-container">
+		<div class="content-boxed">
+			<div class="inner-boxed">
+				<div class="title">healthy & hygienic spaces</div>
+				<h1>professional pest <br> control services</h1>
+				<div class="text">
+					Safe, eco-friendly, and effective pest control solutions
+					for homes, offices, and industries.
+				</div>
+
+				<div class="btns-box clearfix">
+					<a href="contact.html" class="theme-btn btn-style-one">
+						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 		
 		</div>
 	</section>
@@ -77,211 +137,285 @@
 	
 	<!-- Featured Section -->
 	<section class="featured-section">
-		<div class="auto-container">
-			<div class="inner-container">
+	<div class="auto-container">
+		<div class="inner-container">
+			
+			<div class="clearfix">
 				
-				<div class="clearfix">
-					
-					<!-- Featured Block -->
-					<div class="featured-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="content">
-								<div class="icon-box">
-									<span class="icon flaticon-security-camera"></span>
-								</div>
-								<h5><a href="#">Premium Indoor <br> Cameras</a></h5>
+				<!-- Featured Block -->
+				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="content">
+							<div class="icon-box">
 							</div>
+							<h5>
+								<a href="#">
+									Fire Fighting <br> & Safety Systems
+								</a>
+							</h5>
 						</div>
 					</div>
-					
-					<!-- Featured Block -->
-					<div class="featured-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="content">
-								<div class="icon-box">
-									<span class="icon flaticon-alarm-1"></span>
-								</div>
-								<h5><a href="#">24/7 Quick Alarm <br> Response</a></h5>
+				</div>
+				
+				<!-- Featured Block -->
+				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="content">
+							<div class="icon-box">
 							</div>
+							<h5>
+								<a href="#">
+									CCTV Surveillance <br> & Monitoring
+								</a>
+							</h5>
 						</div>
 					</div>
-					
-					<!-- Featured Block -->
-					<div class="featured-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="content">
-								<div class="icon-box">
-									<span class="icon flaticon-calculator"></span>
-								</div>
-								<h5><a href="#">Amazing Security <br> Systems</a></h5>
+				</div>
+				
+				<!-- Featured Block -->
+				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="content">
+							<div class="icon-box">
 							</div>
+							<h5>
+								<a href="#">
+									Pest Control <br> & Sanitization
+								</a>
+							</h5>
 						</div>
 					</div>
-					
 				</div>
 				
 			</div>
+			
 		</div>
-	</section>
+	</div>
+</section>
+
 	<!-- End Featured Section -->
 	
 	<!-- Security Section -->
 	<section class="security-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				
-				<!-- Content Column -->
-				<div class="content-column col-lg-6 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="title"><span class="icon"><img src="assets/images/icons/separater.png" alt="" /></span> TEKNIK - Home Security</div>
-						<h2>Tailored to your needs, with alarm monitoring & smart-home features</h2>
-						<div class="bold-text">Eipsum dolor sit amet consectetur adipisicing elit sed eiusmod incididunt ut labore dolore magna aliqua. </div>
-						<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat duis aute irure dolor reprehen derit voluptate cillum dolore afugiat nula pariatur vitae sagittis diam facilisis convallis dictumst sed ipsum tempore. Excepteur sint occaecat aidatat non proident qu officia deserunt mollit anim.</div>
-						<a href="#" class="read-more">Read More about ISCO <span class="fa fa-angle-right"></span></a>
+	<div class="auto-container">
+		<div class="row clearfix">
+			
+			<!-- Content Column -->
+			<div class="content-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					<div class="title">
+						<span class="icon">
+							<img src="assets/images/icons/separater.png" alt="" />
+						</span> 
+						Cosmos Enterprises – Safety & Security Solutions
 					</div>
-				</div>
-				
-				<!-- Images Column -->
-				<div class="images-column col-lg-6 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="image">
-							<img src="assets/images/resource/security-1.jpg" alt="" />
-						</div>
-						<div class="image">
-							<img src="assets/images/resource/security-2.jpg" alt="" />
-						</div>
-						<div class="image">
-							<img src="assets/images/resource/security-3.jpg" alt="" />
-						</div>
+
+					<h2>
+						Complete fire safety, surveillance & pest control
+						solutions tailored to your needs
+					</h2>
+
+					<div class="bold-text">
+						We deliver end-to-end protection systems designed to ensure
+						safety, compliance, and peace of mind for residential,
+						commercial, and industrial spaces.
 					</div>
+
+					<div class="text">
+						Cosmos Enterprises specializes in fire fighting systems,
+						CCTV surveillance, and professional pest control services.
+						From system design and installation to testing, monitoring,
+						and annual maintenance contracts, we provide reliable and
+						cost-effective solutions backed by trained professionals
+						and certified equipment. Our approach focuses on risk
+						assessment, preventive protection, and long-term safety
+						management tailored to each site’s requirements.
+					</div>
+
+					<a href="about.php" class="read-more">
+						Read More About Cosmos Enterprises
+						<span class="fa fa-angle-right"></span>
+					</a>
 				</div>
-				
 			</div>
+			
+			<!-- Images Column -->
+			<div class="images-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					<div class="image">
+						<img src="assets/images/resource/security-1.jpg" alt="Fire Fighting Systems" />
+					</div>
+					<div class="image">
+						<img src="assets/images/resource/security-2.jpg" alt="CCTV Surveillance Systems" />
+					</div>
+					<div class="image">
+						<img src="assets/images/resource/security-3.jpg" alt="Professional Pest Control" />
+					</div>
+				</div>
+			</div>
+			
 		</div>
-	</section>
+	</div>
+</section>
+
 	<!-- End Security Section -->
 	
 	<!-- Premium Section -->
 	<section class="premium-section">
-		<div class="pattern-layer" style="background-image:url(assets/images/background/pattern-1.png)"></div>
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
+	<div class="pattern-layer" style="background-image:url(assets/images/background/pattern-1.png)"></div>
+	<div class="auto-container">
+		
+		<!-- Sec Title -->
+		<div class="sec-title centered">
+			<div class="icon">
+				<img src="assets/images/icons/separater.png" alt="" />
+			</div>
+			<h2>Premium Safety & Protection Services</h2>
+			<div class="text">
+				Advanced fire safety, intelligent surveillance, and professional
+				pest control solutions designed for complete protection.
+			</div>
+		</div>
+		
+		<div class="row clearfix">
+			
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="cctv-security.html">
+							<img src="assets/images/resource/security-4.jpg" alt="CCTV Surveillance Systems" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-cctv"></div>
+							<h5><a href="cctv-security.html">CCTV Surveillance Systems</a></h5>
+						</div>
+						<div class="text">
+							HD, IP, and AI-enabled CCTV solutions for real-time monitoring,
+							recording, and remote access.
+						</div>
+					</div>
 				</div>
-				<h2>Premium Security</h2>
-				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
 			</div>
 			
-			<div class="row clearfix">
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-4.jpg" alt="" /></a>
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="fire-fighting.html">
+							<img src="assets/images/resource/fireprotectionsystemcomponent.jpg" alt="Fire Fighting Systems" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-shield"></div>
+							<h5><a href="fire-fighting.html">Fire Fighting</br> Systems</a></h5>
 						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-cctv"></div>
-								<h5><a href="service-detail-2.html">CCTV Cameras</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
+						<div class="text">
+							Complete fire protection solutions including hydrants,
+							sprinklers, and suppression systems.
 						</div>
 					</div>
 				</div>
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-5.jpg" alt="" /></a>
+			</div>
+			
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="fire-fighting.html">
+							<img src="assets/images/resource/security-6.jpg" alt="Fire Alarm Systems" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-alarm-1"></div>
+							<h5><a href="fire-fighting.html">Fire Alarm &</br> Detection</a></h5>
 						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-lcd"></div>
-								<h5><a href="service-detail-2.html">Theft Protection</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
+						<div class="text">
+							Smoke, heat, and multisensor detection systems for early
+							warning and rapid response.
 						</div>
 					</div>
 				</div>
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-6.jpg" alt="" /></a>
+			</div>
+			
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="cctv-security.html">
+							<img src="assets/images/resource/security-7.jpg" alt="Access Control Systems" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-keyboard"></div>
+							<h5><a href="cctv-security.html">Access Control</br> Systems</a></h5>
 						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-alarm-1"></div>
-								<h5><a href="service-detail-2.html">Fire Alarm Systems</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
+						<div class="text">
+							Biometric, RFID, and keypad-based access control solutions
+							for restricted entry management.
 						</div>
 					</div>
 				</div>
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-7.jpg" alt="" /></a>
+			</div>
+			
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="cctv-security.html">
+							<img src="assets/images/resource/security-8.jpg" alt="Video Door Phones" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-bell"></div>
+							<h5><a href="cctv-security.html">Video Door</br> Phones</a></h5>
 						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-keyboard"></div>
-								<h5><a href="service-detail-2.html">Touchscreen Keypads</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
+						<div class="text">
+							Smart video door phones and intercom systems for secure
+							visitor</br> verification.
 						</div>
 					</div>
 				</div>
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-8.jpg" alt="" /></a>
+			</div>
+			
+			<!-- Security Block -->
+			<div class="security-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<a href="pest-control.html">
+							<img src="assets/images/resource/disinfectfoggingservices.jpg" alt="Pest Control Services" />
+						</a>
+					</div>
+					<div class="lower-content">
+						<div class="hover-bg-color"></div>
+						<div class="upper-box">
+							<div class="icon flaticon-home"></div>
+							<h5><a href="pest-control.html">Pest Control</br> Services</a></h5>
 						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-bell"></div>
-								<h5><a href="service-detail-2.html">Doorbell Cameras</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
+						<div class="text">
+							Eco-friendly pest control, termite treatment, and
+							sanitization services for hygienic spaces.
 						</div>
 					</div>
 				</div>
-				
-				<!-- Security Block -->
-				<div class="security-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="service-detail-2.html"><img src="assets/images/resource/security-9.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<div class="hover-bg-color"></div>
-							<div class="upper-box">
-								<div class="icon flaticon-telephone-1"></div>
-								<h5><a href="service-detail-2.html">Home Automation</a></h5>
-							</div>
-							<div class="text">Corem ipsum dolor sit amet consec exea dolore fugiatmagna exerd coas</div>
-						</div>
-					</div>
-				</div>
-				
 			</div>
 			
 		</div>
-	</section>
+		
+	</div>
+</section>
+
 	<!-- End Premium Section -->
 	
 	<!-- Call To Action Section -->
@@ -292,13 +426,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : 8860792988 <span></span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -308,181 +442,221 @@
 	
 	<!-- Gallery Section -->
 	<section class="gallery-section">
-		<div class="auto-container">
-			
-			<!-- Video Gallery -->
-			<div class="video-gallery">
-				<img src="assets/images/gallery/1.jpg" alt="" />
-				<div class="overlay-box">
-					<div class="overlay-inner">
-						<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="fa fa-play"><i class="ripple"></i></span></a>
-						<h3><a href="#">Get State-of-the-Art Security Technologies from Teknik Security</a></h3>
-						<div class="text">We protect your family like no-one. Dolore magna aliqut aliquip exa comod consequat duis irure dolor.</div>
+	<div class="auto-container">
+		
+		<!-- Video Gallery -->
+		<div class="video-gallery">
+			<img src="assets/images/gallery/1.jpg" alt="Cosmos Safety & Security Solutions" />
+			<div class="overlay-box">
+				<div class="overlay-inner">
+					<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box">
+						<span class="fa fa-play"><i class="ripple"></i></span>
+					</a>
+					<h3>
+						<a href="#">
+							Advanced Safety & Security Solutions by Cosmos Enterprises
+						</a>
+					</h3>
+					<div class="text">
+						From fire protection and CCTV surveillance to professional pest
+						control, we deliver reliable solutions that safeguard people,
+						property, and assets.
 					</div>
 				</div>
-			</div>
-			
-			<div class="row clearfix">
-				
-				<!-- Gallery Block -->
-				<div class="gallery-block col-lg-8 col-md-12 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<img src="assets/images/gallery/2.jpg" alt="" />
-							<!-- Overlay Box -->
-							<div class="overlay-box">
-								<div class="overlay-inner">
-									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
-										<div class="category">Commercial</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Gallery Block -->
-				<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<img src="assets/images/gallery/3.jpg" alt="" />
-							<!-- Overlay Box -->
-							<div class="overlay-box">
-								<div class="overlay-inner">
-									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
-										<div class="category">Commercial</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Gallery Block -->
-				<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<img src="assets/images/gallery/4.jpg" alt="" />
-							<!-- Overlay Box -->
-							<div class="overlay-box">
-								<div class="overlay-inner">
-									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
-										<div class="category">Commercial</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Gallery Block -->
-				<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<img src="assets/images/gallery/5.jpg" alt="" />
-							<!-- Overlay Box -->
-							<div class="overlay-box">
-								<div class="overlay-inner">
-									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
-										<div class="category">Commercial</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Gallery Block -->
-				<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<img src="assets/images/gallery/6.jpg" alt="" />
-							<!-- Overlay Box -->
-							<div class="overlay-box">
-								<div class="overlay-inner">
-									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
-										<div class="category">Commercial</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
 			</div>
 		</div>
-	</section>
+		
+		<div class="row clearfix">
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-8 col-md-12 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/2.jpg" alt="Fire Fighting Systems Installation" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="gallery.html">Fire Fighting Systems</a></h4>
+									<div class="category">Industrial & Commercial</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/3.jpg" alt="CCTV Surveillance Installation" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="gallery.html">CCTV Surveillance</a></h4>
+									<div class="category">Corporate & Residential</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/4.jpg" alt="Fire Alarm & Detection Systems" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="gallery.html">Fire Alarm & Detection</a></h4>
+									<div class="category">Commercial Buildings</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/5.jpg" alt="Access Control Systems" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="gallery.html">Access Control Systems</a></h4>
+									<div class="category">Offices & Institutions</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/6.jpg" alt="Pest Control Services" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="gallery.html">Pest Control Services</a></h4>
+									<div class="category">Residential & Commercial</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</section>
+
 	<!-- End Gallery Section -->
 	
 	<!-- Fluid Section One -->
     <section class="fluid-section-one">
-		<div class="logo-icon" style="background-image:url(assets/images/icons/logo-icon.png)"></div>
-		<!-- Icons Box -->
-		<div class="icons-box">
-			<div class="icon flaticon-radio"></div>
-			<div class="icon flaticon-pass"></div>
-			<div class="icon flaticon-key-lock"></div>
-		</div>
-    	<div class="outer-container clearfix">
-        	<!-- Content Column -->
-            <div class="content-column">
-            	<div class="inner-column">
-					<h2>The Only Personalized Service From TEKNIK Security System Experts</h2>
-					<div class="text">Ulamco aliquip ex ea commodo da consequat duis aute irure dolor reprehen derit voluptate cillum afugiat nula pariatur vita sagittis diam facilisis convallis dictumst sed ipsum.</div>
-					
-					<!-- Skills -->
-					<div class="skills">
+	<div class="logo-icon" style="background-image:url(assets/images/icons/logo-icon.png)"></div>
 
-						<!-- Skill Item -->
-						<div class="skill-item">
-							<div class="skill-header clearfix">
-								<div class="skill-title">Frontpoint System</div>
-							</div>
-							<div class="skill-bar">
-								<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="83">0</span>%</div></div>
-								<div class="bar-inner"><div class="bar progress-line" data-width="83"></div></div>
-							</div>
-						</div>
+	<!-- Icons Box -->
+	<div class="icons-box">
+		<div class="icon flaticon-alarm-1"></div>
+		<div class="icon flaticon-security-camera"></div>
+		<div class="icon flaticon-shield"></div>
+	</div>
 
-						<!-- Skill Item -->
-						<div class="skill-item">
-							<div class="skill-header clearfix">
-								<div class="skill-title">CCTV Cameras</div>
-							</div>
-							<div class="skill-bar">
-								<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="75">0</span>%</div></div>
-								<div class="bar-inner"><div class="bar progress-line" data-width="75"></div></div>
-							</div>
-						</div>
+	<div class="outer-container clearfix">
+		
+		<!-- Content Column -->
+		<div class="content-column">
+			<div class="inner-column">
+				<h2>
+					Personalized Safety & Protection Solutions
+					by Cosmos Enterprises
+				</h2>
 
-						<!-- Skill Item -->
-						<div class="skill-item">
-							<div class="skill-header clearfix">
-								<div class="skill-title">Home Automation</div>
-							</div>
-							<div class="skill-bar">
-								<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span>%</div></div>
-								<div class="bar-inner"><div class="bar progress-line" data-width="95"></div></div>
-							</div>
-						</div>
-
-					</div>
-					
+				<div class="text">
+					Cosmos Enterprises delivers customized fire safety,
+					CCTV surveillance, and pest control solutions designed
+					to meet the unique needs of residential, commercial,
+					and industrial environments. Our expert team ensures
+					compliance, reliability, and long-term protection.
 				</div>
+				
+				<!-- Skills -->
+				<div class="skills">
+
+					<!-- Skill Item -->
+					<div class="skill-item">
+						<div class="skill-header clearfix">
+							<div class="skill-title">Fire Fighting & Safety Systems</div>
+						</div>
+						<div class="skill-bar">
+							<div class="skill-percentage">
+								<div class="count-box">
+									<span class="count-text" data-speed="2000" data-stop="90">0</span>%
+								</div>
+							</div>
+							<div class="bar-inner">
+								<div class="bar progress-line" data-width="90"></div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Skill Item -->
+					<div class="skill-item">
+						<div class="skill-header clearfix">
+							<div class="skill-title">CCTV Surveillance Solutions</div>
+						</div>
+						<div class="skill-bar">
+							<div class="skill-percentage">
+								<div class="count-box">
+									<span class="count-text" data-speed="2000" data-stop="85">0</span>%
+								</div>
+							</div>
+							<div class="bar-inner">
+								<div class="bar progress-line" data-width="85"></div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Skill Item -->
+					<div class="skill-item">
+						<div class="skill-header clearfix">
+							<div class="skill-title">Pest Control & Sanitization</div>
+						</div>
+						<div class="skill-bar">
+							<div class="skill-percentage">
+								<div class="count-box">
+									<span class="count-text" data-speed="2000" data-stop="88">0</span>%
+								</div>
+							</div>
+							<div class="bar-inner">
+								<div class="bar progress-line" data-width="88"></div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				
 			</div>
-			
-			<!-- Image Column -->
-            <div class="image-column" style="background-image:url(assets/images/resource/image-1.jpg)">
-            	<figure class="image-box"><img src="assets/images/resource/image-1.jpg" alt=""></figure>
-            </div>
-			
 		</div>
-	</section>
+		
+		<!-- Image Column -->
+		<div class="image-column" style="background-image:url(assets/images/resource/image-1.jpg)">
+			<figure class="image-box">
+				<img src="assets/images/resource/image-1.jpg" alt="Cosmos Safety & Security Solutions">
+			</figure>
+		</div>
+		
+	</div>
+</section>
+
 	<!-- End Fluid Section One -->
 	
 	<!-- Team Section -->
@@ -626,168 +800,152 @@
 	
 	<!-- Testimonial Section -->
 	<section class="testimonial-section" style="background-image: url(assets/images/background/1.jpg)">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title light centered">
-				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
-				</div>
-				<h2>Clients Reviews</h2>
-				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
+	<div class="auto-container">
+		
+		<!-- Sec Title -->
+		<div class="sec-title light centered">
+			<div class="icon">
+				<img src="assets/images/icons/separater.png" alt="" />
 			</div>
-			
-			<div class="inner-container">
-				<div class="testimonial-carousel owl-carousel owl-theme">
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-1.jpg" alt="" />
-									</div>
-									<h6>Donald James</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
+			<h2>What Our Clients Say</h2>
+			<div class="text">
+				Trusted by residential, commercial, and industrial clients
+				for reliable safety, security, and hygiene solutions.
+			</div>
+		</div>
+		
+		<div class="inner-container">
+			<div class="testimonial-carousel owl-carousel owl-theme">
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Professional Fire Safety Installation
+						</div>
+						<div class="text">
+							Cosmos Enterprises provided a complete fire fighting and
+							alarm system for our facility. Their team ensured compliance,
+							proper testing, and smooth handover. Highly reliable service.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-1.jpg" alt="" />
+								</div>
+								<h6>Rajesh Mehta</h6>
+								<div class="designation">Facility Manager</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
 								</div>
 							</div>
 						</div>
 					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-2.jpg" alt="" />
-									</div>
-									<h6>Riya Samson</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Excellent CCTV Surveillance Solutions
+						</div>
+						<div class="text">
+							We installed CCTV cameras and access control systems
+							through Cosmos Enterprises. The installation was clean,
+							well-planned, and supported with AMC services.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-2.jpg" alt="" />
+								</div>
+								<h6>Anita Sharma</h6>
+								<div class="designation">Business Owner</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
 								</div>
 							</div>
 						</div>
 					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-1.jpg" alt="" />
-									</div>
-									<h6>Donald James</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Effective Pest Control Services
+						</div>
+						<div class="text">
+							The pest control and sanitization services were highly
+							effective and safe. Their eco-friendly approach helped
+							us maintain hygiene across our premises.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-1.jpg" alt="" />
+								</div>
+								<h6>Vikram Patel</h6>
+								<div class="designation">Operations Head</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
 								</div>
 							</div>
 						</div>
 					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-2.jpg" alt="" />
-									</div>
-									<h6>Riya Samson</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Reliable AMC & Support Services
+						</div>
+						<div class="text">
+							Cosmos Enterprises manages our annual maintenance
+							contracts for fire and CCTV systems. Their response
+							time and service quality are excellent.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-2.jpg" alt="" />
+								</div>
+								<h6>Neha Verma</h6>
+								<div class="designation">Admin Manager</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
 								</div>
 							</div>
 						</div>
 					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-1.jpg" alt="" />
-									</div>
-									<h6>Donald James</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="title"><span class="icon flaticon-quote-4"></span> Real Security Products Installation.</div>
-							<div class="text">At dolore magna aliqua umt enim ad minim veniam quis nostrud ulamco aliquip commodo da consequat duis aute irure dolor repreh derit voluptate cillum dolore afugiat ipsum nula. Lorem ipsum dolor amet, consectetur adipisicing elits.</div>
-							<div class="author-box">
-								<div class="author-inner">
-									<div class="author-image">
-										<img src="assets/images/resource/author-2.jpg" alt="" />
-									</div>
-									<h6>Riya Samson</h6>
-									<div class="designation">our Customer</div>
-									<div class="rating">
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					
 				</div>
 				
 			</div>
 		</div>
-	</section>
+	</div>
+</section>
+	
 	<!-- End Testimonial Section -->
 	
 	<!-- News Section -->

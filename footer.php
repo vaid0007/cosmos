@@ -5,7 +5,7 @@
 				<div class="row clearfix">
 					<!-- Column -->
 					<div class="text-column col-lg-4 col-md-12 col-sm-12">
-						<div class="text">Visit Our Office : 68 Kings Street, North <br> Avenue California 33089 USA</div>
+						<div class="text">Visit Our Office : MF-9, Sanjay Nagar, Sector-23, Ghaziabad-201002</div>
 					</div>
 					<!-- Column -->
 					<div class="info-column col-lg-8 col-md-12 col-sm-12">
@@ -17,7 +17,7 @@
 									<li>
 										<span class="icon flaticon-call-3"></span>
 										Any Questions?
-										<strong>700.231.0025</strong>
+										<strong>8860792988</strong>
 									</li>
 								</ul>
 							</div>
@@ -61,7 +61,7 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index-2.html"><img src="assets/images/footer-logo.png" alt="" /></a>
+                                    	<a href="index-2.html"><img src="assets/images/logo_cosmos.png" alt="" /></a>
                                     </div>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat sed duis aut irure dolor reprehens.</div>
 									<div class="social-links">
@@ -71,7 +71,7 @@
 										<a href="#" class="fa fa-linkedin"></a>
 									</div>
 									<div class="copyright">
-									© 2020 TEKNIK Home Security.<br>
+									© 2026 <a href="https://www.freelancesociety.in/">freelancesociety</a><br>
 									<a href="#">Terms</a>  |  <a href="#">Privacy Policy</a></div>
 								</div>
 							</div>
@@ -120,28 +120,12 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget location-widget">
 									<h5>Our Locations</h5>
-									<div class="form-group">
-										<select class="custom-select-box">
-											<option>California, USA</option>
-											<option>Chicago, USA</option>
-											<option>New York, USA</option>
-										</select>
-									</div>
 									
 									<!-- Map Boxed -->
 									<div class="map-boxed">
 										<!--Map Outer-->
 										<div class="map-outer">
-											<div class="map-canvas"
-												data-zoom="12"
-												data-lat="-37.817085"
-												data-lng="144.955631"
-												data-type="roadmap"
-												data-hue="#ffc400"
-												data-title="Envato"
-												data-icon-path="assets/images/icons/map-marker.png"
-												data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-											</div>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13999.650572583454!2d77.44310575250032!3d28.692259660111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf17448e07149%3A0x2ec279f3084ca048!2sSector%2023%2C%20Sanjay%20Nagar%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201017!5e0!3m2!1sen!2sin!4v1768294309757!5m2!1sen!2sin" width="280" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 										</div>
 									</div>
 									

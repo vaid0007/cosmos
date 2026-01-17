@@ -3,25 +3,58 @@
 
 <!-- Mirrored from cdn.bolvo.com/teknik/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
 <head>
-<meta charset="utf-8">
-<title>Teknik HTML-5 Template | Contact</title>
-<!-- Stylesheets -->
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<link href="assets/css/responsive.css" rel="stylesheet">
+    <meta charset="utf-8">
 
-<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
+    <!-- SEO Title -->
+    <title>Contact Cosmos Enterprises | Fire Safety & Security Solutions</title>
 
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <!-- SEO Description -->
+    <meta name="description" content="Contact Cosmos Enterprises for fire fighting systems, CCTV surveillance, access control, pest control, and complete safety & security solutions. Get a free quote today." />
 
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- SEO Keywords -->
+    <meta name="keywords" content="Contact Cosmos Enterprises, Fire Safety Contact, CCTV Installation Contact, Security Systems Company, Access Control Solutions, Fire Fighting Services" />
 
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <!-- Author -->
+    <meta name="author" content="Cosmos Enterprises">
+
+    <!-- Robots -->
+    <meta name="robots" content="index, follow">
+
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <!-- ================== FAVICONS (UNCHANGED PATH) ================== -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="assets/images/favicons/favicon.png">
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0b3c5d">
+
+    <!-- ================== STYLESHEETS (UNCHANGED) ================== -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
+
+    <!-- Google Font (UNCHANGED) -->
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- Open Graph (Social Sharing) -->
+    <meta property="og:title" content="Contact Cosmos Enterprises | Safety & Security Experts">
+    <meta property="og:description" content="Get in touch with Cosmos Enterprises for reliable fire safety systems, CCTV surveillance, and security solutions.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="assets/images/favicons/android-chrome-512x512.png">
+
+    <!-- IE Support -->
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+        <script src="js/respond.js"></script>
+    <![endif]-->
 </head>
+
 
 <body class="hidden-bar-wrapper">
 

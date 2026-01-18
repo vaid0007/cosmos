@@ -4,7 +4,7 @@
 <!-- Mirrored from cdn.bolvo.com/teknik/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:54 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Teknik HTML-5 Template | Services</title>
+<title>COSMOS | Services</title>
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -36,7 +36,7 @@
     	<div class="auto-container">
 			<h1>Our Services</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>What We Do</li>
 			</ul>
         </div>
@@ -164,13 +164,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 88607 92988</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -188,7 +188,7 @@
 				<div class="overlay-box">
 					<div class="overlay-inner">
 						<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="fa fa-play"><i class="ripple"></i></span></a>
-						<h3><a href="#">Get State-of-the-Art Security Technologies from Teknik Security</a></h3>
+						<h3><a href="#">Get State-of-the-Art Security Technologies from COMSOS ENTERPRISES</a></h3>
 						<div class="text">We protect your family like no-one. Dolore magna aliqut aliquip exa comod consequat duis irure dolor.</div>
 					</div>
 				</div>
@@ -400,7 +400,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

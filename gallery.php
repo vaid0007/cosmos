@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from cdn.bolvo.com/teknik/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:55 GMT -->
+<!-- Mirrored from cdn.bolvo.com/teknik/gallery.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:55 GMT -->
 <head>
     <meta charset="utf-8">
 
@@ -69,7 +69,7 @@
     	<div class="auto-container">
 			<h1>Photo Gallery</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>Gallery</li>
 			</ul>
         </div>
@@ -90,7 +90,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -108,7 +108,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -126,7 +126,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -144,7 +144,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -162,7 +162,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -180,7 +180,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -198,7 +198,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.html">Automation System</a></h4>
+										<h4><a href="gallery.php">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -211,7 +211,7 @@
 			
 			<!-- Button Box -->
 			<div class="btn-box text-center">
-				<a class="theme-btn btn-style-three" href="blog-single.html"><span class="txt">Load More &nbsp;<i class="fa fa-angle-right"></i></span></a>
+				<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Load More &nbsp;<i class="fa fa-angle-right"></i></span></a>
 			</div>
 			
 		</div>
@@ -232,7 +232,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>
@@ -258,5 +258,5 @@
 <!--End Google Map APi-->
 </body>
 
-<!-- Mirrored from cdn.bolvo.com/teknik/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:57 GMT -->
+<!-- Mirrored from cdn.bolvo.com/teknik/gallery.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:57 GMT -->
 </html>

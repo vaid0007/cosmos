@@ -40,7 +40,7 @@
             	<div class="inner-container clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index-2.html"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index.php"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
                     </div>
                     
 					<div class="nav-outer clearfix">
@@ -64,7 +64,7 @@
 									</li>
 									<li class="dropdown"><a href="#">Services</a>
 										<ul>
-											<li><a href="services.html">Services</a></li>
+											<li><a href="services.php">Services</a></li>
 											<li><a href="service-detail.html">Service Detail</a></li>
 										</ul>
 									</li>
@@ -88,7 +88,7 @@
 							
 							<!-- Quote Btn -->
 							<div class="btn-box">
-								<a href="contact.html" class="quote-btn theme-btn">security estimate</a>
+								<a href="contact.php" class="quote-btn theme-btn">security estimate</a>
 							</div>
 
 						</div>
@@ -105,7 +105,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index-2.html" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
+                    <a href="index.php" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
@@ -124,7 +124,7 @@
             <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index-2.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div><!-- End Mobile Menu -->

@@ -72,7 +72,7 @@
     	<div class="auto-container">
 			<h1>blog classic</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>Latest News</li>
 			</ul>
         </div>
@@ -92,7 +92,7 @@
 						<div class="news-block-two">
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="image">
-									<a href="blog-single.html"><img src="assets/images/resource/news-1.jpg" alt="" /></a>
+									<a href="blog.php"><img src="assets/images/resource/news-1.jpg" alt="" /></a>
 								</div>
 								<div class="lower-content">
 									<ul class="post-meta">
@@ -100,9 +100,9 @@
 										<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 										<li><span class="icon flaticon-comment"></span>Comments (43)</li>
 									</ul>
-									<h3><a href="blog-single.html">Tailored to your needs, alarm monitoring & smart-home features</a></h3>
+									<h3><a href="blog.php">Tailored to your needs, alarm monitoring & smart-home features</a></h3>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip exd ea comod da consequat duis aute irure dolor reprehenderit voluptate cillum dolore afugiat nula pariatur vitae sagittis diam facilisis convallis dictumst sed ipsum tempore.</div>
-									<a class="theme-btn btn-style-three" href="blog-single.html"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
+									<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -111,7 +111,7 @@
 						<div class="news-block-two">
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="image">
-									<a href="blog-single.html"><img src="assets/images/resource/news-2.jpg" alt="" /></a>
+									<a href="blog.php"><img src="assets/images/resource/news-2.jpg" alt="" /></a>
 									<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image overlay-box"><span class="icon flaticon-play-arrow"><i class="ripple"></i></span></a>
 								</div>
 								<div class="lower-content">
@@ -120,9 +120,9 @@
 										<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 										<li><span class="icon flaticon-comment"></span>Comments (43)</li>
 									</ul>
-									<h3><a href="blog-single.html">Get the real protection from Teknik - Highly trained professionals</a></h3>
+									<h3><a href="blog.php">Get the real protection from COSMOS - Highly trained professionals</a></h3>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip exd ea comod da consequat duis aute irure dolor reprehenderit voluptate cillum dolore afugiat nula pariatur vitae sagittis diam facilisis convallis dictumst sed ipsum tempore.</div>
-									<a class="theme-btn btn-style-three" href="blog-single.html"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
+									<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -130,7 +130,7 @@
 						<!-- News Block Three -->
 						<div class="news-block-three">
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-								<h3><a href="blog-single.html">Fully Integrated & Automated System That Seamlessly Connects.</a></h3>
+								<h3><a href="blog.php">Fully Integrated & Automated System That Seamlessly Connects.</a></h3>
 								<div class="author">--- Mark J. Zamberg</div>
 							</div>
 						</div>
@@ -139,7 +139,7 @@
 						<div class="news-block-two">
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="image">
-									<a href="blog-single.html"><img src="assets/images/resource/news-3.jpg" alt="" /></a>
+									<a href="blog.php"><img src="assets/images/resource/news-3.jpg" alt="" /></a>
 								</div>
 								<div class="lower-content">
 									<ul class="post-meta">
@@ -147,9 +147,9 @@
 										<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 										<li><span class="icon flaticon-comment"></span>Comments (43)</li>
 									</ul>
-									<h3><a href="blog-single.html">Secure your home and office network with the help of Teknik</a></h3>
+									<h3><a href="blog.php">Secure your home and office network with the help of COSMOS</a></h3>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip exd ea comod da consequat duis aute irure dolor reprehenderit voluptate cillum dolore afugiat nula pariatur vitae sagittis diam facilisis convallis dictumst sed ipsum tempore.</div>
-									<a class="theme-btn btn-style-three" href="blog-single.html"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
+									<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -158,7 +158,7 @@
 						<div class="news-block-two">
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="image">
-									<a href="blog-single.html"><img src="assets/images/resource/news-4.jpg" alt="" /></a>
+									<a href="blog.php"><img src="assets/images/resource/news-4.jpg" alt="" /></a>
 								</div>
 								<div class="lower-content">
 									<ul class="post-meta">
@@ -166,9 +166,9 @@
 										<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 										<li><span class="icon flaticon-comment"></span>Comments (43)</li>
 									</ul>
-									<h3><a href="blog-single.html">How to get the best protection - Simple SmartHome Systems</a></h3>
+									<h3><a href="blog.php">How to get the best protection - Simple SmartHome Systems</a></h3>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip exd ea comod da consequat duis aute irure dolor reprehenderit voluptate cillum dolore afugiat nula pariatur vitae sagittis diam facilisis convallis dictumst sed ipsum tempore.</div>
-									<a class="theme-btn btn-style-three" href="blog-single.html"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
+									<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Read More &nbsp;<i class="fa fa-angle-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -202,7 +202,7 @@
 									<h4>Search</h4>
 								</div>
 								
-								<form method="post" action="https://cdn.bolvo.com/teknik/contact.html">
+								<form method="post" action="">
 									<div class="form-group">
 										<input type="search" name="search-field" value="" placeholder="keyword ..." required>
 										<button type="submit"><span class="icon fa fa-search"></span></button>
@@ -238,18 +238,18 @@
 								</div>
 								
 								<article class="post">
-									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-1.jpg" alt=""><a href="blog-single.html" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
-									<div class="text"><a href="blog-single.html">Alarm monitoring & smart-home</a></div>
+									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-1.jpg" alt=""><a href="blog.php" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
+									<div class="text"><a href="blog.php">Alarm monitoring & smart-home</a></div>
 									<div class="post-info">October 8, 2019</div>
 								</article>
 								<article class="post">
-									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-2.jpg" alt=""><a href="blog-single.html" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
-									<div class="text"><a href="blog-single.html">Get the real protec-tion from Teknik</a></div>
+									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-2.jpg" alt=""><a href="blog.php" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
+									<div class="text"><a href="blog.php">Get the real protec-tion from COSMOS</a></div>
 									<div class="post-info">October 8, 2019</div>
 								</article>
 								<article class="post">
-									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-3.jpg" alt=""><a href="blog-single.html" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
-									<div class="text"><a href="blog-single.html">Fully integrated and automated</a></div>
+									<figure class="post-thumb"><img src="assets/images/resource/post-thumb-3.jpg" alt=""><a href="blog.php" class="overlay-box"><span class="icon fa fa-link"></span></a></figure>
+									<div class="text"><a href="blog.php">Fully integrated and automated</a></div>
 									<div class="post-info">October 8, 2019</div>
 								</article>
 								
@@ -356,13 +356,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 88607 92988</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -384,7 +384,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

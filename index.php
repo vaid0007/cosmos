@@ -75,7 +75,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.html" class="theme-btn btn-style-one">
+					<a href="contact.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -98,7 +98,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.html" class="theme-btn btn-style-one">
+					<a href="contact.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -121,7 +121,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.html" class="theme-btn btn-style-one">
+					<a href="contact.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -243,13 +243,13 @@
 			<div class="images-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<div class="image">
-						<img src="assets/images/resource/security-1.jpg" alt="Fire Fighting Systems" />
+						<img src="assets/images/resource/security-1a.jpg" alt="Fire Fighting Systems" />
 					</div>
 					<div class="image">
-						<img src="assets/images/resource/security-2.jpg" alt="CCTV Surveillance Systems" />
+						<img src="assets/images/resource/security-2a.jpg" alt="CCTV Surveillance Systems" />
 					</div>
 					<div class="image">
-						<img src="assets/images/resource/security-3.jpg" alt="Professional Pest Control" />
+						<img src="assets/images/resource/security-3a.jpg" alt="Professional Pest Control" />
 					</div>
 				</div>
 			</div>
@@ -446,7 +446,7 @@
 		
 		<!-- Video Gallery -->
 		<div class="video-gallery">
-			<img src="assets/images/gallery/1.jpg" alt="Cosmos Safety & Security Solutions" />
+			<img src="assets/images/gallery/1a.jpg" alt="Cosmos Safety & Security Solutions" />
 			<div class="overlay-box">
 				<div class="overlay-inner">
 					<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box">
@@ -476,7 +476,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.html">Fire Fighting Systems</a></h4>
+									<h4><a href="gallery.php">Fire Fighting Systems</a></h4>
 									<div class="category">Industrial & Commercial</div>
 								</div>
 							</div>
@@ -493,7 +493,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.html">CCTV Surveillance</a></h4>
+									<h4><a href="gallery.php">CCTV Surveillance</a></h4>
 									<div class="category">Corporate & Residential</div>
 								</div>
 							</div>
@@ -506,11 +506,11 @@
 			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<img src="assets/images/gallery/4.jpg" alt="Fire Alarm & Detection Systems" />
+						<img src="assets/images/gallery/4a.jpg" alt="Fire Alarm & Detection Systems" />
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.html">Fire Alarm & Detection</a></h4>
+									<h4><a href="gallery.php">Fire Alarm & Detection</a></h4>
 									<div class="category">Commercial Buildings</div>
 								</div>
 							</div>
@@ -527,7 +527,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.html">Access Control Systems</a></h4>
+									<h4><a href="gallery.php">Access Control Systems</a></h4>
 									<div class="category">Offices & Institutions</div>
 								</div>
 							</div>
@@ -544,7 +544,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.html">Pest Control Services</a></h4>
+									<h4><a href="gallery.php">Pest Control Services</a></h4>
 									<div class="category">Residential & Commercial</div>
 								</div>
 							</div>
@@ -965,39 +965,39 @@
 				<!-- News Block -->
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog-single.html">Secure Your Office Network With Help of TEKNIK</a></h5>
+						<h5><a href="blog.php">Secure Your Office Network With Help of COSMOS</a></h5>
 						<ul class="post-meta">
 							<li><span class="icon flaticon-user"></span>Admin</li>
 							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 						</ul>
 						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog-single.html">Read More <span class="fa fa-angle-right"></span></a>
+						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
 					</div>
 				</div>
 				
 				<!-- News Block -->
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog-single.html">Get Real Protection - Highly Trained Professionals</a></h5>
+						<h5><a href="blog.php">Get Real Protection - Highly Trained Professionals</a></h5>
 						<ul class="post-meta">
 							<li><span class="icon flaticon-user"></span>Admin</li>
 							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 						</ul>
 						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog-single.html">Read More <span class="fa fa-angle-right"></span></a>
+						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
 					</div>
 				</div>
 				
 				<!-- News Block -->
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog-single.html">How to Get Best Protection From #1  Security Firm</a></h5>
+						<h5><a href="blog.php">How to Get Best Protection From #1  Security Firm</a></h5>
 						<ul class="post-meta">
 							<li><span class="icon flaticon-user"></span>Admin</li>
 							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
 						</ul>
 						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog-single.html">Read More <span class="fa fa-angle-right"></span></a>
+						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
 					</div>
 				</div>
 				
@@ -1016,8 +1016,8 @@
 					<h1>Introducing The Most <br> Easiest Security Systems</h1>
 					<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
 					<div class="btns-box clearfix">
-						<a href="contact.html" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
-						<a href="contact.html" class="talk">Talk With Us <span>1.700.231.0025</span></a>
+						<a href="contact.php" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
+						<a href="contact.php" class="talk">Talk With Us <span>1. +91 88607 92988</span></a>
 					</div>
 				</div>
 			</div>
@@ -1061,7 +1061,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

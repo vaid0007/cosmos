@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from cdn.bolvo.com/teknik/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
+<!-- Mirrored from cdn.bolvo.com/teknik/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
 <head>
     <meta charset="utf-8">
 
@@ -69,7 +69,7 @@
     	<div class="auto-container">
 			<h1>get in touch</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>Contact us</li>
 			</ul>
         </div>
@@ -169,7 +169,7 @@
                 	<div class="content">
                         <!-- Contact Form -->
                         <div class="contact-form">
-                            <form method="post" action="https://cdn.bolvo.com/teknik/contact.html">
+                            <form method="post" action="">
                                 <div class="row clearfix">
                                     
 									<div class="form-group col-md-6 col-sm-6 col-xs-12">
@@ -239,13 +239,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 88607 92988</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -267,7 +267,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>
@@ -292,5 +292,5 @@
 <!--End Google Map APi-->
 </body>
 
-<!-- Mirrored from cdn.bolvo.com/teknik/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
+<!-- Mirrored from cdn.bolvo.com/teknik/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
 </html>

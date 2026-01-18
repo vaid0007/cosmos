@@ -71,7 +71,7 @@
     	<div class="auto-container">
 			<h1>About Us</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>About</li>
 			</ul>
         </div>
@@ -86,13 +86,13 @@
 				<!-- Content Column -->
 				<div class="content-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="title"><span class="icon"><img src="assets/images/icons/separater.png" alt="" /></span> TEKNIK - Home Security</div>
+						<div class="title"><span class="icon"><img src="assets/images/icons/separater.png" alt="" /></span> COSMOS - Home Security</div>
 						<h2>We’re a global residential & Commercial security provider since 2005</h2>
 						<div class="text">
 							<p>At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat duis aute irure dolor reprehen derit voluptate cillum dolore afugiat nula pariatur.</p>
 							<p>Vitae sagittis diam facilis convallis dictumst sed ipsum tempore. Excepteur sint occaecat aidatat non proident qu officia deserunt mollit.</p>
 						</div>
-						<div class="question">Call to ask any question <a href="#">1.700.231.0025</a></div>
+						<div class="question">Call to ask any question <a href="#">1. +91 88607 92988</a></div>
 						<div class="signature">Bores Johnson</div>
 						<div class="designation">Expert Security Advisor</div>
 					</div>
@@ -320,8 +320,8 @@
 					<h1>Introducing The Most <br> Easiest Security Systems</h1>
 					<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
 					<div class="btns-box clearfix">
-						<a href="contact.html" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
-						<a href="contact.html" class="talk">Talk With Us <span>1.700.231.0025</span></a>
+						<a href="contact.php" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
+						<a href="contact.php" class="talk">Talk With Us <span>1. +91 88607 92988</span></a>
 					</div>
 				</div>
 			</div>
@@ -476,13 +476,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 88607 92988</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -504,7 +504,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

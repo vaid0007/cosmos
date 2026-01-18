@@ -28,7 +28,7 @@
 									<li>
 										<span class="icon flaticon-email-5"></span>
 										Send Email
-										<strong>info@teknik.net</strong>
+										<strong>info@mail.net</strong>
 									</li>
 								</ul>
 							</div>
@@ -38,7 +38,7 @@
 								<ul class="contact-info-box">
 									<li>
 										<span class="icon flaticon-in-time"></span>
-										info@teknik.net
+										info@mail.net
 										<strong>9:00am - 6:00pm</strong>
 									</li>
 								</ul>
@@ -61,7 +61,7 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index-2.html"><img src="assets/images/logo_cosmos.png" alt="" /></a>
+                                    	<a href="index.php"><img src="assets/images/logo_cosmos.png" alt="" /></a>
                                     </div>
 									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat sed duis aut irure dolor reprehens.</div>
 									<div class="social-links">
@@ -103,9 +103,9 @@
 							<!-- Footer Column -->
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
-									<h5>About TEKNIK</h5>
+									<h5>About COSMOS</h5>
 									<ul class="list-link">
-										<li><a href="#">About Teknik Security</a></li>
+										<li><a href="#">About Cosmos Security</a></li>
 										<li><a href="#">Work With Us</a></li>
 										<li><a href="#">Security Services</a></li>
 										<li><a href="#">Installation Packages</a></li>

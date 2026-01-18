@@ -64,8 +64,12 @@
 									</li>
 									<li class="dropdown"><a href="#">Services</a>
 										<ul>
-											<li><a href="services.php">Services</a></li>
-											<li><a href="service-detail.html">Service Detail</a></li>
+											<li><a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
+<li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
+<li><a href="access-control-automation.php">Access Control & Automation</a></li>
+<li><a href="pest-control-services.php">Pest Control Services</a></li>
+<li><a href="amc-support.php">AMC & Support</a></li>
+
 										</ul>
 									</li>
 									<li><a href="gallery.php">Gallery</a></li>

@@ -71,7 +71,7 @@
       <!-- Page Title -->
       <section
     class="page-title"
-    style="background-image: url(assets/images/background/3.jpg)"
+    style="background-image: url(assets/images/background/3b.jpg)"
 >
     <div class="auto-container">
         <h1>Pest Control Services</h1>
@@ -181,7 +181,7 @@
           <div class="image-column col-lg-6 col-md-6 col-sm-12">
             <div class="image">
               <img
-                src="assets/images/resource/service-1.jpg"
+                src="assets/images/resource/service-1a.jpg"
                 alt="Professional Pest Control Services"
               />
             </div>
@@ -189,7 +189,7 @@
           <div class="image-column col-lg-6 col-md-6 col-sm-12">
             <div class="image">
               <img
-                src="assets/images/resource/service-2.jpg"
+                src="assets/images/resource/service-1b.jpg"
                 alt="Residential and Commercial Pest Control"
               />
             </div>
@@ -244,7 +244,7 @@
 
             <div class="column col-lg-6 col-md-6 col-sm-12">
               <img
-                src="assets/images/resource/service-3.jpg"
+                src="assets/images/resource/service-1c.jpg"
                 alt="Pest Control Treatment"
               />
             </div>

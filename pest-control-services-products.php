@@ -73,7 +73,7 @@
     <!-- End Main Header -->
 	
 	<!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
+    <section class="page-title" style="background-image: url(assets/images/background/3b.jpg)">
     	<div class="auto-container">
 			<h1>Our Services</h1>
 			<ul class="page-breadcrumb">
@@ -94,7 +94,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="general-pest-control-services.php">
-                            <img src="assets/images/resource/security-4.jpg" alt="General Pest Control" />
+                            <img src="assets/images/resource/pest-1.jpg" alt="General Pest Control" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -116,7 +116,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="termite-control.html">
-                            <img src="assets/images/resource/security-5.jpg" alt="Termite Control Services" />
+                            <img src="assets/images/resource/pest-2.jpg" alt="Termite Control Services" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -138,7 +138,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="cockroach-ant-control.html">
-                            <img src="assets/images/resource/security-6.jpg" alt="Cockroach Ant Control" />
+                            <img src="assets/images/resource/pest-3.jpg" alt="Cockroach Ant Control" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -160,7 +160,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="rodent-control.html">
-                            <img src="assets/images/resource/security-7.jpg" alt="Rodent Control Services" />
+                            <img src="assets/images/resource/pest-4.jpg" alt="Rodent Control Services" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -182,7 +182,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="mosquito-fly-control.html">
-                            <img src="assets/images/resource/security-8.jpg" alt="Mosquito Fly Control" />
+                            <img src="assets/images/resource/pest-5.jpg" alt="Mosquito Fly Control" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -204,18 +204,18 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="sanitization-disinfection.html">
-                            <img src="assets/images/resource/security-9.jpg" alt="Sanitization and Disinfection" />
+                            <img src="assets/images/resource/pest-6.jpg" alt="Sanitization and Disinfection" />
                         </a>
                     </div>
                     <div class="lower-content">
                         <div class="hover-bg-color"></div>
                         <div class="upper-box">
                             <div class="icon flaticon-spray"></div>
-                            <h5><a href="sanitization-disinfection.html">Sanitization & Disinfection</a></h5>
+                            <h5><a href="sanitization-disinfection.html">Sanitization/Disinfection</a></h5>
                         </div>
                         <div class="text">
                             Professional sanitization services to ensure
-                            hygiene, safety, and infection control.
+                            hygiene and infection control.
                         </div>
                     </div>
                 </div>

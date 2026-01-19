@@ -92,7 +92,7 @@
 							<p>At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat duis aute irure dolor reprehen derit voluptate cillum dolore afugiat nula pariatur.</p>
 							<p>Vitae sagittis diam facilis convallis dictumst sed ipsum tempore. Excepteur sint occaecat aidatat non proident qu officia deserunt mollit.</p>
 						</div>
-						<div class="question">Call to ask any question <a href="#">1. +91 99993 88433</a></div>
+						<div class="question">Call to ask any question <a href="#">+91 99993 88433</a></div>
 						<div class="signature">Bores Johnson</div>
 						<div class="designation">Expert Security Advisor</div>
 					</div>
@@ -321,7 +321,7 @@
 					<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
 					<div class="btns-box clearfix">
 						<a href="contact.php" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
-						<a href="contact.php" class="talk">Talk With Us <span>1. +91 99993 88433</span></a>
+						<a href="contact.php" class="talk">Talk With Us <span>+91 99993 88433</span></a>
 					</div>
 				</div>
 			</div>

@@ -1017,7 +1017,7 @@
 					<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
 					<div class="btns-box clearfix">
 						<a href="contact.php" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
-						<a href="contact.php" class="talk">Talk With Us <span>1. +91 99993 88433</span></a>
+						<a href="contact.php" class="talk">Talk With Us <span>+91 99993 88433</span></a>
 					</div>
 				</div>
 			</div>

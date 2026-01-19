@@ -151,7 +151,7 @@
             <div class="map-column">
                 <!--Map Outer-->
                 <div class="map-outer">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13999.650572583454!2d77.44310575250032!3d28.692259660111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf17448e07149%3A0x2ec279f3084ca048!2sSector%2023%2C%20Sanjay%20Nagar%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201017!5e0!3m2!1sen!2sin!4v1768294309757!5m2!1sen!2sin" width="100%" height="800px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2943.0002668690813!2d77.45899879127396!3d28.694526435397584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQxJzQxLjkiTiA3N8KwMjcnMzUuOSJF!5e0!3m2!1sen!2sin!4v1768811434902!5m2!1sen!2sin" width="100%" height="800px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
         

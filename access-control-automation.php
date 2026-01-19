@@ -118,7 +118,7 @@
 								<h3>Need Help?</h3>
 								<div class="title">Call us or Email</div>
 								<a href="tel:925-236-7498" class="phone">(925) 236 7498</a>
-								<a href="mailto:support@the-teknik.com" class="email">support@the-teknik.com</a>
+								<a href="mailto:cosmosenterprises34@gmail.com" class="email">cosmosenterprises34@gmail.com</a>
 							</div>
 						</div>
 						
@@ -314,7 +314,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

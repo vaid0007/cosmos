@@ -4,7 +4,7 @@
 <!-- Mirrored from cdn.bolvo.com/teknik/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:32:54 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Teknik HTML-5 Template | Services</title>
+<title>Cosmos | Services</title>
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -76,7 +76,7 @@
 								<h3>Need Help?</h3>
 								<div class="title">Call us or Email</div>
 								<a href="tel:925-236-7498" class="phone">(925) 236 7498</a>
-								<a href="mailto:support@the-teknik.com" class="email">support@the-teknik.com</a>
+								<a href="cosmosenterprises34@gmail.com" class="email">cosmosenterprises34@gmail.com</a>
 							</div>
 						</div>
 						
@@ -128,7 +128,7 @@
 								<h2>Best Protection From #1  Security Firm</h2>
 								<p>Consequat duis aute tirure dolor reprehenderit voluptate cillumys dolore afugiat nula pariatur vitae sagittis facilisis convallis dictumst sed ipsum tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exerc ullamco laboris nisi ut aliquip.</p>
 								<p>Voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui rat voluptatem sequi nesciunt. Neque porro quisquam est qu dolorem ipsum quia dolor sit amet, consectetur ad velit, sed quia non numquam eius modi tempora incidunt ut labore.</p>
-								<h2>Benefits of Teknik Security</h2>
+								<h2>Benefits of Cosmos Security</h2>
 								<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea consequat. Duis aute dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 								<div class="two-column">
 									<div class="row clearfix">
@@ -231,7 +231,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="https://cdn.bolvo.com/teknik/blog.html">
+	<form method="post" action="">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

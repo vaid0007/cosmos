@@ -97,8 +97,8 @@
 							<h4>Have a question or <br> Need to set up your <br> security system?</h4>
 							<div class="text">Give us a call and our experienced and friendly staff would be happy to assist you.</div>
 							<ul class="info-list">
-								<li><span class="icon flaticon-call-3"></span><a href="tel:1-700-231-0025">1-700-231-0025</a></li>
-								<li><span class="icon flaticon-email-5"></span><a href="mailto:support@teknik.net">support@teknik.net</a></li>
+								<li><span class="icon flaticon-call-3"></span><a href="tel:+91 88607 92988">+91 88607 92988</a></li>
+								<li><span class="icon flaticon-email-5"></span><a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -130,9 +130,9 @@
 				<div class="contact-box col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<h5>Contact us</h5>
-						<a class="phone" href="tel:+1-700-231-0025">1-700-231-0025</a>
+						<a class="phone" href="tel:++91 88607 92988">+91 88607 92988</a>
 						<div class="emails">
-							<a href="mailto:support@teknik-security.net">support@teknik-security.net</a>
+							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>
 							<a href="mailto:info@domain.com">info@domain.com</a>
 						</div>
 					</div>

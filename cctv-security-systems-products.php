@@ -74,10 +74,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
     	<div class="auto-container">
-			<h1>Our Services</h1>
+			<h1>CCTV & Security Systems Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
-				<li>What We Do</li>
+				<li><a href="index.html">Home</a></li>
+            <li>Services</li>
+            <li> <a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
+			<li>Products</li>
 			</ul>
         </div>
     </section>
@@ -93,14 +95,14 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="cctv-installation.html">
-                            <img src="assets/images/resource/security-4.jpg" alt="CCTV Camera Installation" />
+                            <img src="assets/images/services/cctv_product1.jpg" alt="CCTV Camera Installation" />
                         </a>
                     </div>
                     <div class="lower-content">
                         <div class="hover-bg-color"></div>
                         <div class="upper-box">
                             <div class="icon flaticon-cctv"></div>
-                            <h5><a href="cctv-installation.html">CCTV Camera Installation</a></h5>
+                            <h5><a href="cctv-installation.html">CCTV Camera </br>Installation</a></h5>
                         </div>
                         <div class="text">
                             Professional installation of HD & IP CCTV cameras for homes,
@@ -115,7 +117,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="video-surveillance.html">
-                            <img src="assets/images/resource/security-5.jpg" alt="Video Surveillance Monitoring" />
+                            <img src="assets/images/services/cctv_product2.jpg" alt="Video Surveillance Monitoring" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -137,7 +139,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="video-door-phone.html">
-                            <img src="assets/images/resource/security-6.jpg" alt="Video Door Phone Intercom" />
+                            <img src="assets/images/services/cctv_product3.jpg" alt="Video Door Phone Intercom" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -159,14 +161,14 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="alarm-system.html">
-                            <img src="assets/images/resource/security-7.jpg" alt="Intruder Alarm System" />
+                            <img src="assets/images/services/cctv_product4.jpg" alt="Intruder Alarm System" />
                         </a>
                     </div>
                     <div class="lower-content">
                         <div class="hover-bg-color"></div>
                         <div class="upper-box">
                             <div class="icon flaticon-keyboard"></div>
-                            <h5><a href="alarm-system.html">Intruder Alarm System</a></h5>
+                            <h5><a href="alarm-system.html">Intruder Alarm </br>System</a></h5>
                         </div>
                         <div class="text">
                             Advanced intrusion detection and alarm systems for
@@ -181,7 +183,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="networking.html">
-                            <img src="assets/images/resource/security-8.jpg" alt="Structured Cabling Networking" />
+                            <img src="assets/images/services/cctv_product5.jpg" alt="Structured Cabling Networking" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -203,14 +205,14 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="cctv-repair.html">
-                            <img src="assets/images/resource/security-9.jpg" alt="CCTV Repair AMC" />
+                            <img src="assets/images/services/cctv_product6.jpg" alt="CCTV Repair AMC" />
                         </a>
                     </div>
                     <div class="lower-content">
                         <div class="hover-bg-color"></div>
                         <div class="upper-box">
                             <div class="icon flaticon-telephone-1"></div>
-                            <h5><a href="cctv-repair.html">CCTV Repair & AMC</a></h5>
+                            <h5><a href="cctv-repair.html">CCTV Repair & </br>AMC</a></h5>
                         </div>
                         <div class="text">
                             Preventive maintenance, repairs, and AMC services

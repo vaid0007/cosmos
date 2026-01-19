@@ -75,10 +75,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
     	<div class="auto-container">
-			<h1>Our Services</h1>
+			<h1>Fire Fighting Systems Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
-				<li>What We Do</li>
+				<li><a href="index.php">home</a></li>
+            <li>Services</li>
+            <li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
+			<li>Products</li>
 			</ul>
         </div>
     </section>
@@ -94,7 +96,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="fire-hydrant-system.html">
-                    <img src="assets/images/resource/security-4.jpg" alt="Fire Hydrant System" />
+                    <img src="assets/images/services/fire_service_product01.jpg" alt="Fire Hydrant System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -116,7 +118,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="fire-sprinkler-system.html">
-                    <img src="assets/images/resource/security-5.jpg" alt="Fire Sprinkler System" />
+                    <img src="assets/images/services/fire_service_product_02.jpg" alt="Fire Sprinkler System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -160,7 +162,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="fire-extinguishers.html">
-                    <img src="assets/images/resource/security-7.jpg" alt="Fire Extinguishers" />
+                    <img src="assets/images/services/fire_service_product03.jpg" alt="Fire Extinguishers" />
                 </a>
             </div>
             <div class="lower-content">
@@ -182,7 +184,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="fire-pump-room.html">
-                    <img src="assets/images/resource/security-8.jpg" alt="Fire Pump Room System" />
+                    <img src="assets/images/services/fire_service_product04.jpg" alt="Fire Pump Room System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -204,7 +206,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="fire-safety-signage.html">
-                    <img src="assets/images/resource/security-9.jpg" alt="Fire Safety Signage" />
+                    <img src="assets/images/services/fire_service_product_05.jpg" alt="Fire Safety Signage" />
                 </a>
             </div>
             <div class="lower-content">

@@ -154,12 +154,12 @@
                 <div class="row clearfix">
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-1.jpg" alt="CCTV Camera Installation">
+                            <img src="assets/images/services/cctv_service_1.webp" alt="CCTV Camera Installation">
                         </div>
                     </div>
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-2.jpg" alt="Security Surveillance System">
+                            <img src="assets/images/services/cctv_service_3.webp" alt="Security Surveillance System">
                         </div>
                     </div>
                 </div>

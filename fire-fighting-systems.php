@@ -71,7 +71,7 @@
       <!-- Page Title -->
       <section
         class="page-title"
-        style="background-image: url(assets/images/background/3.jpg)"
+        style="background-image: url(assets/images/services/fire_service_banner.webp)"
       >
         <div class="auto-container">
           <h1>Fire Fighting Systems</h1>
@@ -180,7 +180,7 @@
           <div class="image-column col-lg-6 col-md-6 col-sm-12">
             <div class="image">
               <img
-                src="assets/images/resource/service-1.jpg"
+                src="assets/images/services/fire_service_2.jpg"
                 alt="Fire Fighting System Installation"
               />
             </div>
@@ -188,7 +188,7 @@
           <div class="image-column col-lg-6 col-md-6 col-sm-12">
             <div class="image">
               <img
-                src="assets/images/resource/service-2.jpg"
+                src="assets/images/services/fire_service_3.webp"
                 alt="Fire Safety & Protection Systems"
               />
             </div>
@@ -245,7 +245,7 @@
 
             <div class="column col-lg-6 col-md-6 col-sm-12">
               <img
-                src="assets/images/resource/service-3.jpg"
+                src="assets/images/services/fire_service_1.jpg"
                 alt="Fire Fighting Equipment"
               />
             </div>
@@ -262,60 +262,61 @@
           <div class="clearfix">
 
             <div class="featured-block col-lg-6 col-md-6 col-sm-12">
-              <div class="inner-box">
-                <div class="content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-fire-extinguisher"></span>
-                  </div>
-                  <h5>
-                    Fire <br />
-                    Extinguishers
-                  </h5>
-                </div>
-              </div>
-            </div>
+  <div class="inner-box">
+    <div class="content">
+      <div class="icon-box">
+        <span class="icon flaticon-fire"></span>
+      </div>
+      <h5>
+        Fire <br />
+        Extinguishers
+      </h5>
+    </div>
+  </div>
+</div>
 
-            <div class="featured-block col-lg-6 col-md-6 col-sm-12">
-              <div class="inner-box">
-                <div class="content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-alarm-1"></span>
-                  </div>
-                  <h5>
-                    Fire Alarm <br />
-                    & Detection
-                  </h5>
-                </div>
-              </div>
-            </div>
+<div class="featured-block col-lg-6 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="content">
+      <div class="icon-box">
+        <span class="icon flaticon-alarm-1"></span>
+      </div>
+      <h5>
+        Fire Alarm <br />
+        & Detection
+      </h5>
+    </div>
+  </div>
+</div>
 
-            <div class="featured-block col-lg-6 col-md-6 col-sm-12">
-              <div class="inner-box">
-                <div class="content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-water"></span>
-                  </div>
-                  <h5>
-                    Hydrant & <br />
-                    Sprinkler Systems
-                  </h5>
-                </div>
-              </div>
-            </div>
+<div class="featured-block col-lg-6 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="content">
+      <div class="icon-box">
+        <span class="icon flaticon-sprinkler"></span>
+      </div>
+      <h5>
+        Hydrant & <br />
+        Sprinkler Systems
+      </h5>
+    </div>
+  </div>
+</div>
 
-            <div class="featured-block col-lg-6 col-md-6 col-sm-12">
-              <div class="inner-box">
-                <div class="content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-exit"></span>
-                  </div>
-                  <h5>
-                    Emergency Exit <br />
-                    & Signage
-                  </h5>
-                </div>
-              </div>
-            </div>
+<div class="featured-block col-lg-6 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="content">
+      <div class="icon-box">
+        <span class="icon flaticon-exit-1"></span>
+      </div>
+      <h5>
+        Emergency Exit <br />
+        & Signage
+      </h5>
+    </div>
+  </div>
+</div>
+
 
           </div>
         </div>

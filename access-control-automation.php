@@ -72,7 +72,7 @@
     <?php include 'header.php'; ?>
     <!-- End Main Header -->
 		<!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
+    <section class="page-title" style="background-image: url(assets/images/services/AccessControl_banner.jpg)">
     <div class="auto-container">
         <h1>Access Control & Automation</h1>
         <ul class="page-breadcrumb">
@@ -155,12 +155,12 @@
                 <div class="row clearfix">
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-1.jpg" alt="Access Control Systems">
+                            <img src="assets/images/services/AccessControl_service_1.jpeg" alt="Access Control Systems">
                         </div>
                     </div>
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-2.jpg" alt="Smart Automation Solutions">
+                            <img src="assets/images/services/AccessControl_service_2.jpg" alt="Smart Automation Solutions">
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
                         </div>
 
                         <div class="column col-lg-6 col-md-6 col-sm-12">
-                            <img src="assets/images/resource/service-3.jpg" alt="Biometric Access Control">
+                            <img src="assets/images/services/AccessControl_service_3.jpg" alt="Biometric Access Control">
                         </div>
                     </div>
                 </div>

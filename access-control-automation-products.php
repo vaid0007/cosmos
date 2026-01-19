@@ -75,10 +75,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
     	<div class="auto-container">
-			<h1>Our Services</h1>
+			<h1>Access Control & Automation Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
-				<li>What We Do</li>
+				<li><a href="index.php">home</a></li>
+				<li>Services</li>
+                <li><a href="access-control-automation.php">Access Control & Automation</a></li>
+				<li>Products</li>
 			</ul>
         </div>
     </section>
@@ -94,7 +96,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="biometric-attendance-system.html">
-                    <img src="assets/images/resource/security-4.jpg" alt="Biometric Attendance System" />
+                    <img src="assets/images/services/AccessControl_product1.jpg" alt="Biometric Attendance System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -116,7 +118,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="rfid-access-control.html">
-                    <img src="assets/images/resource/security-5.jpg" alt="RFID Access Control System" />
+                    <img src="assets/images/services/AccessControl_product2.jpg" alt="RFID Access Control System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -138,7 +140,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="smart-door-locks.html">
-                    <img src="assets/images/resource/security-6.jpg" alt="Smart Door Locks" />
+                    <img src="assets/images/services/AccessControl_product3.jpg" alt="Smart Door Locks" />
                 </a>
             </div>
             <div class="lower-content">
@@ -160,7 +162,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="boom-barrier-turnstile.html">
-                    <img src="assets/images/resource/security-7.jpg" alt="Boom Barrier and Turnstile System" />
+                    <img src="assets/images/services/AccessControl_product4.jpg" alt="Boom Barrier and Turnstile System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -182,7 +184,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="epabx-ippbx-system.html">
-                    <img src="assets/images/resource/security-8.jpg" alt="EPABX IPPBX System" />
+                    <img src="assets/images/services/AccessControl_product5.jpg" alt="EPABX IPPBX System" />
                 </a>
             </div>
             <div class="lower-content">
@@ -204,7 +206,7 @@
         <div class="inner-box">
             <div class="image">
                 <a href="access-control-amc.html">
-                    <img src="assets/images/resource/security-9.jpg" alt="Access Control AMC Services" />
+                    <img src="assets/images/services/AccessControl_product6.jpg" alt="Access Control AMC Services" />
                 </a>
             </div>
             <div class="lower-content">

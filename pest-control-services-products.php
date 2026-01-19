@@ -93,7 +93,7 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image">
-                        <a href="general-pest-control.html">
+                        <a href="general-pest-control-services.php">
                             <img src="assets/images/resource/security-4.jpg" alt="General Pest Control" />
                         </a>
                     </div>
@@ -101,7 +101,7 @@
                         <div class="hover-bg-color"></div>
                         <div class="upper-box">
                             <div class="icon flaticon-bug"></div>
-                            <h5><a href="general-pest-control.html">General Pest Control</a></h5>
+                            <h5><a href="general-pest-control-services.php">General Pest Control</a></h5>
                         </div>
                         <div class="text">
                             Effective control of common pests to maintain
@@ -256,7 +256,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
+					<img src="assets/images/icons/separater1.png" alt="" />
 				</div>
 				<h2>Clients Reviews</h2>
 				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>

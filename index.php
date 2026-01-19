@@ -149,7 +149,7 @@
 							<div class="icon-box">
 							</div>
 							<h5>
-								<a href="#">
+								<a href="fire-fighting-systems.php">
 									Fire Fighting <br> & Safety Systems
 								</a>
 							</h5>
@@ -205,7 +205,7 @@
 				<div class="inner-column">
 					<div class="title">
 						<span class="icon">
-							<img src="assets/images/icons/separater.png" alt="" />
+							<img src="assets/images/icons/separater1.png" alt="" />
 						</span> 
 						Cosmos Enterprises – Safety & Security Solutions
 					</div>
@@ -268,7 +268,7 @@
 		<!-- Sec Title -->
 		<div class="sec-title centered">
 			<div class="icon">
-				<img src="assets/images/icons/separater.png" alt="" />
+				<img src="assets/images/icons/separater1.png" alt="" />
 			</div>
 			<h2>Premium Safety & Protection Services</h2>
 			<div class="text">
@@ -283,7 +283,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security.html">
+						<a href="cctv-security-systems.php">
 							<img src="assets/images/resource/security-4.jpg" alt="CCTV Surveillance Systems" />
 						</a>
 					</div>
@@ -291,7 +291,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-cctv"></div>
-							<h5><a href="cctv-security.html">CCTV Surveillance Systems</a></h5>
+							<h5><a href="cctv-security-systems.php">CCTV Surveillance Systems</a></h5>
 						</div>
 						<div class="text">
 							HD, IP, and AI-enabled CCTV solutions for real-time monitoring,
@@ -305,7 +305,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="fire-fighting.html">
+						<a href="fire-fighting-systems.php">
 							<img src="assets/images/resource/fireprotectionsystemcomponent.jpg" alt="Fire Fighting Systems" />
 						</a>
 					</div>
@@ -313,7 +313,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-shield"></div>
-							<h5><a href="fire-fighting.html">Fire Fighting</br> Systems</a></h5>
+							<h5><a href="fire-fighting-systems.php">Fire Fighting</br> Systems</a></h5>
 						</div>
 						<div class="text">
 							Complete fire protection solutions including hydrants,
@@ -327,7 +327,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="fire-fighting.html">
+						<a href="fire-fighting-systems.php">
 							<img src="assets/images/resource/security-6.jpg" alt="Fire Alarm Systems" />
 						</a>
 					</div>
@@ -335,7 +335,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-alarm-1"></div>
-							<h5><a href="fire-fighting.html">Fire Alarm &</br> Detection</a></h5>
+							<h5><a href="fire-fighting-systems.php">Fire Alarm &</br> Detection</a></h5>
 						</div>
 						<div class="text">
 							Smoke, heat, and multisensor detection systems for early
@@ -349,7 +349,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security.html">
+						<a href="cctv-security-systems.php">
 							<img src="assets/images/resource/security-7.jpg" alt="Access Control Systems" />
 						</a>
 					</div>
@@ -357,7 +357,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-keyboard"></div>
-							<h5><a href="cctv-security.html">Access Control</br> Systems</a></h5>
+							<h5><a href="cctv-security-systems.php">Access Control</br> Systems</a></h5>
 						</div>
 						<div class="text">
 							Biometric, RFID, and keypad-based access control solutions
@@ -371,7 +371,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security.html">
+						<a href="cctv-security-systems.php">
 							<img src="assets/images/resource/security-8.jpg" alt="Video Door Phones" />
 						</a>
 					</div>
@@ -379,7 +379,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-bell"></div>
-							<h5><a href="cctv-security.html">Video Door</br> Phones</a></h5>
+							<h5><a href="cctv-security-systems.php">Video Door</br> Phones</a></h5>
 						</div>
 						<div class="text">
 							Smart video door phones and intercom systems for secure
@@ -393,7 +393,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="pest-control.html">
+						<a href="pest-control-services.php">
 							<img src="assets/images/resource/disinfectfoggingservices.jpg" alt="Pest Control Services" />
 						</a>
 					</div>
@@ -401,7 +401,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-home"></div>
-							<h5><a href="pest-control.html">Pest Control</br> Services</a></h5>
+							<h5><a href="pest-control-services.php">Pest Control</br> Services</a></h5>
 						</div>
 						<div class="text">
 							Eco-friendly pest control, termite treatment, and
@@ -426,7 +426,7 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : 8860792988 <span></span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : 9999388433 <span></span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
@@ -665,7 +665,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
+					<img src="assets/images/icons/separater1.png" alt="" />
 				</div>
 				<h2>Our Executive Team</h2>
 				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
@@ -805,7 +805,7 @@
 		<!-- Sec Title -->
 		<div class="sec-title light centered">
 			<div class="icon">
-				<img src="assets/images/icons/separater.png" alt="" />
+				<img src="assets/images/icons/separater1.png" alt="" />
 			</div>
 			<h2>What Our Clients Say</h2>
 			<div class="text">
@@ -954,7 +954,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
+					<img src="assets/images/icons/separater1.png" alt="" />
 				</div>
 				<h2>Latest News</h2>
 				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
@@ -1017,7 +1017,7 @@
 					<div class="text">Aorem ipsum dolor sit amet consectetur adipisicing anim elit <br> dolore magna aliqua veniam quis nostrud.</div>
 					<div class="btns-box clearfix">
 						<a href="contact.php" class="theme-btn btn-style-one"><span class="txt"><i class="flaticon-shield-1"></i> Request a Free Quote</span></a>
-						<a href="contact.php" class="talk">Talk With Us <span>1. +91 88607 92988</span></a>
+						<a href="contact.php" class="talk">Talk With Us <span>1. +91 99993 88433</span></a>
 					</div>
 				</div>
 			</div>

@@ -256,7 +256,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="icon">
-					<img src="assets/images/icons/separater.png" alt="" />
+					<img src="assets/images/icons/separater1.png" alt="" />
 				</div>
 				<h2>Clients Reviews</h2>
 				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>

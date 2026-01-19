@@ -97,7 +97,7 @@
 							<h4>Have a question or <br> Need to set up your <br> security system?</h4>
 							<div class="text">Give us a call and our experienced and friendly staff would be happy to assist you.</div>
 							<ul class="info-list">
-								<li><span class="icon flaticon-call-3"></span><a href="tel:+91 88607 92988">+91 88607 92988</a></li>
+								<li><span class="icon flaticon-call-3"></span><a href="tel:+91 99993 88433">+91 99993 88433</a></li>
 								<li><span class="icon flaticon-email-5"></span><a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a></li>
 							</ul>
 						</div>
@@ -111,7 +111,7 @@
 				<div class="contact-box col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<h5>Corporate Office</h5>
-						<div class="text">68 Kings Street, Town Hall <br> North Avenue, California <br> 33089 USA</div>
+						<div class="text">MF-9, Sanjay Nagar, Sector-23<br>Ghaziabad-201002</div>
 					</div>
 				</div>
 				
@@ -120,8 +120,8 @@
 					<div class="inner-box">
 						<h5>Customer Support</h5>
 						<ul>
-							<li>Monday - Friday <br> 09:00 - 18:00</li>
-							<li>Saturday - Sunday <br> 10:00 - 16:00</li>
+							<li>Monday - Friday <br> 9:00am - 6:00pm</li>
+							<li>Saturday - Sunday <br> 10:00am - 4:00pm</li>
 						</ul>
 					</div>
 				</div>
@@ -130,7 +130,7 @@
 				<div class="contact-box col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<h5>Contact us</h5>
-						<a class="phone" href="tel:++91 88607 92988">+91 88607 92988</a>
+						<a class="phone" href="tel:++91 99993 88433">+91 99993 88433</a>
 						<div class="emails">
 							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>
 							<a href="mailto:info@domain.com">info@domain.com</a>
@@ -151,7 +151,7 @@
             <div class="map-column">
                 <!--Map Outer-->
                 <div class="map-outer">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d805184.6331292129!2d144.49266890254142!3d-37.97123689954809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2sMelbourne%20VIC%2C%20Australia!5e0!3m2!1sen!2s!4v1574408946759!5m2!1sen!2s" width="100%" height="800px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13999.650572583454!2d77.44310575250032!3d28.692259660111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf17448e07149%3A0x2ec279f3084ca048!2sSector%2023%2C%20Sanjay%20Nagar%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201017!5e0!3m2!1sen!2sin!4v1768294309757!5m2!1sen!2sin" width="100%" height="800px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
         
@@ -161,7 +161,7 @@
                 	<!-- Sec Title -->
 					<div class="sec-title">
 						<div class="icon">
-							<img src="assets/images/icons/separater.png" alt="" />
+							<img src="assets/images/icons/separater1.png" alt="" />
 						</div>
 						<h2>Send Message</h2>
 						<div class="text">Have a query? Submit to us here.</div>
@@ -239,7 +239,7 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 88607 92988</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->

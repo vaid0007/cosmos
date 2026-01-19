@@ -17,7 +17,7 @@
 									<li>
 										<span class="icon flaticon-call-3"></span>
 										Any Questions?
-										<strong>8860792988</strong>
+										<strong>9999388433</strong>
 									</li>
 								</ul>
 							</div>
@@ -125,7 +125,7 @@
 									<div class="map-boxed">
 										<!--Map Outer-->
 										<div class="map-outer">
-											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13999.650572583454!2d77.44310575250032!3d28.692259660111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf17448e07149%3A0x2ec279f3084ca048!2sSector%2023%2C%20Sanjay%20Nagar%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201017!5e0!3m2!1sen!2sin!4v1768294309757!5m2!1sen!2sin" width="280" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13999.650572583454!2d77.44310575250032!3d28.692259660111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf17448e07149%3A0x2ec279f3084ca048!2sSector%2023%2C%20Sanjay%20Nagar%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201017!5e0!3m2!1sen!2sin!4v1768294309757!5m2!1sen!2sin" width="380" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 										</div>
 									</div>
 									

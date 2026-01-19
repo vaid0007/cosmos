@@ -14,8 +14,8 @@
 					
 						<!-- Info List -->
                         <ul class="info-list">
-							<li><span class="icon fa fa-phone-square"></span> <a href="tel: 8860792988"> Call : 8860792988</a></li>
-							<li><span class="icon fa fa-envelope"></span> <a href="mailto:support@my-domain.com">Email : support@my-domain.com</a></li>
+							<li><span class="icon fa fa-phone-square"></span> <a href="tel: 9999388433"> Call : 9999388433</a></li>
+							<li><span class="icon fa fa-envelope"></span> <a href="mailto:cosmosenterprises34@gmail.com">Email : cosmosenterprises34@gmail.com</a></li>
 						</ul>
 						
                     </div>

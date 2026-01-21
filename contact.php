@@ -132,9 +132,7 @@
 						<h5>Contact us</h5>
 						<a class="phone" href="tel:++91 99993 88433">+91 99993 88433</a>
 						<div class="emails">
-							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>
-							<a href="mailto:info@domain.com">info@domain.com</a>
-						</div>
+							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>						</div>
 					</div>
 				</div>
 				
@@ -209,25 +207,56 @@
 	</section>
     <!-- End Fluid Section One -->
 	
-	<!-- Clients Section -->
+<!-- Clients Section -->
     <section class="clients-section">
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

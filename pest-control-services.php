@@ -130,7 +130,7 @@
                   <div class="widget-inner">
                     <h3>Need Help?</h3>
                     <div class="title">Call us or Email</div>
-                    <a href="tel:925-236-7498" class="phone">(925) 236 7498</a>
+                    <a href="tel: +91 99993 88433" class="phone">+91 99993 88433</a>
                     <a href="cosmosenterprises34@gmail.com" class="email"
                       >cosmosenterprises34@gmail.com</a
                     >

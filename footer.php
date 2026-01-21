@@ -4,11 +4,7 @@
 			<div class="upper-box">
 				<div class="row clearfix">
 					<!-- Column -->
-					<div class="text-column col-lg-4 col-md-12 col-sm-12">
-						<div class="text">Visit Our Office : MF-9, Sanjay Nagar, Sector-23, Ghaziabad-201002</div>
-					</div>
-					<!-- Column -->
-					<div class="info-column col-lg-8 col-md-12 col-sm-12">
+					<div class="info-column col-lg-12 col-md-12 col-sm-12">
 						<div class="row clearfix">
 							
 							<!-- Contact Info Box -->
@@ -28,7 +24,7 @@
 									<li>
 										<span class="icon flaticon-email-5"></span>
 										Send Email
-										<strong>info@mail.net</strong>
+										<strong>cosmosenterprises34@gmail.com</strong>
 									</li>
 								</ul>
 							</div>
@@ -38,7 +34,7 @@
 								<ul class="contact-info-box">
 									<li>
 										<span class="icon flaticon-in-time"></span>
-										info@mail.net
+										Opening Hours
 										<strong>9:00am - 6:00pm</strong>
 									</li>
 								</ul>
@@ -63,7 +59,10 @@
 									<div class="logo">
                                     	<a href="index.php"><img src="assets/images/logo_cosmos.png" alt="" /></a>
                                     </div>
-									<div class="text">At dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ulamco aliquip ex ea commodo da consequat sed duis aut irure dolor reprehens.</div>
+<div class="text">
+  COSMOS provides trusted CCTV and security solutions with advanced technology,
+  expert service, and complete peace of mind.
+</div>
 									<div class="social-links">
 										<a href="#" class="fa fa-facebook"></a>
 										<a href="#" class="fa fa-twitter"></a>
@@ -72,23 +71,24 @@
 									</div>
 									<div class="copyright">
 									© 2026 <a href="https://www.freelancesociety.in/">freelancesociety</a><br>
-									<a href="#">Terms</a>  |  <a href="#">Privacy Policy</a></div>
+									</div>
 								</div>
 							</div>
 							
 							<!-- Footer Column -->
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
-									<h5>Features & Benefits</h5>
+									<h5>Pages</h5>
 									<ul class="list-link">
-										<li><a href="#">Professional Monitoring</a></li>
-										<li><a href="#">Simple to Setup</a></li>
-										<li><a href="#">Many Customizations</a></li>
-										<li><a href="#">Best Mobile App</a></li>
-										<li><a href="#">Technical Staff</a></li>
-										<li><a href="#">Free Support Center</a></li>
-										<li><a href="#">Theft Protection</a></li>
-										<li><a href="#">SmartHome Services</a></li>
+										<li><a href="/index.php">Home</a></li>
+										<li><a href="/about.php">About Us</a></li>
+										<li><a href="/cctv-security-systems.php">Services</a></li>
+										<li><a href="/gallery.php">Gallery</a></li>
+										<li><a href="/blog.php">Blog</a></li>
+										<li><a href="/contact.php">Contact Us</a></li>
+										<li><a href="#">Terms and Conditions</a></li>
+										<li><a href="#">Privacy Policy</a></li>
+										<li><a href="#">Disclamer</a></li>
 									</ul>
 								</div>
 							</div>
@@ -103,15 +103,13 @@
 							<!-- Footer Column -->
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
-									<h5>About COSMOS</h5>
+									<h5>Services</h5>
 									<ul class="list-link">
-										<li><a href="#">About Cosmos Security</a></li>
-										<li><a href="#">Work With Us</a></li>
-										<li><a href="#">Security Services</a></li>
-										<li><a href="#">Installation Packages</a></li>
-										<li><a href="#">CCTV Cameras</a></li>
-										<li><a href="#">Mission & Vision</a></li>
-										<li><a href="#">Clients Reviews</a></li>
+										<li><a href="/cctv-security-systems.php">CCTV & Security Systems</a></li>
+										<li><a href="/fire-fighting-systems.php">Fire Fighting Systems</a></li>
+										<li><a href="/access-control-automation.php">Access Control & Automation</a></li>
+										<li><a href="/pest-control-services.php">Pest Control Services</a></li>
+										<li><a href="/amc-support.php">AMC & Support Services</a></li>
 									</ul>
 								</div>
 							</div>
@@ -120,6 +118,15 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget location-widget">
 									<h5>Our Locations</h5>
+
+									<ul class="list-link">
+										<li style="color: #ffffff;">
+  Visit Our Office : MF-9, Sanjay Nagar, Sector-23, Ghaziabad-201002
+</li>
+
+									</ul>
+
+									
 									
 									<!-- Map Boxed -->
 									<div class="map-boxed">

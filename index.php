@@ -658,144 +658,92 @@
 
 	<!-- End Fluid Section One -->
 	
-	<!-- Team Section -->
-	<section class="team-section">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<div class="icon">
-					<img src="assets/images/icons/separater1.png" alt="" />
-				</div>
-				<h2>Our Executive Team</h2>
-				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
-			</div>
-			
-			<div class="row clearfix">
-				
-				<!-- Team Member -->
-                <div class="team-member col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <!--Image Box-->
-                        <div class="image-box">
-                            <!--Image-->
-                            <figure class="image">
-                                <img src="assets/images/resource/team-1.jpg" alt="" />
-                            </figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-box">
-                                <div class="inner">
-                                    <!--Social Icon One-->
-                                    <ul class="social-icon-one">
-                                        <li><a class="fa fa-facebook" href="#"></a></li>
-                                        <li><a class="fa fa-twitter" href="#"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-instagram" href="#"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Lower Content-->
-                        <div class="lower-content">
-                            <h5><a href="#">Mark Dennis</a></h5>
-                            <div class="designation">Chief Executive Officer</div>
-                        </div>
-                    </div>
+      <!-- Team Section -->
+      <section class="team-section">
+        <div class="auto-container">
+          <!-- Sec Title -->
+          <div class="sec-title centered">
+            <div class="icon">
+              <img src="assets/images/icons/separater1.png" alt="" />
+            </div>
+            <h2>Our Executive Team</h2>
+<div class="text">
+  A dedicated leadership team driving innovation, reliability, and excellence
+  in smart security solutions.
+</div>
+
+          </div>
+
+          <div class="row clearfix">
+            <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInLeft"
+                data-wow-delay="0ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_2.jpeg" alt="" />
+                  </figure>
                 </div>
-				
-				<!-- Team Member -->
-                <div class="team-member col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
-                        <!--Image Box-->
-                        <div class="image-box">
-                            <!--Image-->
-                            <figure class="image">
-                                <img src="assets/images/resource/team-2.jpg" alt="" />
-                            </figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-box">
-                                <div class="inner">
-                                    <!--Social Icon One-->
-                                    <ul class="social-icon-one">
-                                        <li><a class="fa fa-facebook" href="#"></a></li>
-                                        <li><a class="fa fa-twitter" href="#"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-instagram" href="#"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Lower Content-->
-                        <div class="lower-content">
-                            <h5><a href="#">William Benson</a></h5>
-                            <div class="designation">Company Manager</div>
-                        </div>
-                    </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Tarun Sehgal</a></h5>
+                  <div class="designation">CEO and Founder</div>
                 </div>
-				
-				<!-- Team Member -->
-                <div class="team-member col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
-                        <!--Image Box-->
-                        <div class="image-box">
-                            <!--Image-->
-                            <figure class="image">
-                                <img src="assets/images/resource/team-3.jpg" alt="" />
-                            </figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-box">
-                                <div class="inner">
-                                    <!--Social Icon One-->
-                                    <ul class="social-icon-one">
-                                        <li><a class="fa fa-facebook" href="#"></a></li>
-                                        <li><a class="fa fa-twitter" href="#"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-instagram" href="#"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Lower Content-->
-                        <div class="lower-content">
-                            <h5><a href="#">James Anderson</a></h5>
-                            <div class="designation">Security Agent</div>
-                        </div>
-                    </div>
+              </div>
+            </div>
+
+            <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_1.jpeg" alt="" />
+                  </figure>
                 </div>
-				
-				<!-- Team Member -->
-                <div class="team-member col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <!--Image Box-->
-                        <div class="image-box">
-                            <!--Image-->
-                            <figure class="image">
-                                <img src="assets/images/resource/team-4.jpg" alt="" />
-                            </figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-box">
-                                <div class="inner">
-                                    <!--Social Icon One-->
-                                    <ul class="social-icon-one">
-                                        <li><a class="fa fa-facebook" href="#"></a></li>
-                                        <li><a class="fa fa-twitter" href="#"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-instagram" href="#"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Lower Content-->
-                        <div class="lower-content">
-                            <h5><a href="#">Amelia Grace</a></h5>
-                            <div class="designation">Senior Security Agent</div>
-                        </div>
-                    </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Ajay Rathi</a></h5>
+                  <div class="designation">Director</div>
                 </div>
-				
-			</div>
-		</div>
-	</section>
-	<!-- End Team Section -->
+              </div>
+            </div>
+
+            <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_3.jpeg" alt="" />
+                  </figure>
+                </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">James Anderson</a></h5>
+                  <div class="designation">Security Agent</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Team Section -->
 	
 	<!-- Testimonial Section -->
 	<section class="testimonial-section" style="background-image: url(assets/images/background/1a.jpg)">
@@ -1023,7 +971,7 @@
 	</section> -->
 	<!-- End Call To Action Section Two -->
 	
-	<!-- Clients Section -->
+<!-- Clients Section -->
     <section class="clients-section">
         <div class="auto-container">
             
@@ -1034,13 +982,45 @@
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

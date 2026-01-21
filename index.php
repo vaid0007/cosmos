@@ -449,9 +449,6 @@
 			<img src="assets/images/gallery/1a.jpg" alt="Cosmos Safety & Security Solutions" />
 			<div class="overlay-box">
 				<div class="overlay-inner">
-					<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box">
-						<span class="fa fa-play"><i class="ripple"></i></span>
-					</a>
 					<h3>
 						<a href="#">
 							Advanced Safety & Security Solutions by Cosmos Enterprises
@@ -1007,9 +1004,8 @@
 	<!-- End News Section -->
 	
 	<!-- Call To Action Section Two -->
-	<section class="call-to-action-section-two" style="background-image: url(assets/images/background/2.jpg)">
+	<!-- <section class="call-to-action-section-two" style="background-image: url(assets/images/background/2.jpg)">
 		<div class="auto-container">
-			<!-- Content Boxed -->
 			<div class="content-boxed">
 				<div class="inner-boxed">
 					<div class="title">protecting what matters for you!</div>
@@ -1022,7 +1018,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- End Call To Action Section Two -->
 	
 	<!-- Clients Section -->
@@ -1030,7 +1026,6 @@
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>

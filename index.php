@@ -75,7 +75,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.php" class="theme-btn btn-style-one">
+					<a href="fire-fighting-systems.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -98,7 +98,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.php" class="theme-btn btn-style-one">
+					<a href="cctv-security-systems.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -121,7 +121,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="contact.php" class="theme-btn btn-style-one">
+					<a href="pest-control-services.php" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -164,7 +164,7 @@
 							<div class="icon-box">
 							</div>
 							<h5>
-								<a href="#">
+								<a href="cctv-security-systems.php">
 									CCTV Surveillance <br> & Monitoring
 								</a>
 							</h5>
@@ -179,7 +179,7 @@
 							<div class="icon-box">
 							</div>
 							<h5>
-								<a href="#">
+								<a href="pest-control-services.php">
 									Pest Control <br> & Sanitization
 								</a>
 							</h5>
@@ -425,8 +425,10 @@
 				<!-- Title Column -->
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : 9999388433 <span></span></div>
+						<a href="tel:+919999388433" class="phone">
+  <div class="phone flaticon-call-3"></div>
+</a>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System :+91 99993 88433 <span></span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
@@ -469,29 +471,12 @@
 			<div class="gallery-block col-lg-8 col-md-12 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<img src="assets/images/gallery/2.jpg" alt="Fire Fighting Systems Installation" />
+						<img src="assets/images/gallery/2.jpg" alt="CCTV & Security Systems" />
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.php">Fire Fighting Systems</a></h4>
+									<h4><a href="cctv-security-systems.php">CCTV & Security Systems</a></h4>
 									<div class="category">Industrial & Commercial</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-			<!-- Gallery Block -->
-			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
-				<div class="inner-box">
-					<div class="image">
-						<img src="assets/images/gallery/3.jpg" alt="CCTV Surveillance Installation" />
-						<div class="overlay-box">
-							<div class="overlay-inner">
-								<div class="content">
-									<h4><a href="gallery.php">CCTV Surveillance</a></h4>
-									<div class="category">Corporate & Residential</div>
 								</div>
 							</div>
 						</div>
@@ -507,7 +492,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.php">Fire Alarm & Detection</a></h4>
+									<h4><a href="fire-fighting-systems.php">Fire Fighting Systems</a></h4>
 									<div class="category">Commercial Buildings</div>
 								</div>
 							</div>
@@ -520,11 +505,11 @@
 			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<img src="assets/images/gallery/5.jpg" alt="Access Control Systems" />
+					<img src="assets/images/gallery/5.jpg" alt="Access Control & Automation" />
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.php">Access Control Systems</a></h4>
+									<h4><a href="access-control-automation.php">Access Control & Automation</a></h4>
 									<div class="category">Offices & Institutions</div>
 								</div>
 							</div>
@@ -537,11 +522,28 @@
 			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<img src="assets/images/gallery/6.jpg" alt="Pest Control Services" />
+						<img src="assets/images/gallery/4.jpg" alt="Pest Control Services" />
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="gallery.php">Pest Control Services</a></h4>
+									<h4><a href="pest-control-services.php">Pest Control Services</a></h4>
+									<div class="category">Residential & Commercial</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Gallery Block -->
+			<div class="gallery-block col-lg-4 col-md-6 col-sm-12">
+				<div class="inner-box">
+					<div class="image">
+						<img src="assets/images/gallery/6.jpg" alt="AMC & Support" />
+						<div class="overlay-box">
+							<div class="overlay-inner">
+								<div class="content">
+									<h4><a href="amc-support.php">AMC & Support</a></h4>
 									<div class="category">Residential & Commercial</div>
 								</div>
 							</div>
@@ -645,9 +647,9 @@
 		</div>
 		
 		<!-- Image Column -->
-		<div class="image-column" style="background-image:url(assets/images/resource/image-1.jpg)">
+		<div class="image-column" style="background-image:url(assets/images/resource/image-1a.jpg)">
 			<figure class="image-box">
-				<img src="assets/images/resource/image-1.jpg" alt="Cosmos Safety & Security Solutions">
+				<img src="assets/images/resource/image-1a.jpg" alt="Cosmos Safety & Security Solutions">
 			</figure>
 		</div>
 		
@@ -796,7 +798,7 @@
 	<!-- End Team Section -->
 	
 	<!-- Testimonial Section -->
-	<section class="testimonial-section" style="background-image: url(assets/images/background/1.jpg)">
+	<section class="testimonial-section" style="background-image: url(assets/images/background/1a.jpg)">
 	<div class="auto-container">
 		
 		<!-- Sec Title -->

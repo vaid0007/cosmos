@@ -14,7 +14,7 @@
 					
 						<!-- Info List -->
                         <ul class="info-list">
-							<li><span class="icon fa fa-phone-square"></span> <a href="tel: 9999388433"> Call : 9999388433</a></li>
+							<li><span class="icon fa fa-phone-square"></span> <a href="tel:+91 99993 88433"> Call :+ 91 	99993 88433</a></li>
 							<li><span class="icon fa fa-envelope"></span> <a href="mailto:cosmosenterprises34@gmail.com">Email : cosmosenterprises34@gmail.com</a></li>
 						</ul>
 						
@@ -83,12 +83,12 @@
 						<!-- Main Menu End-->
 						<div class="outer-box clearfix">
 							
-							<!-- Search Box -->
+							<!-- Search Box
 							<div class="search-box-outer">
 								<div class="dropdown">
 									<div class="search-box-btn"><span class="fa fa-search"></span></div>
 								</div>
-							</div>
+							</div> -->
 							
 							<!-- Quote Btn -->
 							<div class="btn-box">

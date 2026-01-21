@@ -184,7 +184,7 @@
 			
 			<!-- Video Gallery -->
 			<div class="video-gallery">
-				<img src="assets/images/gallery/1.jpg" alt="" />
+				<img src="assets/images/gallery/1a.jpg" alt="" />
 				<div class="overlay-box">
 					<div class="overlay-inner">
 						<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="fa fa-play"><i class="ripple"></i></span></a>

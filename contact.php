@@ -130,7 +130,7 @@
 				<div class="contact-box col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<h5>Contact us</h5>
-						<a class="phone" href="tel:++91 99993 88433">+91 99993 88433</a>
+						<a class="phone" href="tel:+91 99993 88433">+91 99993 88433</a>
 						<div class="emails">
 							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>						</div>
 					</div>

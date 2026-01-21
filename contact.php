@@ -87,7 +87,7 @@
 					<div class="image-column col-lg-7 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<div class="image">
-								<img src="assets/images/resource/contact.jpg" alt="" />
+								<img src="assets/images/resource/contact1.jpg" alt="" />
 							</div>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 					<div class="inner-box">
 						<h5>Customer Support</h5>
 						<ul>
-							<li>Monday - Friday <br> 9:00am - 6:00pm</li>
+							<li>Monday - Friday <br> 9:00am - 8:00pm</li>
 							<li>Saturday - Sunday <br> 10:00am - 4:00pm</li>
 						</ul>
 					</div>
@@ -133,7 +133,7 @@
 						<a class="phone" href="tel:+91 99993 88433">+91 99993 88433</a>
 						<div class="emails">
 							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>
-							<a href="mailto:info@domain.com">info@domain.com</a>
+							<!-- <a href="mailto:info@domain.com">info@domain.com</a> -->
 						</div>
 					</div>
 				</div>

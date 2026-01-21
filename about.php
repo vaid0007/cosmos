@@ -67,7 +67,7 @@
     <!-- End Main Header -->
 	
 	<!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
+    <section class="page-title" style="background-image: url(assets/images/background/2a.jpg)">
     	<div class="auto-container">
 			<h1>About Us</h1>
 			<ul class="page-breadcrumb">

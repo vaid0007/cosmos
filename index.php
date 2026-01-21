@@ -91,7 +91,7 @@
 		<div class="content-boxed">
 			<div class="inner-boxed">
 				<div class="title">smart security systems</div>
-				<h1>advanced cctv & <br> surveillance</h1>
+				<h1>Advanced CCTV & <br> surveillance</h1>
 				<div class="text">
 					Intelligent surveillance solutions to monitor, protect,
 					and secure your property 24/7.

@@ -72,7 +72,7 @@
     <?php include 'header.php'; ?>
     <!-- End Main Header -->
 		<!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
+    <section class="page-title" style="background-image: url(assets/images/background/5a.jpg)">
     <div class="auto-container">
         <h1>AMC & Support Services</h1>
         <ul class="page-breadcrumb">
@@ -118,7 +118,7 @@
 							<div class="widget-inner">
 								<h3>Need Help?</h3>
 								<div class="title">Call us or Email</div>
-								<a href="tel:925-236-7498" class="phone">(925) 236 7498</a>
+								<a href="tel: +91 99993 88433" class="phone">+91 99993 88433</a>
 								<a href="cosmosenterprises34@gmail.com" class="email">cosmosenterprises34@gmail.com</a>
 							</div>
 						</div>
@@ -156,12 +156,12 @@
                 <div class="row clearfix">
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-1.jpg" alt="Annual Maintenance Contract Services">
+                            <img src="assets/images/resource/service-2a.jpg" alt="Annual Maintenance Contract Services">
                         </div>
                     </div>
                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                         <div class="image">
-                            <img src="assets/images/resource/service-2.jpg" alt="Technical Support and Maintenance">
+                            <img src="assets/images/resource/service-2b.jpg" alt="Technical Support and Maintenance">
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
                         </div>
 
                         <div class="column col-lg-6 col-md-6 col-sm-12">
-                            <img src="assets/images/resource/service-3.jpg" alt="AMC Maintenance Support">
+                            <img src="assets/images/resource/service-2c.jpg" alt="AMC Maintenance Support">
                         </div>
                     </div>
                 </div>

@@ -73,7 +73,7 @@
     <!-- End Main Header -->
 	
 	<!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/3.jpg)">
+    <section class="page-title" style="background-image: url(assets/images/background/5a.jpg)">
     	<div class="auto-container">
 			<h1>Our Services</h1>
 			<ul class="page-breadcrumb">
@@ -94,7 +94,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="comprehensive-amc.html">
-                            <img src="assets/images/resource/security-4.jpg" alt="Comprehensive AMC Services" />
+                            <img src="assets/images/resource/amc-1.jpg" alt="Comprehensive AMC Services" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -116,7 +116,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="preventive-maintenance.html">
-                            <img src="assets/images/resource/security-5.jpg" alt="Preventive Maintenance Services" />
+                            <img src="assets/images/resource/amc-2.jpg" alt="Preventive Maintenance Services" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -138,7 +138,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="corrective-maintenance.html">
-                            <img src="assets/images/resource/security-6.jpg" alt="Corrective Maintenance Support" />
+                            <img src="assets/images/resource/amc-3.jpg" alt="Corrective Maintenance Support" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -160,7 +160,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="emergency-support.html">
-                            <img src="assets/images/resource/security-7.jpg" alt="Emergency Technical Support" />
+                            <img src="assets/images/resource/amc-4.jpg" alt="Emergency Technical Support" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -182,7 +182,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="inspection-compliance.html">
-                            <img src="assets/images/resource/security-8.jpg" alt="Inspection and Compliance Services" />
+                            <img src="assets/images/resource/amc-5.jpg" alt="Inspection and Compliance Services" />
                         </a>
                     </div>
                     <div class="lower-content">
@@ -204,7 +204,7 @@
                 <div class="inner-box">
                     <div class="image">
                         <a href="technical-support-upgrades.html">
-                            <img src="assets/images/resource/security-9.jpg" alt="Technical Support and Upgrades" />
+                            <img src="assets/images/resource/amc-6.jpg" alt="Technical Support and Upgrades" />
                         </a>
                     </div>
                     <div class="lower-content">

@@ -896,61 +896,7 @@
 	<!-- End Testimonial Section -->
 	
 	<!-- News Section -->
-	<section class="news-section">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<div class="icon">
-					<img src="assets/images/icons/separater1.png" alt="" />
-				</div>
-				<h2>Latest News</h2>
-				<div class="text">Ipsum dolor sit amet consect asetur adipisicing elit sedunas eiusmod <br> temporas incididunt ut labore dolore magna aliqua. </div>
-			</div>
-			
-			<div class="row clearfix">
-				
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog.php">Secure Your Office Network With Help of COSMOS</a></h5>
-						<ul class="post-meta">
-							<li><span class="icon flaticon-user"></span>Admin</li>
-							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
-						</ul>
-						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
-					</div>
-				</div>
-				
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog.php">Get Real Protection - Highly Trained Professionals</a></h5>
-						<ul class="post-meta">
-							<li><span class="icon flaticon-user"></span>Admin</li>
-							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
-						</ul>
-						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
-					</div>
-				</div>
-				
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<h5><a href="blog.php">How to Get Best Protection From #1  Security Firm</a></h5>
-						<ul class="post-meta">
-							<li><span class="icon flaticon-user"></span>Admin</li>
-							<li><span class="icon flaticon-calendar-1"></span>Dec 20, 2019</li>
-						</ul>
-						<div class="text">Corem ipsum dolor sit amet consec exea dolore afugiat nula pariatur vitae sagittis dolore fugiatmagna exerds.</div>
-						<a class="read-more" href="blog.php">Read More <span class="fa fa-angle-right"></span></a>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</section>
+
 	<!-- End News Section -->
 	
 	<!-- Call To Action Section Two -->

@@ -73,7 +73,7 @@
 										</ul>
 									</li>
 									<li><a href="gallery.php">Gallery</a></li>
-									<li class=""><a href="blog.php">Blog</a>
+									<!-- <li class=""><a href="blog.php">Blog</a> -->
 									</li>
 									<li><a href="contact.php">Contact us</a></li>
 								</ul>

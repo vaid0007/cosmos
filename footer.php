@@ -84,7 +84,7 @@
 										<li><a href="/about.php">About Us</a></li>
 										<li><a href="/cctv-security-systems.php">Services</a></li>
 										<li><a href="/gallery.php">Gallery</a></li>
-										<li><a href="/blog.php">Blog</a></li>
+										<!-- <li><a href="/blog.php">Blog</a></li> -->
 										<li><a href="/contact.php">Contact Us</a></li>
 										<li><a href="#">Terms and Conditions</a></li>
 										<li><a href="#">Privacy Policy</a></li>

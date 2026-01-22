@@ -210,9 +210,9 @@
 			</div>
 			
 			<!-- Button Box -->
-			<div class="btn-box text-center">
+			<!-- <div class="btn-box text-center">
 				<a class="theme-btn btn-style-three" href="blog.php"><span class="txt">Load More &nbsp;<i class="fa fa-angle-right"></i></span></a>
-			</div>
+			</div> -->
 			
 		</div>
 	</section>

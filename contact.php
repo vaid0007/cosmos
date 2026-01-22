@@ -171,7 +171,7 @@
                                 <div class="row clearfix">
                                     
 									<div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="text" name="username" value="" placeholder="First Name" required>
+                                        <input type="text" name="username" value="" placeholder="First Name*" required>
                                     </div>
 									
                                     <div class="form-group col-md-6 col-sm-6 col-xs-12">
@@ -183,15 +183,15 @@
                                     </div>
 									
 									<div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="text" name="phone" value="" placeholder="Phone No." required>
+                                        <input type="text" name="phone" value="" placeholder="Phone Number" required>
                                     </div>
                                     
                                     <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                                        <textarea name="message" placeholder="Question or Request"></textarea>
+                                        <textarea name="message" placeholder="Query/Request/Message"></textarea>
                                     </div>
                                     
                                     <div class="form-group btn-column col-md-12 col-sm-12 col-xs-12">
-                                        <button type="submit" class="theme-btn submit-btn"><span class="txt">send message <i class="fa fa-angle-right"></i></span></button>
+                                        <button type="submit" class="theme-btn submit-btn"><span class="txt">send	 <i class="fa fa-angle-right"></i></span></button>
                                     </div>
                                     
                                 </div>

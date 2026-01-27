@@ -624,6 +624,50 @@
                 </div>
               </div>
             </div>
+
+ <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_4.jpeg" alt="" />
+                  </figure>
+                </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Arjun Kashyap</a></h5>
+                  <div class="designation">Sales Head</div>
+                </div>
+              </div>
+            </div>
+            
+ <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_5.jpeg" alt="" />
+                  </figure>
+                </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Jitendra Yadav</a></h5>
+                  <div class="designation">Marketing Head</div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

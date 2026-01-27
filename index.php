@@ -708,7 +708,7 @@
                 <div class="image-box">
                   <!--Image-->
                   <figure class="image">
-                    <img src="assets/images/clients/team_1.jpeg" alt="" />
+                    <img src="assets/images/clients/team_1a.jpg" alt="" />
                   </figure>
                 </div>
                 <!--Lower Content-->

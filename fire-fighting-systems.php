@@ -199,48 +199,120 @@
       <div class="lower-content">
         <h2>Complete Fire Fighting & Fire Safety Solutions</h2>
 
-        <p>
-          We provide end-to-end fire fighting systems designed to protect lives,
-          property, and infrastructure. Our solutions are suitable for residential,
-          commercial, industrial, and institutional projects, ensuring compliance
-          with fire safety norms and regulations.
-        </p>
+<p>
+    We provide end-to-end fire fighting and fire safety solutions designed to
+    safeguard lives, property, and critical infrastructure. Our systems are
+    engineered to deliver reliable protection for residential complexes,
+    commercial buildings, industrial facilities, hospitals, hotels, educational
+    institutions, and large-scale infrastructure projects.
+</p>
 
-        <p>
-          From system design and installation to testing, commissioning, and
-          maintenance, our expert team delivers reliable and efficient fire
-          protection solutions tailored to your site requirements.
-        </p>
+<p>
+    Our fire protection solutions are planned and executed in strict compliance
+    with national and international fire safety norms, ensuring maximum safety,
+    operational efficiency, and regulatory approval for your premises.
+</p>
 
-        <h2>Why Choose Our Fire Fighting Systems?</h2>
+<p>
+    From detailed risk assessment and system design to professional installation,
+    testing, commissioning, and ongoing maintenance, our experienced team ensures
+    a seamless and dependable fire safety solution tailored to your specific site
+    requirements.
+</p>
 
-        <p>
-          Our fire safety solutions use certified equipment and proven technologies
-          to ensure fast detection, effective fire suppression, and safe evacuation
-          during emergencies.
-        </p>
+<h2>Why Choose Our Fire Fighting Systems?</h2>
+
+<p>
+    Our fire fighting systems are built using certified, high-quality equipment
+    and proven technologies to ensure rapid fire detection, effective suppression,
+    and safe evacuation during emergency situations.
+</p>
+
+<p>
+    We focus on designing systems that respond quickly and operate efficiently,
+    minimizing fire damage, reducing downtime, and enhancing occupant safety
+    across all types of facilities.
+</p>
+
+<p>
+    With intelligent system integration and expert execution, our fire safety
+    solutions provide complete coverage while maintaining reliability, ease of
+    operation, and long-term performance.
+</p>
+
+<h2>Our Fire Fighting & Fire Safety Services</h2>
+
+<ul class="list-style-two">
+    <li>Fire alarm & smoke detection systems</li>
+    <li>Fire hydrant & sprinkler systems</li>
+    <li>Fire extinguishers supply & installation</li>
+    <li>Addressable & conventional fire alarm panels</li>
+    <li>Fire suppression systems (CO₂, FM-200, NOVEC)</li>
+    <li>Fire exit signage & emergency lighting</li>
+</ul>
+
+<h2>Fire Safety Design, Installation & Compliance</h2>
+
+<p>
+    Our team ensures precise system design based on building layout, occupancy
+    type, and fire risk analysis. We carry out professional installation with
+    strict quality checks to ensure reliable operation under emergency conditions.
+</p>
+
+<p>
+    All systems are tested and commissioned as per applicable fire safety codes,
+    and we assist with inspections, documentation, and statutory approvals
+    wherever required.
+</p>
+
+<h2>Maintenance, Testing & After-Sales Support</h2>
+
+<p>
+    We offer comprehensive Annual Maintenance Contracts (AMC) to ensure your fire
+    fighting systems remain operational, compliant, and ready at all times.
+</p>
+
+<p>
+    Our maintenance services include routine inspections, pressure testing,
+    system performance checks, component replacement, and prompt technical
+    support to ensure long-term safety and reliability.
+</p>
+
+<p>
+    With our dependable fire safety solutions, you gain confidence, compliance,
+    and complete protection against fire hazards.
+</p>
+
 
         <div class="two-column">
           <div class="row clearfix">
             <div class="column col-lg-6 col-md-6 col-sm-12">
               <ul class="list-style-two">
-                <li>Fire hydrant & sprinkler systems</li>
-                <li>Fire alarm & detection systems</li>
-                <li>Fire extinguishers & suppression systems</li>
-                <li>Emergency exit & safety signage</li>
-              </ul>
+    <li>Fire hydrant & automatic sprinkler systems</li>
+    <li>Addressable & conventional fire alarm and detection systems</li>
+    <li>Portable fire extinguishers & advanced fire suppression systems</li>
+    <li>Emergency exit signage, safety signs & emergency lighting</li>
+</ul>
 
-              <p>
-                Our systems are designed as per safety standards to minimize fire
-                risks, control fire spread, and support safe evacuation. Proper
-                planning and professional installation ensure dependable
-                performance in critical situations.
-              </p>
+<p>
+    Our fire safety systems are carefully designed in accordance with applicable
+    safety standards to effectively detect fire hazards, control the spread of
+    fire, and support safe and timely evacuation during emergencies.
+</p>
 
-              <p>
-                We also offer Annual Maintenance Contracts (AMC) to ensure your fire
-                safety systems remain operational and compliant at all times.
-              </p>
+<p>
+    Through proper system planning, high-quality equipment, and professional
+    installation, we ensure dependable performance and rapid response in
+    critical situations where safety is paramount.
+</p>
+
+<p>
+    We also offer comprehensive Annual Maintenance Contracts (AMC) that include
+    routine inspections, system testing, refilling and replacement of components,
+    and prompt technical support to ensure your fire safety systems remain fully
+    operational and compliant at all times.
+</p>
+
             </div>
 
             <div class="column col-lg-6 col-md-6 col-sm-12">
@@ -253,10 +325,13 @@
         </div>
 
         <p>
-          Whether it is a new installation or an upgrade of existing systems, our
-          fire fighting solutions provide reliable protection, quick response, and
-          long-term safety assurance.
-        </p>
+    Whether it is a new installation or the upgrade of an existing system, our
+    fire fighting solutions are designed to deliver reliable protection, rapid
+    response during emergencies, and long-term safety assurance. With robust
+    system design, certified equipment, and expert execution, we ensure your
+    premises remain protected, compliant, and prepared at all times.
+</p>
+
 
         <div class="featured-blocks">
           <div class="clearfix">
@@ -322,10 +397,28 @@
         </div>
 
         <p>
-          Our mission is to create safer environments by delivering dependable,
-          compliant, and cost-effective fire protection solutions that help save
-          lives and assets.
-        </p>
+    Our mission is to create safer environments by delivering dependable,
+    compliant, and cost-effective fire protection solutions that safeguard
+    lives, assets, and critical infrastructure. We are committed to designing
+    and implementing fire safety systems that meet the highest quality and
+    regulatory standards while remaining practical and efficient for everyday
+    operations.
+</p>
+
+<p>
+    Through a combination of expert engineering, certified equipment, and
+    meticulous execution, we help organizations minimize fire risks, reduce
+    potential losses, and ensure preparedness for emergency situations. Our
+    focus extends beyond installation to long-term safety, reliability, and
+    continuous compliance.
+</p>
+
+<p>
+    By partnering with us, clients gain a trusted fire safety partner dedicated
+    to protecting people, preserving property, and creating secure environments
+    that inspire confidence and peace of mind.
+</p>
+
 
         <div class="btns-box clearfix">
           <a

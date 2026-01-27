@@ -200,46 +200,106 @@
       <div class="lower-content">
         <h2>Professional Pest Control & Hygiene Solutions</h2>
 
-        <p>
-          We provide safe, effective, and reliable pest control services to protect
-          homes, offices, commercial spaces, warehouses, and industrial facilities
-          from harmful pests and insects.
-        </p>
+<p>
+    We provide comprehensive pest control and hygiene solutions designed to
+    protect residential, commercial, and industrial environments from harmful
+    pests and disease-causing insects. Our services help maintain clean, safe,
+    and healthy spaces for occupants, employees, and visitors.
+</p>
 
-        <p>
-          Our treatments are scientifically designed, eco-friendly, and carried out
-          by trained professionals to ensure long-lasting protection with minimal
-          disruption to your environment.
-        </p>
+<p>
+    Our treatments are scientifically formulated, eco-friendly, and executed by
+    trained professionals to ensure effective pest elimination with minimal
+    disruption to your daily operations. We prioritize safety, hygiene, and
+    long-lasting results across all service categories.
+</p>
 
-        <h2>Why Choose Our Pest Control Services?</h2>
+<p>
+    By combining modern pest management techniques with preventive strategies,
+    we deliver reliable solutions that address existing infestations while
+    reducing the risk of future pest activity.
+</p>
 
-        <p>
-          Our pest management solutions focus on prevention, safety, and complete
-          elimination using approved chemicals, modern equipment, and industry best
-          practices.
-        </p>
+<h2>Why Choose Our Pest Control Services?</h2>
+
+<p>
+    Our pest control services are based on integrated pest management (IPM)
+    principles that emphasize prevention, targeted treatment, and sustainable
+    control methods.
+</p>
+
+<ul class="list-style-two">
+    <li>Residential, commercial & industrial pest control</li>
+    <li>Eco-friendly and government-approved chemicals</li>
+    <li>Odorless and safe treatments for humans & pets</li>
+    <li>Advanced spraying, gel & fumigation techniques</li>
+    <li>Customized treatment plans based on infestation level</li>
+    <li>Experienced and trained pest control technicians</li>
+</ul>
+
+<p>
+    We focus on identifying pest entry points, breeding areas, and risk factors
+    to deliver targeted treatments that ensure complete elimination and long-term
+    prevention.
+</p>
+
+<h2>Our Pest Control & Hygiene Services</h2>
+
+<ul class="list-style-two">
+    <li>General pest control (cockroaches, ants, spiders)</li>
+    <li>Termite control & anti-termite treatments</li>
+    <li>Rodent control & proofing solutions</li>
+    <li>Mosquito control & fly management</li>
+    <li>Bed bug treatment & disinfection services</li>
+    <li>Commercial hygiene & sanitation solutions</li>
+</ul>
+
+<p>
+    Our hygiene services help maintain high cleanliness standards, reduce health
+    risks, and ensure compliance with safety and hygiene regulations.
+</p>
+
+<h2>Inspection, Treatment & Maintenance</h2>
+
+<p>
+    We begin with a thorough inspection to identify infestation sources and
+    severity, followed by a customized treatment plan tailored to your site
+    requirements.
+</p>
+
+<p>
+    Annual Maintenance Contracts (AMC) are available to ensure periodic treatment,
+    continuous monitoring, and long-term pest prevention for your premises.
+</p>
+
+<p>
+    With our professional pest control and hygiene solutions, you gain a cleaner,
+    safer, and healthier environment with complete peace of mind.
+</p>
+
 
         <div class="two-column">
           <div class="row clearfix">
             <div class="column col-lg-6 col-md-6 col-sm-12">
               <ul class="list-style-two">
-                <li>General pest control for homes & offices</li>
-                <li>Termite (white ant) treatment</li>
-                <li>Rodent, cockroach & ant control</li>
-                <li>Mosquito, fly & bed bug treatment</li>
-              </ul>
+    <li>General pest control services for homes, offices & commercial facilities</li>
+    <li>Termite (white ant) treatment with pre-construction and post-construction solutions</li>
+    <li>Rodent, cockroach, ant & crawling insect control programs</li>
+    <li>Mosquito, fly & bed bug treatment using advanced methods</li>
+</ul>
 
-              <p>
-                Our pest control programs help prevent health risks, protect property,
-                and maintain a clean, hygienic environment. Each treatment is customized
-                based on site inspection and infestation level.
-              </p>
+<p>
+    Our pest control programs are designed to minimize health risks, prevent
+    contamination, and protect property from structural and material damage
+    caused by pests. By using scientifically proven methods and approved
+    formulations, we ensure effective pest elimination without compromising
+    safety.
+</p>
 
-              <p>
-                We also offer Annual Maintenance Contracts (AMC) to ensure continuous
-                pest prevention and regular monitoring.
-              </p>
+
+
+
+
             </div>
 
             <div class="column col-lg-6 col-md-6 col-sm-12">
@@ -251,11 +311,42 @@
           </div>
         </div>
 
+        <div>
+
+        <p>
+    Each treatment is customized after a detailed site inspection to identify
+    pest entry points, breeding zones, and infestation severity. This targeted
+    approach allows us to deliver precise treatment, long-lasting results, and
+    reduced chemical usage.
+</p>
+
+        <p>
+    We strictly follow safety protocols and hygiene standards, making our
+    treatments safe for occupants, employees, children, and pets while ensuring
+    minimal disruption to daily activities.
+</p>
+
+<p>
+    In addition, we offer comprehensive Annual Maintenance Contracts (AMC) that
+    include scheduled inspections, preventive treatments, and continuous
+    monitoring. Our AMC programs help maintain a pest-free environment
+    year-round, reduce recurring infestations, and ensure consistent hygiene
+    compliance.
+</p>
+
+<p>
+    With our professional pest control and hygiene solutions, you gain reliable
+    protection, healthier living and working spaces, and complete peace of mind.
+</p>
+
         <p>
           Whether it is a residential property, commercial facility, or industrial
           unit, our pest control services provide effective, safe, and long-term
           protection against infestations.
         </p>
+
+        </div>
+        
 
         <div class="featured-blocks">
           <div class="clearfix">
@@ -320,10 +411,26 @@
         </div>
 
         <p>
-          Our goal is to create pest-free, healthy, and safe environments by delivering
-          dependable, affordable, and environmentally responsible pest control
-          solutions.
-        </p>
+    Our goal is to create pest-free, healthy, and safe environments by delivering
+    dependable, affordable, and environmentally responsible pest control
+    solutions that protect people, property, and hygiene standards. We are
+    committed to using proven methods and approved products that effectively
+    eliminate pests while minimizing environmental impact.
+</p>
+
+<p>
+    Through careful planning, trained execution, and continuous monitoring, we
+    help our clients maintain clean and hygienic spaces that support well-being,
+    productivity, and peace of mind. Our focus is not only on pest elimination
+    but also on long-term prevention and sustainable pest management.
+</p>
+
+<p>
+    By partnering with us, you gain a trusted pest control provider dedicated to
+    delivering consistent results, regulatory compliance, and healthier living
+    and working environments.
+</p>
+
 
         <div class="btns-box clearfix">
           <a

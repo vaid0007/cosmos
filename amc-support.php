@@ -170,46 +170,101 @@
             <div class="lower-content">
                 <h2>Annual Maintenance Contracts (AMC) & Support Services</h2>
 
-                <p>
-                    We offer comprehensive Annual Maintenance Contracts (AMC) and technical
-                    support services to ensure uninterrupted performance of your security,
-                    fire safety, access control, and pest control systems.
-                </p>
+<p>
+    We offer comprehensive Annual Maintenance Contracts (AMC) and dedicated
+    support services to ensure uninterrupted performance of your CCTV,
+    security systems, fire fighting equipment, access control solutions,
+    automation systems, and pest control services.
+</p>
 
-                <p>
-                    Our AMC plans are designed to reduce downtime, extend equipment life,
-                    and provide peace of mind through regular inspections, preventive
-                    maintenance, and prompt technical support.
-                </p>
+<p>
+    Our AMC plans are designed to minimize system downtime, extend equipment
+    lifespan, and ensure consistent operational reliability through scheduled
+    inspections, preventive maintenance, and responsive technical support.
+</p>
 
-                <h2>Why Choose Our AMC & Support Services?</h2>
+<p>
+    By choosing our AMC services, you gain a dependable service partner who
+    proactively maintains your systems and addresses issues before they
+    impact safety or operations.
+</p>
 
-                <p>
-                    Our dedicated support team ensures quick response, professional service,
-                    and reliable system performance through structured maintenance programs
-                    and expert technical assistance.
-                </p>
+<h2>Why Choose Our AMC & Support Services?</h2>
+
+<p>
+    Our dedicated support team delivers prompt response, professional service,
+    and expert technical assistance through structured maintenance programs
+    tailored to your systems and site requirements.
+</p>
+
+<ul class="list-style-two">
+    <li>Scheduled preventive maintenance and system health checks</li>
+    <li>Early fault detection and corrective action</li>
+    <li>Reduced system downtime and operational disruptions</li>
+    <li>Extended life and optimized performance of equipment</li>
+    <li>Compliance with safety, security, and regulatory standards</li>
+    <li>Priority service response for AMC customers</li>
+</ul>
+
+<h2>Scope of AMC Services</h2>
+
+<ul class="list-style-two">
+    <li>Routine inspection and testing of installed systems</li>
+    <li>Cleaning, calibration, and performance optimization</li>
+    <li>Replacement or repair of faulty components (as per AMC terms)</li>
+    <li>Software updates and configuration checks (where applicable)</li>
+    <li>Detailed service reports and maintenance documentation</li>
+</ul>
+
+<p>
+    Our AMC services are structured to ensure your systems remain reliable,
+    efficient, and fully operational throughout the year, even under
+    demanding conditions.
+</p>
+
+<h2>Responsive Technical Support</h2>
+
+<p>
+    In addition to preventive maintenance, our technical support team provides
+    prompt assistance in case of system faults, alarms, or performance issues.
+    We ensure quick diagnosis and effective resolution to restore normal
+    operations with minimal delay.
+</p>
+
+<p>
+    Whether it is a routine service visit or an urgent technical requirement,
+    our experienced engineers are equipped to deliver timely and dependable
+    support when you need it most.
+</p>
+
+<p>
+    With our AMC & support services, you gain long-term reliability, reduced
+    operational risk, and complete peace of mind knowing your systems are
+    professionally maintained and fully supported at all times.
+</p>
+
 
                 <div class="two-column">
                     <div class="row clearfix">
                         <div class="column col-lg-6 col-md-6 col-sm-12">
                             <ul class="list-style-two">
-                                <li>Preventive & corrective maintenance</li>
-                                <li>Scheduled inspections & system health checks</li>
-                                <li>Emergency breakdown support</li>
-                                <li>Compliance & performance reporting</li>
-                            </ul>
+    <li>Preventive and corrective maintenance for all covered systems</li>
+    <li>Scheduled inspections, testing, and complete system health checks</li>
+    <li>Emergency breakdown support with defined response timelines</li>
+    <li>Compliance verification and detailed performance reporting</li>
+</ul>
 
-                            <p>
-                                Our AMC services help identify issues early, minimize system
-                                failures, and ensure all safety systems remain operational
-                                and compliant with regulations.
-                            </p>
+<p>
+    Our AMC services are structured to proactively identify potential faults,
+    performance degradation, or compliance gaps before they lead to system
+    failure. This preventive approach significantly reduces unplanned downtime,
+    enhances system reliability, and ensures uninterrupted protection.
+</p>
 
-                            <p>
-                                Flexible AMC plans are available for residential, commercial,
-                                and industrial clients based on specific system requirements.
-                            </p>
+
+
+
+
                         </div>
 
                         <div class="column col-lg-6 col-md-6 col-sm-12">
@@ -218,11 +273,41 @@
                     </div>
                 </div>
 
+                <div>
+
+                <p>
+    Through routine inspections, functional testing, calibration, and timely
+    corrective actions, we help extend the life of your equipment while
+    maintaining optimal performance under all operating conditions.
+</p>
+
+                <p>
+    Detailed service reports and compliance documentation are provided after
+    each maintenance visit, supporting audits, safety reviews, and regulatory
+    requirements with complete transparency.
+</p>
+
+<p>
+    We offer flexible and customizable AMC plans for residential, commercial,
+    and industrial clients. Coverage can be tailored based on system type,
+    complexity, usage patterns, and site-specific operational requirements,
+    ensuring cost-effective and dependable long-term support.
+</p>
+
+<p>
+    With our AMC programs in place, you benefit from predictable maintenance
+    costs, priority technical support, reduced operational risk, and complete
+    peace of mind knowing your critical systems are professionally managed
+    year-round.
+</p>
+
                 <p>
                     Whether you manage a single site or multiple locations, our AMC & support
                     services provide reliable maintenance, fast response times, and complete
                     technical assistance throughout the year.
                 </p>
+
+                </div>
 
                 <div class="featured-blocks">
                     <div class="clearfix">
@@ -274,11 +359,26 @@
                     </div>
                 </div>
 
-                <p>
-                    Our goal is to provide dependable AMC and support services that ensure
-                    safety systems operate efficiently, reliably, and without interruption
-                    throughout their lifecycle.
-                </p>
+               <p>
+    Our goal is to provide dependable AMC and support services that ensure all
+    safety and security systems operate efficiently, reliably, and without
+    interruption throughout their entire lifecycle. We focus on proactive
+    maintenance, timely intervention, and continuous performance monitoring to
+    prevent failures before they occur.
+</p>
+
+<p>
+    By combining structured maintenance processes, skilled technical expertise,
+    and responsive support, we help organizations maintain compliance, reduce
+    operational risks, and achieve long-term system stability.
+</p>
+
+<p>
+    With our AMC services in place, clients gain a trusted support partner
+    dedicated to preserving system performance, protecting investments, and
+    ensuring uninterrupted safety at all times.
+</p>
+
 
                 <div class="btns-box clearfix">
                     <a href="amc-support-products.php" class="theme-btn btn-style-one">

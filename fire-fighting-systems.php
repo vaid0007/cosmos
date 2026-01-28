@@ -220,6 +220,29 @@
     requirements.
 </p>
 
+<h2>About Us</h2>
+<p>
+    Cosmos Enterprises is a leading fire-fighting and fire-safety solutions company specializing in the
+    supply, installation, inspection, maintenance, and servicing of fire-protection systems and safety
+    accessories across India. Built on principles of safety, reliability, technical excellence, and
+    compliance, we deliver end-to-end fire-safety solutions for residential, commercial, industrial,
+    institutional, and infrastructure projects.
+</p>
+
+<h2>Vision</h2>
+<p>
+    To be recognized as India’s most reliable, innovative, and customer-centric fire-fighting and safety
+    solutions provider, committed to creating safer spaces everywhere.
+</p>
+
+<h2>Mission</h2>
+<p>
+    Deliver high-quality, compliant, and cost-effective fire-safety solutions. Promote safety awareness,
+    preventive protection, and risk mitigation. Build long-term customer relationships through dependable
+    service. Adopt advanced fire-protection technologies and industry best practices.
+</p>
+
+
 <h2>Why Choose Our Fire Fighting Systems?</h2>
 
 <p>

@@ -220,6 +220,29 @@
     reducing the risk of future pest activity.
 </p>
 
+<h2>About Us</h2>
+<p>
+    Cosmos Enterprises is a professionally managed pest control and hygiene management services company
+    delivering safe, reliable, and scientifically designed pest-management solutions across residential,
+    commercial, industrial, and institutional sectors. With a strong commitment to public health, safety,
+    and environmental responsibility, we provide end-to-end pest control services along with pest-control
+    equipment, accessories, chemicals, and maintenance support.
+</p>
+
+<h2>Vision</h2>
+<p>
+    To become India’s most dependable and innovative pest-management solutions provider, ensuring
+    healthier, safer, and pest-free environments.
+</p>
+
+<h2>Mission</h2>
+<p>
+    Deliver scientifically proven and eco-responsible pest-control solutions. Maintain high service
+    quality, transparency, and ethical practices. Provide customized treatment plans based on site-
+    specific needs. Build long-term relationships through responsive after-sales service.
+</p>
+
+
 <h2>Why Choose Our Pest Control Services?</h2>
 
 <p>

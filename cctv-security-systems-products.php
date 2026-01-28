@@ -155,11 +155,11 @@
       <!-- Premium Section -->
       <section class="premium-section style-two">
         <div class="auto-container">
-          <h2
-            class="fw-bold text-dark mb-4 border-start border-4 border-primary ps-3"
-          >
-            Advanced CCTV Camera Types
-          </h2>
+         <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Advanced CCTV Camera Types
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
 
           <div class="row clearfix">
             <!-- CCTV Camera Installation -->
@@ -168,7 +168,7 @@
                 <div class="image">
                   <a href="hd-cameras.html">
                     <img
-                      src="assets/images/services/hd-camera.jpg"
+                      src="assets/images/services/1.jpg"
                       alt="HD CCTV Cameras"
                     />
                   </a>
@@ -195,7 +195,7 @@
                 <div class="image">
                   <a href="ip-cameras.html">
                     <img
-                      src="assets/images/services/ip-camera.jpg"
+                      src="assets/images/services/2.jpg"
                       alt="IP Cameras"
                     />
                   </a>
@@ -221,7 +221,7 @@
                 <div class="image">
                   <a href="varifocal-cameras.html">
                     <img
-                      src="assets/images/services/varifocal-camera.jpg"
+                      src="assets/images/services/3.jpg"
                       alt="Varifocal Cameras"
                     />
                   </a>
@@ -249,7 +249,7 @@
                 <div class="image">
                   <a href="ptz-cameras.html">
                     <img
-                      src="assets/images/services/ptz-camera.jpg"
+                      src="assets/images/services/4.jpg"
                       alt="PTZ Cameras"
                     />
                   </a>
@@ -275,7 +275,7 @@
                 <div class="image">
                   <a href="anpr-cameras.html">
                     <img
-                      src="assets/images/services/anpr-camera.jpg"
+                      src="assets/images/services/5.jpg"
                       alt="ANPR Cameras"
                     />
                   </a>
@@ -301,7 +301,7 @@
                 <div class="image">
                   <a href="wireless-cameras.html">
                     <img
-                      src="assets/images/services/wireless-camera.jpg"
+                      src="assets/images/services/6.jpg"
                       alt="Wireless Cameras"
                     />
                   </a>
@@ -327,7 +327,7 @@
                 <div class="image">
                   <a href="wifi-cameras.html">
                     <img
-                      src="assets/images/services/wifi-camera.jpg"
+                      src="assets/images/services/7.jpg"
                       alt="WiFi Cameras"
                     />
                   </a>
@@ -353,7 +353,7 @@
                 <div class="image">
                   <a href="4g-cameras.html">
                     <img
-                      src="assets/images/services/4g-camera.jpg"
+                      src="assets/images/services/8.jpg"
                       alt="4G Cameras"
                     />
                   </a>
@@ -379,7 +379,7 @@
                 <div class="image">
                   <a href="solar-cameras.html">
                     <img
-                      src="assets/images/services/solar-camera.jpg"
+                      src="assets/images/services/9.jpg"
                       alt="Solar Cameras"
                     />
                   </a>
@@ -405,7 +405,7 @@
                 <div class="image">
                   <a href="spy-cameras.html">
                     <img
-                      src="assets/images/services/spy-camera.jpg"
+                      src="assets/images/services/10.jpg"
                       alt="Spy Cameras"
                     />
                   </a>
@@ -427,11 +427,12 @@
             </div>
           </div>
 
-          <h2
-            class="fw-bold text-dark mb-4 border-start border-4 border-success ps-3"
-          >
-            CCTV Recording & Storage Solutions
-          </h2>
+           <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    CCTV Recording & Storage Solutions
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+        
 
           <div class="row clearfix">
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
@@ -439,7 +440,7 @@
                 <div class="image">
                   <a href="dvr.html">
                     <img
-                      src="assets/images/services/dvr.jpg"
+                      src="assets/images/services/11.jpg"
                       alt="DVR Digital Video Recorder"
                     />
                   </a>
@@ -464,7 +465,7 @@
                 <div class="image">
                   <a href="nvr.html">
                     <img
-                      src="assets/images/services/nvr.jpg"
+                      src="assets/images/services/12.jpg"
                       alt="NVR Network Video Recorder"
                     />
                   </a>
@@ -488,7 +489,7 @@
                 <div class="image">
                   <a href="hard-disk.html">
                     <img
-                      src="assets/images/services/hard-disk.jpg"
+                      src="assets/images/services/13.jpg"
                       alt="CCTV Hard Disk"
                     />
                   </a>
@@ -508,11 +509,12 @@
             </div>
           </div>
 
-          <h2
-            class="fw-bold text-dark mb-4 border-start border-4 border-warning ps-3"
-          >
-            Complete CCTV Accessories, Cables & Tools
-          </h2>
+		  
+		      <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+      Complete CCTV Accessories, Cables & Tools
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
 
           <div class="row clearfix">
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
@@ -520,7 +522,7 @@
                 <div class="image">
                   <a href="power-supply.html">
                     <img
-                      src="assets/images/services/power-supply.jpg"
+                      src="assets/images/services/14.jpg"
                       alt="CCTV Power Supply"
                     />
                   </a>
@@ -544,7 +546,7 @@
                 <div class="image">
                   <a href="poe-switch.html">
                     <img
-                      src="assets/images/services/poe-switch.jpg"
+                      src="assets/images/services/15.jpg"
                       alt="PoE Switch"
                     />
                   </a>
@@ -568,7 +570,7 @@
                 <div class="image">
                   <a href="hdmi-cable.html">
                     <img
-                      src="assets/images/services/hdmi-cable.jpg"
+                      src="assets/images/services/16.jpg"
                       alt="HDMI Cable"
                     />
                   </a>
@@ -592,7 +594,7 @@
                 <div class="image">
                   <a href="vga-cable.html">
                     <img
-                      src="assets/images/services/vga-cable.jpg"
+                      src="assets/images/services/17.jpg"
                       alt="VGA Cable"
                     />
                   </a>
@@ -616,7 +618,7 @@
                 <div class="image">
                   <a href="cat6-cable.html">
                     <img
-                      src="assets/images/services/cat6-cable.jpg"
+                      src="assets/images/services/18.jpg"
                       alt="CAT6 Cable"
                     />
                   </a>
@@ -640,7 +642,7 @@
                 <div class="image">
                   <a href="3plus1-copper-wire.html">
                     <img
-                      src="assets/images/services/3plus1-wire.jpg"
+                      src="assets/images/services/19.jpg"
                       alt="3+1 Copper Wire"
                     />
                   </a>
@@ -666,7 +668,7 @@
                 <div class="image">
                   <a href="weatherproof-conceal-box.html">
                     <img
-                      src="assets/images/services/conceal-box.jpg"
+                      src="assets/images/services/20.jpg"
                       alt="Weatherproof Conceal Box"
                     />
                   </a>
@@ -694,7 +696,7 @@
                 <div class="image">
                   <a href="camera-housing.html">
                     <img
-                      src="assets/images/services/camera-housing.jpg"
+                      src="assets/images/services/21.jpg"
                       alt="Camera Housing"
                     />
                   </a>
@@ -718,7 +720,7 @@
                 <div class="image">
                   <a href="coupler.html">
                     <img
-                      src="assets/images/services/coupler.jpg"
+                      src="assets/images/services/22.jpg"
                       alt="Coupler"
                     />
                   </a>
@@ -742,7 +744,7 @@
                 <div class="image">
                   <a href="bnc-connectors.html">
                     <img
-                      src="assets/images/services/bnc-connector.jpg"
+                      src="assets/images/services/23.jpg"
                       alt="BNC Connectors"
                     />
                   </a>
@@ -766,7 +768,7 @@
                 <div class="image">
                   <a href="rc-connectors.html">
                     <img
-                      src="assets/images/services/rc-connector.jpg"
+                      src="assets/images/services/24.jpg"
                       alt="RC Connectors"
                     />
                   </a>
@@ -785,21 +787,6 @@
               </div>
             </div>
           </div>
-
-        </div>
-      </section>
-
-      <section class="premium-section style-two">
-        <div class="auto-container">
-          
-        </div>
-      </section>
-
-      <section class="premium-section style-two">
-        <div class="auto-container">
-          
-
-          
         </div>
       </section>
 

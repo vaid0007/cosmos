@@ -98,7 +98,7 @@
         <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/pest-general.jpg" alt="General Pest Control">
+      <img src="assets/images/services/a.jpg" alt="General Pest Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -118,7 +118,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/termite.jpg" alt="Termite Control">
+      <img src="assets/images/services/b.jpg" alt="Termite Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -138,7 +138,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/bedbug.jpg" alt="Bed Bug Control">
+      <img src="assets/images/services/c.jpg" alt="Bed Bug Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -158,7 +158,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/rodent.jpg" alt="Rodent Control">
+      <img src="assets/images/services/d.jpg" alt="Rodent Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -178,7 +178,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/mosquito.jpg" alt="Mosquito Control">
+      <img src="assets/images/services/e.jpg" alt="Mosquito Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -198,7 +198,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/wood-borer.jpg" alt="Wood Borer Control">
+      <img src="assets/images/services/f.jpg" alt="Wood Borer Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -218,7 +218,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/sanitization.jpg" alt="Sanitization Services">
+      <img src="assets/images/services/g.jpg" alt="Sanitization Services">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -238,7 +238,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fumigation.jpg" alt="Fumigation Services">
+      <img src="assets/images/services/h.jpg" alt="Fumigation Services">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -258,7 +258,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/eco-pest.jpg" alt="Eco Friendly Pest Control">
+      <img src="assets/images/services/i.jpg" alt="Eco Friendly Pest Control">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -278,7 +278,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/pest-amc.jpg" alt="Pest Control AMC">
+      <img src="assets/images/services/j.jpg" alt="Pest Control AMC">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -298,7 +298,7 @@
         </div>
 
          <h2 class="fw-bold text-center text-dark mb-5 position-relative">
-    Core Services for Pest Control
+    Pest Control Accessories & Equipments
 
 <span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
 </h2>
@@ -310,7 +310,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/sprayer.jpg" alt="Pest Control Sprayers">
+      <img src="assets/images/services/k.jpg" alt="Pest Control Sprayers">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -330,7 +330,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fogging-machine.jpg" alt="Fogging Machines">
+      <img src="assets/images/services/l.jpg" alt="Fogging Machines">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -350,7 +350,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/mist-blower.jpg" alt="Mist Blowers">
+      <img src="assets/images/services/m.jpg" alt="Mist Blowers">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -370,7 +370,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/rodent-bait.jpg" alt="Rodent Bait Stations">
+      <img src="assets/images/services/n.jpg" alt="Rodent Bait Stations">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -390,7 +390,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/rodent-trap.jpg" alt="Rodent Traps">
+      <img src="assets/images/services/o.jpg" alt="Rodent Traps">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -410,7 +410,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/glue-board.jpg" alt="Glue Boards">
+      <img src="assets/images/services/p.jpg" alt="Glue Boards">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -430,7 +430,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/monitoring-device.jpg" alt="Monitoring Devices">
+      <img src="assets/images/services/q.jpg" alt="Monitoring Devices">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -450,7 +450,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/safety-gear.jpg" alt="Protective Safety Gear">
+      <img src="assets/images/services/r.jpg" alt="Protective Safety Gear">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -470,7 +470,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/application-tools.jpg" alt="Application Tools">
+      <img src="assets/images/services/s.jpg" alt="Application Tools">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -490,7 +490,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/low-toxicity.jpg" alt="Low Toxicity Chemicals">
+      <img src="assets/images/services/t.jpg" alt="Low Toxicity Chemicals">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -510,7 +510,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/insect-light-trap.jpg" alt="Insect Light Traps">
+      <img src="assets/images/services/u.jpg" alt="Insect Light Traps">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -530,7 +530,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fly-catcher.jpg" alt="Fly Catcher Units">
+      <img src="assets/images/services/v.jpg" alt="Fly Catcher Units">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>

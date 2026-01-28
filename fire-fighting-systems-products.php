@@ -89,10 +89,486 @@
 	<!-- Premium Section -->
 	<section class="premium-section style-two">
     <div class="auto-container">
+
+    <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Core Services for Fire Fighting Systems
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
         <div class="row clearfix">
+
+        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-installation.jpg" alt="Fire Fighting System Installation">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-fire-extinguisher"></div>
+        <h5>Fire-Fighting System Installation</h5>
+      </div>
+      <div class="text">
+        End-to-end supply and installation of certified fire-fighting
+        systems for residential, commercial, and industrial facilities.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-hydrant.jpg" alt="Fire Hydrant System">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-water"></div>
+        <h5>Fire Hydrant & Sprinkler Systems</h5>
+      </div>
+      <div class="text">
+        Design and installation of fire hydrant and automatic
+        sprinkler systems as per safety norms.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-alarm.jpg" alt="Fire Alarm Systems">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-alarm"></div>
+        <h5>Fire Alarm & Detection Systems</h5>
+      </div>
+      <div class="text">
+        Early warning fire alarm and detection systems to
+        minimize damage and enhance occupant safety.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/smoke-detector.jpg" alt="Smoke Detector">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-smoke"></div>
+        <h5>Smoke & Heat Detectors</h5>
+      </div>
+      <div class="text">
+        Installation of smoke, heat, and multisensor
+        detectors for rapid fire detection.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/gas-flooding.jpg" alt="Gas Flooding System">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-gas"></div>
+        <h5>Fire Suppression & Gas Flooding</h5>
+      </div>
+      <div class="text">
+        Advanced fire suppression and gas flooding systems
+        for data centers and critical infrastructure.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-extinguisher.jpg" alt="Fire Extinguisher Service">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-fire-extinguisher"></div>
+        <h5>Fire Extinguisher Services</h5>
+      </div>
+      <div class="text">
+        Supply, refilling, testing, and maintenance of
+        all types of fire extinguishers.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-pump.jpg" alt="Fire Pump Room">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-engine"></div>
+        <h5>Fire Pump Room Installation</h5>
+      </div>
+      <div class="text">
+        Installation, testing, and commissioning of
+        fire pump rooms as per compliance standards.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/emergency-exit.jpg" alt="Emergency Exit Systems">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-exit"></div>
+        <h5>Emergency Exit & Evacuation</h5>
+      </div>
+      <div class="text">
+        Emergency exit planning and evacuation systems
+        to ensure safe movement during emergencies.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-signage.jpg" alt="Fire Safety Signage">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-sign"></div>
+        <h5>Fire Safety Signage & Assembly Points</h5>
+      </div>
+      <div class="text">
+        Installation of safety signage and clearly
+        marked assembly points as per norms.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-testing.jpg" alt="Fire System Testing">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-check"></div>
+        <h5>Testing & Certification</h5>
+      </div>
+      <div class="text">
+        Fire system testing, commissioning, and
+        certification for regulatory compliance.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-amc.jpg" alt="Fire AMC">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-tools"></div>
+        <h5>Fire Safety AMC</h5>
+      </div>
+      <div class="text">
+        Annual maintenance contracts for complete
+        upkeep of fire safety systems.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-audit.jpg" alt="Fire Safety Audit">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-clipboard"></div>
+        <h5>Fire Safety Audits</h5>
+      </div>
+      <div class="text">
+        Professional fire safety audits and risk
+        assessments to identify vulnerabilities.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/compliance.jpg" alt="Fire Compliance Consultancy">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-consulting"></div>
+        <h5>Compliance Consultancy</h5>
+      </div>
+      <div class="text">
+        Site inspections and expert consultancy to
+        meet local fire safety regulations.
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 </div>
+
+
+
+<h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Fire Safety Products & Accessories
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
+        <div class="row clearfix">
+
+        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-extinguishers.jpg" alt="Fire Extinguishers">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-fire-extinguisher"></div>
+        <h5>Fire Extinguishers</h5>
+      </div>
+      <div class="text">
+        Certified fire extinguishers including ABC, CO₂,
+        Foam, Water, and Clean Agent types for all hazards.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-hose-reel.jpg" alt="Fire Hose Reels">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-hose"></div>
+        <h5>Fire Hose Reels & Valves</h5>
+      </div>
+      <div class="text">
+        Fire hose reels, hydrant valves, and branch pipes
+        designed for high-pressure fire-fighting systems.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-sprinkler.jpg" alt="Fire Sprinklers">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-water"></div>
+        <h5>Fire Sprinklers & Valves</h5>
+      </div>
+      <div class="text">
+        Automatic fire sprinklers, spray nozzles,
+        and control valves for fast fire suppression.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-alarm-panel.jpg" alt="Fire Alarm Panels">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-alarm"></div>
+        <h5>Fire Alarm Panels</h5>
+      </div>
+      <div class="text">
+        Conventional and addressable fire alarm panels
+        with manual call points for early fire alerts.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-detector.jpg" alt="Fire Detectors">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-smoke"></div>
+        <h5>Fire Detectors</h5>
+      </div>
+      <div class="text">
+        Smoke, heat, and multisensor detectors for
+        accurate and rapid fire detection.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-bucket.jpg" alt="Fire Buckets">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-bucket"></div>
+        <h5>Fire Buckets & Hose Boxes</h5>
+      </div>
+      <div class="text">
+        Fire buckets, sand bins, and hose boxes for
+        first-response fire control solutions.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-pump-motor.jpg" alt="Fire Pumps">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-engine"></div>
+        <h5>Fire Pumps & Motors</h5>
+      </div>
+      <div class="text">
+        Electric and diesel fire pumps with controllers
+        for dependable water supply during emergencies.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-rated-door.jpg" alt="Fire Rated Doors">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-door"></div>
+        <h5>Fire-Rated Doors</h5>
+      </div>
+      <div class="text">
+        Fire-rated doors and safety cabinets designed
+        to prevent fire spread and protect assets.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/emergency-light.jpg" alt="Emergency Lights">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-exit"></div>
+        <h5>Emergency Lights & Exit Signage</h5>
+      </div>
+      <div class="text">
+        Emergency lighting and illuminated exit signage
+        to guide safe evacuation during power failure.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fire-ppe.jpg" alt="Fire Safety PPE">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-shield"></div>
+        <h5>Fire Safety PPE Kits</h5>
+      </div>
+      <div class="text">
+        Personal protective equipment including helmets,
+        gloves, jackets, and complete fire safety PPE kits.
+      </div>
+    </div>
+  </div>
+</div>
+
 
     </div>
 </section>

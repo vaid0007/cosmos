@@ -87,141 +87,466 @@
 	<!-- Premium Section -->
 <section class="premium-section style-two">
     <div class="auto-container">
+
+    <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Core Services for Pest Control
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
         <div class="row clearfix">
 
-            <!-- General Pest Control -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="general-pest-control-services.php">
-                            <img src="assets/images/resource/pest-1.jpg" alt="General Pest Control" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-bug"></div>
-                            <h5><a href="general-pest-control-services.php">General Pest Control</a></h5>
-                        </div>
-                        <div class="text">
-                            Effective control of common pests to maintain
-                            clean, hygienic, and pest-free environments.
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/pest-general.jpg" alt="General Pest Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-bug"></div>
+        <h5>General Pest Control</h5>
+      </div>
+      <div class="text">
+        Comprehensive pest control solutions for homes and offices,
+        ensuring a safe and hygienic environment.
+      </div>
+    </div>
+  </div>
+</div>
 
-            <!-- Termite Control -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="termite-control.html">
-                            <img src="assets/images/resource/pest-2.jpg" alt="Termite Control Services" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-termite"></div>
-                            <h5><a href="termite-control.html">Termite Control</a></h5>
-                        </div>
-                        <div class="text">
-                            Pre and post-construction termite treatment
-                            to protect structures from damage.
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Cockroach & Ant Control -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="cockroach-ant-control.html">
-                            <img src="assets/images/resource/pest-3.jpg" alt="Cockroach Ant Control" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-insect"></div>
-                            <h5><a href="cockroach-ant-control.html">Cockroach & Ant Control</a></h5>
-                        </div>
-                        <div class="text">
-                            Targeted treatment to eliminate cockroaches
-                            and ants from residential and commercial areas.
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/termite.jpg" alt="Termite Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-home"></div>
+        <h5>Termite / White-Ant Treatment</h5>
+      </div>
+      <div class="text">
+        Pre-construction and post-construction termite treatments
+        for long-term structural protection.
+      </div>
+    </div>
+  </div>
+</div>
 
-            <!-- Rodent Control -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="rodent-control.html">
-                            <img src="assets/images/resource/pest-4.jpg" alt="Rodent Control Services" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-rat"></div>
-                            <h5><a href="rodent-control.html">Rodent Control</a></h5>
-                        </div>
-                        <div class="text">
-                            Safe and effective rodent control solutions
-                            to prevent contamination and damage.
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Mosquito & Fly Control -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="mosquito-fly-control.html">
-                            <img src="assets/images/resource/pest-5.jpg" alt="Mosquito Fly Control" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-mosquito"></div>
-                            <h5><a href="mosquito-fly-control.html">Mosquito & Fly Control</a></h5>
-                        </div>
-                        <div class="text">
-                            Control programs to reduce mosquitoes
-                            and flies for healthier surroundings.
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/bedbug.jpg" alt="Bed Bug Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-bug"></div>
+        <h5>Cockroach, Ant & Bed-Bug Control</h5>
+      </div>
+      <div class="text">
+        Targeted treatments to eliminate crawling and hidden pests
+        from residential and commercial spaces.
+      </div>
+    </div>
+  </div>
+</div>
 
-            <!-- Sanitization & Disinfection -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="sanitization-disinfection.html">
-                            <img src="assets/images/resource/pest-6.jpg" alt="Sanitization and Disinfection" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-spray"></div>
-                            <h5><a href="sanitization-disinfection.html">Sanitization/Disinfection</a></h5>
-                        </div>
-                        <div class="text">
-                            Professional sanitization services to ensure
-                            hygiene and infection control.
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/rodent.jpg" alt="Rodent Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-rat"></div>
+        <h5>Rodent & Rat Control</h5>
+      </div>
+      <div class="text">
+        Effective rodent control, trapping, and proofing solutions
+        to prevent damage and contamination.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/mosquito.jpg" alt="Mosquito Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-mosquito"></div>
+        <h5>Mosquito & Fly Control</h5>
+      </div>
+      <div class="text">
+        Fogging, spraying, and preventive mosquito control programs
+        for homes and commercial areas.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/wood-borer.jpg" alt="Wood Borer Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-wood"></div>
+        <h5>Wood-Borer Treatment</h5>
+      </div>
+      <div class="text">
+        Specialized treatment to protect wooden furniture,
+        doors, and structures from wood-boring insects.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/sanitization.jpg" alt="Sanitization Services">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-cleaning"></div>
+        <h5>Sanitization & Disinfection</h5>
+      </div>
+      <div class="text">
+        Professional sanitization services for homes, offices,
+        warehouses, and industrial facilities.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fumigation.jpg" alt="Fumigation Services">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-factory"></div>
+        <h5>Fumigation Services</h5>
+      </div>
+      <div class="text">
+        Warehouse and export-unit fumigation services complying
+        with safety and regulatory standards.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/eco-pest.jpg" alt="Eco Friendly Pest Control">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-leaf"></div>
+        <h5>Herbal & Eco-Friendly Solutions</h5>
+      </div>
+      <div class="text">
+        Safe, non-toxic, and eco-friendly pest control treatments
+        suitable for homes and sensitive environments.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/pest-amc.jpg" alt="Pest Control AMC">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-tools"></div>
+        <h5>Pest Control AMC</h5>
+      </div>
+      <div class="text">
+        Annual maintenance contracts ensuring regular inspections,
+        treatments, and long-term pest prevention.
+      </div>
+    </div>
+  </div>
+</div>
+
 
         </div>
+
+         <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Core Services for Pest Control
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
+        <div class="row clearfix">
+
+       
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/sprayer.jpg" alt="Pest Control Sprayers">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-spray"></div>
+        <h5>Sprayers</h5>
+      </div>
+      <div class="text">
+        Manual and motorized sprayers for precise and effective
+        application of pest control chemicals.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fogging-machine.jpg" alt="Fogging Machines">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-fog"></div>
+        <h5>Fogging Machines</h5>
+      </div>
+      <div class="text">
+        Advanced fogging machines for mosquito control,
+        disinfection, and large-area pest management.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/mist-blower.jpg" alt="Mist Blowers">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-wind"></div>
+        <h5>Mist Blowers</h5>
+      </div>
+      <div class="text">
+        High-performance mist blowers for outdoor and
+        large-scale pest control applications.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/rodent-bait.jpg" alt="Rodent Bait Stations">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-rat"></div>
+        <h5>Rodent Bait Stations</h5>
+      </div>
+      <div class="text">
+        Secure rodent bait stations designed for safe
+        and effective rodent monitoring and control.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/rodent-trap.jpg" alt="Rodent Traps">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-trap"></div>
+        <h5>Rodent Traps</h5>
+      </div>
+      <div class="text">
+        Mechanical and glue-based traps for efficient
+        rodent capture and population control.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/glue-board.jpg" alt="Glue Boards">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-bug"></div>
+        <h5>Glue Boards</h5>
+      </div>
+      <div class="text">
+        Non-toxic glue boards used for monitoring
+        and controlling crawling insects.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/monitoring-device.jpg" alt="Monitoring Devices">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-search"></div>
+        <h5>Monitoring Devices</h5>
+      </div>
+      <div class="text">
+        Pest monitoring devices to track infestation
+        levels and treatment effectiveness.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/safety-gear.jpg" alt="Protective Safety Gear">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-shield"></div>
+        <h5>Protective Safety Gear</h5>
+      </div>
+      <div class="text">
+        Protective equipment including gloves, masks,
+        coveralls, and safety tools for technicians.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/application-tools.jpg" alt="Application Tools">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-tools"></div>
+        <h5>Application Tools</h5>
+      </div>
+      <div class="text">
+        Specialized tools used for precise chemical
+        application and pest treatment processes.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/low-toxicity.jpg" alt="Low Toxicity Chemicals">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-flask"></div>
+        <h5>Low-Toxicity Chemicals</h5>
+      </div>
+      <div class="text">
+        Odorless and low-toxicity pest control chemicals
+        safe for residential and commercial use.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/insect-light-trap.jpg" alt="Insect Light Traps">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-light"></div>
+        <h5>Insect Light Traps</h5>
+      </div>
+      <div class="text">
+        UV-based insect light traps for effective
+        fly and insect monitoring and control.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+  <div class="inner-box">
+    <div class="image">
+      <img src="assets/images/services/fly-catcher.jpg" alt="Fly Catcher Units">
+    </div>
+    <div class="lower-content">
+      <div class="hover-bg-color"></div>
+      <div class="upper-box">
+        <div class="icon flaticon-fly"></div>
+        <h5>Fly Catcher Units</h5>
+      </div>
+      <div class="text">
+        Electric and adhesive fly catcher units ideal
+        for commercial kitchens and warehouses.
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
     </div>
 </section>
 

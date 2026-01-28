@@ -87,139 +87,82 @@
 	<!-- Premium Section -->
 <section class="premium-section style-two">
     <div class="auto-container">
+
+    <h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    AMC & Support Services
+    <span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
         <div class="row clearfix">
 
-            <!-- Comprehensive AMC -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="comprehensive-amc.html">
-                            <img src="assets/images/resource/amc-1.jpg" alt="Comprehensive AMC Services" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-tools"></div>
-                            <h5><a href="comprehensive-amc.html">Comprehensive AMC</a></h5>
-                        </div>
-                        <div class="text">
-                            End-to-end annual maintenance contracts covering
-                            CCTV, fire safety, access control, and pest control systems.
-                        </div>
-                    </div>
-                </div>
+        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="amc-services.html">
+                <img src="assets/images/services/amc.jpg" alt="Annual Maintenance Contracts">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-tools"></div>
+                <h5><a href="amc-services.html">Annual Maintenance Contracts (AMC)</a></h5>
             </div>
+            <div class="text">
+                Comprehensive AMC plans covering preventive
+                maintenance, health checks, and system upkeep
+                for uninterrupted security operations.
+            </div>
+        </div>
+    </div>
+</div>
 
-            <!-- Preventive Maintenance -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="preventive-maintenance.html">
-                            <img src="assets/images/resource/amc-2.jpg" alt="Preventive Maintenance Services" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-settings"></div>
-                            <h5><a href="preventive-maintenance.html">Preventive Maintenance</a></h5>
-                        </div>
-                        <div class="text">
-                            Scheduled inspections and servicing to reduce
-                            breakdowns and extend equipment life.
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Corrective Maintenance -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="corrective-maintenance.html">
-                            <img src="assets/images/resource/amc-3.jpg" alt="Corrective Maintenance Support" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-wrench"></div>
-                            <h5><a href="corrective-maintenance.html">Corrective Maintenance</a></h5>
-                        </div>
-                        <div class="text">
-                            Quick fault diagnosis and repair services
-                            to restore system functionality.
-                        </div>
-                    </div>
-                </div>
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="system-maintenance.html">
+                <img src="assets/images/services/system-maintenance.jpg" alt="System Maintenance Services">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-settings"></div>
+                <h5><a href="system-maintenance.html">System Maintenance & Support</a></h5>
             </div>
+            <div class="text">
+                Professional maintenance and troubleshooting
+                services to ensure optimal performance of all
+                security and surveillance systems.
+            </div>
+        </div>
+    </div>
+</div>
 
-            <!-- Emergency Support -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="emergency-support.html">
-                            <img src="assets/images/resource/amc-4.jpg" alt="Emergency Technical Support" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-support"></div>
-                            <h5><a href="emergency-support.html">Emergency Support</a></h5>
-                        </div>
-                        <div class="text">
-                            Priority technical assistance and emergency
-                            breakdown support when you need it most.
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Inspection & Compliance -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="inspection-compliance.html">
-                            <img src="assets/images/resource/amc-5.jpg" alt="Inspection and Compliance Services" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-clipboard"></div>
-                            <h5><a href="inspection-compliance.html">Inspection & Compliance</a></h5>
-                        </div>
-                        <div class="text">
-                            System audits, inspection reports, and
-                            compliance support for safety regulations.
-                        </div>
-                    </div>
-                </div>
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="after-sales-support.html">
+                <img src="assets/images/services/after-sales-support.jpg" alt="After Sales Technical Support">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-headset"></div>
+                <h5><a href="after-sales-support.html">After-Sales Technical Support</a></h5>
             </div>
+            <div class="text">
+                Dedicated after-sales support including remote
+                assistance, on-site service, upgrades, and
+                technical guidance.
+            </div>
+        </div>
+    </div>
+</div>
 
-            <!-- Technical Support & Upgrades -->
-            <div class="security-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image">
-                        <a href="technical-support-upgrades.html">
-                            <img src="assets/images/resource/amc-6.jpg" alt="Technical Support and Upgrades" />
-                        </a>
-                    </div>
-                    <div class="lower-content">
-                        <div class="hover-bg-color"></div>
-                        <div class="upper-box">
-                            <div class="icon flaticon-refresh"></div>
-                            <h5><a href="technical-support-upgrades.html">Support & Upgrades</a></h5>
-                        </div>
-                        <div class="text">
-                            Ongoing technical support, system upgrades,
-                            and performance optimization services.
-                        </div>
-                    </div>
-                </div>
-            </div>
 
         </div>
     </div>

@@ -89,139 +89,207 @@
 	<!-- Premium Section -->
 	<section class="premium-section style-two">
     <div class="auto-container">
+
+<h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Access Control Systems
+    <span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
         <div class="row clearfix">
-
-    <!-- Biometric Attendance System -->
     <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="biometric-attendance-system.html">
-                    <img src="assets/images/services/AccessControl_product1.jpg" alt="Biometric Attendance System" />
-                </a>
+    <div class="inner-box">
+        <div class="image">
+            <a href="biometric-systems.html">
+                <img src="assets/images/services/biometric.jpg" alt="Biometric Systems">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-fingerprint"></div>
+                <h5><a href="biometric-systems.html">Biometric Systems</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-fingerprint"></div>
-                    <h5><a href="biometric-attendance-system.html">Biometric Attendance System</a></h5>
-                </div>
-                <div class="text">
-                    Accurate biometric attendance and access tracking using fingerprint
-                    and facial recognition technology.
-                </div>
+            <div class="text">
+                Advanced biometric access control systems using
+                fingerprint, face recognition, and RFID technology.
             </div>
         </div>
     </div>
+</div>
 
-    <!-- RFID / Card Access Control -->
-    <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="rfid-access-control.html">
-                    <img src="assets/images/services/AccessControl_product2.jpg" alt="RFID Access Control System" />
-                </a>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="electronic-locks.html">
+                <img src="assets/images/services/electronic-lock.jpg" alt="Electronic Locks">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-lock"></div>
+                <h5><a href="electronic-locks.html">Electronic Locks</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-id-card"></div>
-                    <h5><a href="rfid-access-control.html">RFID / Card Access Control</a></h5>
-                </div>
-                <div class="text">
-                    Secure card and RFID-based entry systems for offices,
-                    factories, and residential complexes.
-                </div>
+            <div class="text">
+                Smart electronic locking solutions for secure
+                entry control in residential and commercial spaces.
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Smart Door Locks -->
-    <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="smart-door-locks.html">
-                    <img src="assets/images/services/AccessControl_product3.jpg" alt="Smart Door Locks" />
-                </a>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="hydraulic-locks.html">
+                <img src="assets/images/services/hydraulic-lock.jpg" alt="Hydraulic Locks">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-door"></div>
+                <h5><a href="hydraulic-locks.html">Hydraulic Locks</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-smart-lock"></div>
-                    <h5><a href="smart-door-locks.html">Smart Door Locks</a></h5>
-                </div>
-                <div class="text">
-                    Keyless smart locks with PIN, card, biometric,
-                    and mobile app control.
-                </div>
+            <div class="text">
+                Heavy-duty hydraulic locking systems for high-
+                security doors and controlled access points.
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Boom Barriers & Turnstiles -->
-    <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="boom-barrier-turnstile.html">
-                    <img src="assets/images/services/AccessControl_product4.jpg" alt="Boom Barrier and Turnstile System" />
-                </a>
+
+
+</div>
+
+
+<h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Automation & Entry Control Solutions
+    <span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
+
+<div class="row clearfix">
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="boom-barriers.html">
+                <img src="assets/images/services/boom-barrier.jpg" alt="Boom Barriers">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-barrier"></div>
+                <h5><a href="boom-barriers.html">Boom Barriers</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-barrier"></div>
-                    <h5><a href="boom-barrier-turnstile.html">Boom Barriers & Turnstiles</a></h5>
-                </div>
-                <div class="text">
-                    Automated vehicle and pedestrian access control
-                    systems for secure entry management.
-                </div>
+            <div class="text">
+                Automated boom barriers for vehicle access
+                control at parking areas and entry gates.
             </div>
         </div>
     </div>
+</div>
 
-    <!-- EPABX / IPPBX Systems -->
-    <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="epabx-ippbx-system.html">
-                    <img src="assets/images/services/AccessControl_product5.jpg" alt="EPABX IPPBX System" />
-                </a>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="motorized-gates.html">
+                <img src="assets/images/services/motorized-gate.jpg" alt="Motorized Gates">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-gate"></div>
+                <h5><a href="motorized-gates.html">Motorized Gates</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-telephone-1"></div>
-                    <h5><a href="epabx-ippbx-system.html">EPABX / IPPBX Systems</a></h5>
-                </div>
-                <div class="text">
-                    Advanced communication systems for seamless
-                    internal and external voice connectivity.
-                </div>
+            <div class="text">
+                Automatic motorized gate systems for secure
+                and convenient residential and industrial entry.
             </div>
         </div>
     </div>
+</div>
 
-    <!-- AMC & Maintenance -->
-    <div class="security-block col-lg-4 col-md-6 col-sm-12">
-        <div class="inner-box">
-            <div class="image">
-                <a href="access-control-amc.html">
-                    <img src="assets/images/services/AccessControl_product6.jpg" alt="Access Control AMC Services" />
-                </a>
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="dfmd-gates.html">
+                <img src="assets/images/services/dfmd-gate.jpg" alt="DFMD Gates">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-security"></div>
+                <h5><a href="dfmd-gates.html">DFMD Gates</a></h5>
             </div>
-            <div class="lower-content">
-                <div class="hover-bg-color"></div>
-                <div class="upper-box">
-                    <div class="icon flaticon-settings"></div>
-                    <h5><a href="access-control-amc.html">AMC & Maintenance</a></h5>
-                </div>
-                <div class="text">
-                    Preventive maintenance and AMC services to ensure
-                    uninterrupted access control system performance.
-                </div>
+            <div class="text">
+                Door Frame Metal Detector gates for enhanced
+                security screening at sensitive locations.
             </div>
         </div>
     </div>
+</div>
+</div>
+
+<h2 class="fw-bold text-center text-dark mb-5 position-relative">
+    Security & Traffic Control Systems
+
+<span class="d-block mx-auto mt-2 bg-info" style="width:60px;height:3px;"></span>
+</h2>
+
+
+<div class="row clearfix">
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="tyre-killers.html">
+                <img src="assets/images/services/tyre-killer.jpg" alt="Tyre Killers">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-roadblock"></div>
+                <h5><a href="tyre-killers.html">Tyre Killers</a></h5>
+            </div>
+            <div class="text">
+                High-security tyre killer systems to prevent
+                unauthorized vehicle entry at restricted zones.
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
+    <div class="inner-box">
+        <div class="image">
+            <a href="parking-management.html">
+                <img src="assets/images/services/parking-system.jpg" alt="Parking Management Systems">
+            </a>
+        </div>
+        <div class="lower-content">
+            <div class="hover-bg-color"></div>
+            <div class="upper-box">
+                <div class="icon flaticon-parking"></div>
+                <h5><a href="parking-management.html">Parking Management Systems</a></h5>
+            </div>
+            <div class="text">
+                Smart parking solutions including access control,
+                ANPR integration, and automated vehicle tracking.
+            </div>
+        </div>
+    </div>
+</div>
 
 </div>
 

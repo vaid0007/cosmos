@@ -740,6 +740,50 @@
                 </div>
               </div>
             </div>
+			
+ <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_4.jpeg" alt="" />
+                  </figure>
+                </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Arjun Kashyap</a></h5>
+                  <div class="designation">Sales Head</div>
+                </div>
+              </div>
+            </div>
+            
+ <!-- Team Member -->
+            <div class="team-member col-lg-4 col-md-6 col-sm-12">
+              <div
+                class="inner-box wow fadeInUp"
+                data-wow-delay="150ms"
+                data-wow-duration="1500ms"
+              >
+                <!--Image Box-->
+                <div class="image-box">
+                  <!--Image-->
+                  <figure class="image">
+                    <img src="assets/images/clients/team_5.jpeg" alt="" />
+                  </figure>
+                </div>
+                <!--Lower Content-->
+                <div class="lower-content">
+                  <h5><a href="#">Jitendra Yadav</a></h5>
+                  <div class="designation">Marketing Head</div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -779,7 +823,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-1.jpg" alt="" />
+									<img src="assets/images/resource/author-1a.jpg" alt="" />
 								</div>
 								<h6>Rajesh Mehta</h6>
 								<div class="designation">Facility Manager</div>
@@ -810,7 +854,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-2.jpg" alt="" />
+									<img src="assets/images/resource/author-2a	.jpg" alt="" />
 								</div>
 								<h6>Anita Sharma</h6>
 								<div class="designation">Business Owner</div>
@@ -841,7 +885,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-1.jpg" alt="" />
+									<img src="assets/images/resource/author-3a.jpg" alt="" />
 								</div>
 								<h6>Vikram Patel</h6>
 								<div class="designation">Operations Head</div>
@@ -872,7 +916,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-2.jpg" alt="" />
+									<img src="assets/images/resource/author-4a.jpg" alt="" />
 								</div>
 								<h6>Neha Verma</h6>
 								<div class="designation">Admin Manager</div>

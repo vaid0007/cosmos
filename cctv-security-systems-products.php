@@ -803,258 +803,180 @@
         </div>
       </section>
 
-      <!-- End Premium Section -->
-
-      <!-- Call To Action Section -->
-      <section class="call-to-action-section">
-        <div class="auto-container">
-          <div class="row clearfix">
-            <!-- Title Column -->
-            <div class="title-column col-lg-8 col-md-12 col-sm-12">
-              <div class="inner-column">
-                <div class="phone flaticon-call-3"></div>
-                <div class="text">
-                  <span>Call us TODAY for a FREE Quote</span> - Your Home or
-                  <br />
-                  Commercial Security System : <span>700.231.0025</span>
-                </div>
-              </div>
-            </div>
-            <!-- Button Column -->
-            <div class="button-column col-lg-4 col-md-12 col-sm-12">
-              <div class="inner-column">
-                <a href="contact.html" class="theme-btn btn-style-two"
-                  ><span class="txt"
-                    ><i class="flaticon-shield-1"></i> free estimate</span
-                  ></a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Call To Action Section -->
-
-      <!-- Testimonial Section -->
-      <section
-        class="testimonial-section style-two"
-        style="background-image: url(assets/images/background/4.jpg)"
-      >
-        <div class="auto-container">
-          <!-- Sec Title -->
-          <div class="sec-title centered">
-            <div class="icon">
-              <img src="assets/images/icons/separater1.png" alt="" />
-            </div>
-            <h2>Clients Reviews</h2>
-            <div class="text">
-              Ipsum dolor sit amet consect asetur adipisicing elit sedunas
-              eiusmod <br />
-              temporas incididunt ut labore dolore magna aliqua.
-            </div>
-          </div>
-
-          <div class="inner-container">
-            <div class="testimonial-carousel owl-carousel owl-theme">
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-1.jpg" alt="" />
-                      </div>
-                      <h6>Donald James</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-2.jpg" alt="" />
-                      </div>
-                      <h6>Riya Samson</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-1.jpg" alt="" />
-                      </div>
-                      <h6>Donald James</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-2.jpg" alt="" />
-                      </div>
-                      <h6>Riya Samson</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-1.jpg" alt="" />
-                      </div>
-                      <h6>Donald James</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Testimonial Block -->
-              <div class="testimonial-block style-two">
-                <div class="inner-box">
-                  <div class="title">
-                    <span class="icon flaticon-quote-4"></span> Real Security
-                    Products Installation.
-                  </div>
-                  <div class="text">
-                    At dolore magna aliqua umt enim ad minim veniam quis nostrud
-                    ulamco aliquip commodo da consequat duis aute irure dolor
-                    repreh derit voluptate cillum dolore afugiat ipsum nula.
-                    Lorem ipsum dolor amet, consectetur adipisicing elits.
-                  </div>
-                  <div class="author-box">
-                    <div class="author-inner">
-                      <div class="author-image">
-                        <img src="assets/images/resource/author-2.jpg" alt="" />
-                      </div>
-                      <h6>Riya Samson</h6>
-                      <div class="designation">our Customer</div>
-                      <div class="rating">
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                        <span class="fa fa-star"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Testimonial Section -->
-
-      <!-- Clients Section -->
-      <section class="clients-section">
+	<!-- End Premium Section -->
+		
+	<!-- Call To Action Section -->
+	<section class="call-to-action-section">
+		<div class="auto-container">
+			<div class="row clearfix">
+				<!-- Title Column -->
+				<div class="title-column col-lg-8 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="phone flaticon-call-3"></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+					</div>
+				</div>
+				<!-- Button Column -->
+				<div class="button-column col-lg-4 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Call To Action Section -->
+	
+	<!-- Testimonial Section -->
+	<section class="testimonial-section" style="background-image: url(assets/images/background/1a.jpg)">
+	<div class="auto-container">
+		
+		<!-- Sec Title -->
+		<div class="sec-title light centered">
+			<div class="icon">
+				<img src="assets/images/icons/separater1.png" alt="" />
+			</div>
+			<h2>What Our Clients Say</h2>
+			<div class="text">
+				Trusted by residential, commercial, and industrial clients
+				for reliable safety, security, and hygiene solutions.
+			</div>
+		</div>
+		
+		<div class="inner-container">
+			<div class="testimonial-carousel owl-carousel owl-theme">
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Professional Fire Safety Installation
+						</div>
+						<div class="text">
+							Cosmos Enterprises provided a complete fire fighting and
+							alarm system for our facility. Their team ensured compliance,
+							proper testing, and smooth handover. Highly reliable service.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-1a.jpg" alt="" />
+								</div>
+								<h6>Rajesh Mehta</h6>
+								<div class="designation">Facility Manager</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Excellent CCTV Surveillance Solutions
+						</div>
+						<div class="text">
+							We installed CCTV cameras and access control systems
+							through Cosmos Enterprises. The installation was clean,
+							well-planned, and supported with AMC services.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-2a	.jpg" alt="" />
+								</div>
+								<h6>Anita Sharma</h6>
+								<div class="designation">Business Owner</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Effective Pest Control Services
+						</div>
+						<div class="text">
+							The pest control and sanitization services were highly
+							effective and safe. Their eco-friendly approach helped
+							us maintain hygiene across our premises.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-3a.jpg" alt="" />
+								</div>
+								<h6>Vikram Patel</h6>
+								<div class="designation">Operations Head</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="title">
+							<span class="icon flaticon-quote-4"></span>
+							Reliable AMC & Support Services
+						</div>
+						<div class="text">
+							Cosmos Enterprises manages our annual maintenance
+							contracts for fire and CCTV systems. Their response
+							time and service quality are excellent.
+						</div>
+						<div class="author-box">
+							<div class="author-inner">
+								<div class="author-image">
+									<img src="assets/images/resource/author-4a.jpg" alt="" />
+								</div>
+								<h6>Neha Verma</h6>
+								<div class="designation">Admin Manager</div>
+								<div class="rating">
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Testimonial Section -->
+	
+	<!-- Clients Section -->
+    <section class="clients-section">
         <div class="auto-container">
           <div class="sponsors-outer">
             <!--Sponsors Carousel-->

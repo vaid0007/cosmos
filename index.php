@@ -823,7 +823,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-1.jpg" alt="" />
+									<img src="assets/images/resource/author-1a.jpg" alt="" />
 								</div>
 								<h6>Rajesh Mehta</h6>
 								<div class="designation">Facility Manager</div>
@@ -854,7 +854,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-2.jpg" alt="" />
+									<img src="assets/images/resource/author-2a	.jpg" alt="" />
 								</div>
 								<h6>Anita Sharma</h6>
 								<div class="designation">Business Owner</div>
@@ -885,7 +885,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-1.jpg" alt="" />
+									<img src="assets/images/resource/author-3a.jpg" alt="" />
 								</div>
 								<h6>Vikram Patel</h6>
 								<div class="designation">Operations Head</div>
@@ -916,7 +916,7 @@
 						<div class="author-box">
 							<div class="author-inner">
 								<div class="author-image">
-									<img src="assets/images/resource/author-2.jpg" alt="" />
+									<img src="assets/images/resource/author-4a.jpg" alt="" />
 								</div>
 								<h6>Neha Verma</h6>
 								<div class="designation">Admin Manager</div>

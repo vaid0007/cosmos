@@ -56,6 +56,12 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -99,7 +105,7 @@
     <div class="inner-box">
         <div class="image">
             <a href="biometric-systems.html">
-                <img src="assets/images/services/biometric.jpg" alt="Biometric Systems">
+                <img src="assets/images/products/a1.webp" alt="Biometric Systems">
             </a>
         </div>
         <div class="lower-content">
@@ -121,7 +127,7 @@
     <div class="inner-box">
         <div class="image">
             <a href="electronic-locks.html">
-                <img src="assets/images/services/electronic-lock.jpg" alt="Electronic Locks">
+                <img src="assets/images/products/a2.jpg" alt="Electronic Locks">
             </a>
         </div>
         <div class="lower-content">
@@ -143,14 +149,18 @@
     <div class="inner-box">
         <div class="image">
             <a href="hydraulic-locks.html">
-                <img src="assets/images/services/hydraulic-lock.jpg" alt="Hydraulic Locks">
+                <img src="assets/images/products/a3.jpg" alt="Hydraulic Locks">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-door"></div>
-                <h5><a href="hydraulic-locks.html">Hydraulic Locks</a></h5>
+                <div class="icon">
+  <i class="fa-solid fa-door-closed"></i>
+</div>
+<h5>
+  <a href="hydraulic-locks.html">Hydraulic Locks</a>
+</h5>
             </div>
             <div class="text">
                 Heavy-duty hydraulic locking systems for high-
@@ -177,13 +187,15 @@
     <div class="inner-box">
         <div class="image">
             <a href="boom-barriers.html">
-                <img src="assets/images/services/boom-barrier.jpg" alt="Boom Barriers">
+                <img src="assets/images/products/a4.jpg" alt="Boom Barriers">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-barrier"></div>
+                <div class="icon">
+  <i class="fa-solid fa-road-barrier"></i>
+</div>
                 <h5><a href="boom-barriers.html">Boom Barriers</a></h5>
             </div>
             <div class="text">
@@ -199,13 +211,16 @@
     <div class="inner-box">
         <div class="image">
             <a href="motorized-gates.html">
-                <img src="assets/images/services/motorized-gate.jpg" alt="Motorized Gates">
+                <img src="assets/images/products/a5.jpg" alt="Motorized Gates">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-gate"></div>
+                <div class="icon">
+  <i class="fa-solid fa-door-open"></i>
+</div>
+
                 <h5><a href="motorized-gates.html">Motorized Gates</a></h5>
             </div>
             <div class="text">
@@ -221,13 +236,16 @@
     <div class="inner-box">
         <div class="image">
             <a href="dfmd-gates.html">
-                <img src="assets/images/services/dfmd-gate.jpg" alt="DFMD Gates">
+                <img src="assets/images/products/a6.jpg" alt="DFMD Gates">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-security"></div>
+                <div class="icon">
+  <i class="fa-solid fa-shield-halved"></i>
+</div>
+
                 <h5><a href="dfmd-gates.html">DFMD Gates</a></h5>
             </div>
             <div class="text">
@@ -252,14 +270,18 @@
     <div class="inner-box">
         <div class="image">
             <a href="tyre-killers.html">
-                <img src="assets/images/services/tyre-killer.jpg" alt="Tyre Killers">
+                <img src="assets/images/products/a7.jpg" alt="Tyre Killers">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-roadblock"></div>
-                <h5><a href="tyre-killers.html">Tyre Killers</a></h5>
+                <div class="icon">
+  <i class="fa-solid fa-road-barrier"></i>
+</div>
+<h5>
+  <a href="tyre-killers.html">Tyre Killers</a>
+</h5>
             </div>
             <div class="text">
                 High-security tyre killer systems to prevent
@@ -274,14 +296,19 @@
     <div class="inner-box">
         <div class="image">
             <a href="parking-management.html">
-                <img src="assets/images/services/parking-system.jpg" alt="Parking Management Systems">
+                <img src="assets/images/products/a8.avif" alt="Parking Management Systems">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-parking"></div>
-                <h5><a href="parking-management.html">Parking Management Systems</a></h5>
+                <div class="icon">
+  <i class="fa-solid fa-square-parking"></i>
+</div>
+<h5>
+  <a href="parking-management.html">Parking Management Systems</a>
+</h5>
+
             </div>
             <div class="text">
                 Smart parking solutions including access control,
@@ -306,13 +333,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -474,20 +501,51 @@
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

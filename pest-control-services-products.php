@@ -56,6 +56,11 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -75,10 +80,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/3b.jpg)">
     	<div class="auto-container">
-			<h1>Our Services</h1>
+			<h1>Pest Control Services</h1>
 			<ul class="page-breadcrumb">
 				<li><a href="index-2.html">home</a></li>
-				<li>What We Do</li>
+				<li>Services</li>
+        <li><a href="pest-control-services.php">Pest Control Services</a></li>
+        <li>Products</li>
 			</ul>
         </div>
     </section>
@@ -95,7 +102,7 @@
 </h2>
         <div class="row clearfix">
 
-        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
       <img src="assets/images/services/a.jpg" alt="General Pest Control">
@@ -103,7 +110,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-bug"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bug"></i>
+</div>
+
         <h5>General Pest Control</h5>
       </div>
       <div class="text">
@@ -123,7 +133,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-home"></div>
+        <div class="icon">
+  <i class="fa-solid fa-house-crack"></i>
+</div>
+
         <h5>Termite / White-Ant Treatment</h5>
       </div>
       <div class="text">
@@ -143,7 +156,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-bug"></div>
+        <div class="icon">
+  <i class="fa-solid fa-spider"></i>
+</div>
+
         <h5>Cockroach, Ant & Bed-Bug Control</h5>
       </div>
       <div class="text">
@@ -163,7 +179,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-rat"></div>
+        <div class="icon">
+  <i class="fa-solid fa-paw"></i>
+</div>
+
         <h5>Rodent & Rat Control</h5>
       </div>
       <div class="text">
@@ -183,7 +202,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-mosquito"></div>
+       <div class="icon">
+  <i class="fa-solid fa-mosquito"></i>
+</div>
+
         <h5>Mosquito & Fly Control</h5>
       </div>
       <div class="text">
@@ -203,7 +225,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-wood"></div>
+        <div class="icon">
+  <i class="fa-solid fa-tree"></i>
+</div>
+
         <h5>Wood-Borer Treatment</h5>
       </div>
       <div class="text">
@@ -223,7 +248,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-cleaning"></div>
+        <div class="icon">
+  <i class="fa-solid fa-spray-can-sparkles"></i>
+</div>
+
         <h5>Sanitization & Disinfection</h5>
       </div>
       <div class="text">
@@ -243,7 +271,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-factory"></div>
+        <div class="icon">
+  <i class="fa-solid fa-industry"></i>
+</div>
+
         <h5>Fumigation Services</h5>
       </div>
       <div class="text">
@@ -263,7 +294,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-leaf"></div>
+        <div class="icon">
+  <i class="fa-solid fa-leaf"></i>
+</div>
+
         <h5>Herbal & Eco-Friendly Solutions</h5>
       </div>
       <div class="text">
@@ -283,7 +317,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-tools"></div>
+        <div class="icon">
+  <i class="fa-solid fa-screwdriver-wrench"></i>
+</div>
+
         <h5>Pest Control AMC</h5>
       </div>
       <div class="text">
@@ -315,7 +352,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-spray"></div>
+        <div class="icon">
+  <i class="fa-solid fa-spray-can-sparkles"></i>
+</div>
+
         <h5>Sprayers</h5>
       </div>
       <div class="text">
@@ -335,7 +375,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-fog"></div>
+        <div class="icon">
+  <i class="fa-solid fa-cloud"></i>
+</div>
+
         <h5>Fogging Machines</h5>
       </div>
       <div class="text">
@@ -355,7 +398,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-wind"></div>
+        <div class="icon">
+  <i class="fa-solid fa-wind"></i>
+</div>
+
         <h5>Mist Blowers</h5>
       </div>
       <div class="text">
@@ -375,7 +421,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-rat"></div>
+        <div class="icon">
+  <i class="fa-solid fa-paw"></i>
+</div>
+
         <h5>Rodent Bait Stations</h5>
       </div>
       <div class="text">
@@ -395,7 +444,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-trap"></div>
+        <div class="icon">
+  <i class="fa-solid fa-ban"></i>
+</div>
+
         <h5>Rodent Traps</h5>
       </div>
       <div class="text">
@@ -415,7 +467,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-bug"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bug"></i>
+</div>
+
         <h5>Glue Boards</h5>
       </div>
       <div class="text">
@@ -435,7 +490,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-search"></div>
+        <div class="icon">
+  <i class="fa-solid fa-magnifying-glass"></i>
+</div>
+
         <h5>Monitoring Devices</h5>
       </div>
       <div class="text">
@@ -455,7 +513,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-shield"></div>
+       <div class="icon">
+  <i class="fa-solid fa-shield-halved"></i>
+</div>
+
         <h5>Protective Safety Gear</h5>
       </div>
       <div class="text">
@@ -475,7 +536,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-tools"></div>
+        <div class="icon">
+  <i class="fa-solid fa-screwdriver-wrench"></i>
+</div>
+
         <h5>Application Tools</h5>
       </div>
       <div class="text">
@@ -495,7 +559,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-flask"></div>
+        <div class="icon">
+  <i class="fa-solid fa-flask"></i>
+</div>
+
         <h5>Low-Toxicity Chemicals</h5>
       </div>
       <div class="text">
@@ -515,7 +582,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-light"></div>
+        <div class="icon">
+  <i class="fa-solid fa-lightbulb"></i>
+</div>
+
         <h5>Insect Light Traps</h5>
       </div>
       <div class="text">
@@ -535,7 +605,10 @@
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-fly"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bug-slash"></i>
+</div>
+
         <h5>Fly Catcher Units</h5>
       </div>
       <div class="text">
@@ -561,13 +634,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -729,20 +802,51 @@
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

@@ -55,6 +55,12 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
 
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -146,25 +152,6 @@
                       <li>Saturday<span>10.00 am – 6.00 pm</span></li>
                       <li>Sunday is Closed</li>
                     </ul>
-                  </div>
-                </div>
-
-                <!-- Package Widget -->
-                <div class="sidebar-widget package-widget">
-                  <div
-                    class="widget-inner"
-                    style="
-                      background-image: url(assets/images/resource/package.jpg);
-                    "
-                  >
-                    <h3>Your Privacy Is Our Top Priority.</h3>
-                    <div class="text">
-                      Get to know how much <br />
-                      Security Costs.
-                    </div>
-                    <a href="price.html" class="theme-btn btn-style-one"
-                      ><span class="txt">View packages</span></a
-                    >
                   </div>
                 </div>
               </aside>
@@ -378,7 +365,7 @@
               <div class="inner-box">
                 <div class="content">
                   <div class="icon-box">
-                    <span class="icon flaticon-bug"></span>
+                    <span class="fa-solid fa-bug"></span>
                   </div>
                   <h5>
                     General <br />
@@ -392,7 +379,7 @@
               <div class="inner-box">
                 <div class="content">
                   <div class="icon-box">
-                    <span class="icon flaticon-termite"></span>
+                    <span class="fa-solid fa-spider"></span>
                   </div>
                   <h5>
                     Termite <br />
@@ -406,7 +393,7 @@
               <div class="inner-box">
                 <div class="content">
                   <div class="icon-box">
-                    <span class="icon flaticon-rat"></span>
+                    <span class="fa-solid fa-paw"></span>
                   </div>
                   <h5>
                     Rodent <br />
@@ -420,7 +407,7 @@
               <div class="inner-box">
                 <div class="content">
                   <div class="icon-box">
-                    <span class="icon flaticon-spray"></span>
+                    <span class="fa-solid fa-spray-can-sparkles"></span>
                   </div>
                   <h5>
                     Sanitization <br />

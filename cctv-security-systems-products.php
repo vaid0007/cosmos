@@ -120,6 +120,11 @@
       rel="stylesheet"
     />
 
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -229,7 +234,7 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-camera"></div>
+                    <div class="icon"><i class="fa-solid fa-camera"></i></div>
                     <h5>
                       <a href="varifocal-cameras.html"
                         >Varifocal <br />Cameras</a
@@ -257,7 +262,9 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-zoom"></div>
+                    <div class="icon">
+  <i class="fa-solid fa-video"></i>
+</div>
                     <h5>
                       <a href="ptz-cameras.html">PTZ <br />Cameras</a>
                     </h5>
@@ -283,10 +290,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-car"></div>
-                    <h5>
-                      <a href="anpr-cameras.html">ANPR <br />Cameras</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-car-rear"></i>
+</div>
+<h5>
+  <a href="anpr-cameras.html">ANPR <br />Cameras</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Automatic Number Plate Recognition cameras for traffic
@@ -309,10 +319,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-wifi"></div>
-                    <h5>
-                      <a href="wireless-cameras.html">Wireless <br />Cameras</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-wifi"></i>
+</div>
+<h5>
+  <a href="wireless-cameras.html">Wireless <br />Cameras</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Cable-free camera solutions for quick installation and
@@ -335,10 +348,12 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-wifi-signal"></div>
-                    <h5>
-                      <a href="wifi-cameras.html">Wi-Fi <br />Cameras</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-wifi"></i>
+</div>
+<h5>
+  <a href="wifi-cameras.html">Wi-Fi <br />Cameras</a>
+</h5>
                   </div>
                   <div class="text">
                     Smart Wi-Fi cameras with mobile app access, alerts, and
@@ -361,10 +376,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-signal"></div>
-                    <h5>
-                      <a href="4g-cameras.html">4G <br />Cameras</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-signal"></i>
+</div>
+<h5>
+  <a href="4g-cameras.html">4G <br />Cameras</a>
+</h5>
+
                   </div>
                   <div class="text">
                     SIM-based 4G cameras ideal for remote locations without
@@ -387,10 +405,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-solar-panel"></div>
-                    <h5>
-                      <a href="solar-cameras.html">Solar <br />Cameras</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-solar-panel"></i>
+</div>
+<h5>
+  <a href="solar-cameras.html">Solar <br />Cameras</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Eco-friendly solar-powered cameras for outdoor and off-grid
@@ -413,10 +434,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-eye"></div>
-                    <h5>
-                      <a href="spy-cameras.html">Spy <br />Cameras</a>
-                    </h5>
+                   <div class="icon">
+  <i class="fa-solid fa-eye"></i>
+</div>
+<h5>
+  <a href="spy-cameras.html">Spy <br />Cameras</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Compact and discreet spy cameras for hidden surveillance and
@@ -448,8 +472,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-hard-disk"></div>
-                    <h5><a href="dvr.html">DVR</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-hard-drive"></i>
+</div>
+<h5>
+  <a href="dvr.html">DVR</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Digital Video Recorders for HD CCTV cameras, enabling
@@ -473,8 +502,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-server"></div>
-                    <h5><a href="nvr.html">NVR</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-server"></i>
+</div>
+<h5>
+  <a href="nvr.html">NVR</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Network Video Recorders designed for IP camera systems with
@@ -497,8 +531,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-database"></div>
-                    <h5><a href="hard-disk.html">Hard Disk</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-hard-drive"></i>
+</div>
+<h5>
+  <a href="hard-disk.html">Hard Disk</a>
+</h5>
+
                   </div>
                   <div class="text">
                     High-performance surveillance hard disks built for 24/7
@@ -530,8 +569,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-plug"></div>
-                    <h5><a href="power-supply.html">Power Supply</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-plug"></i>
+</div>
+<h5>
+  <a href="power-supply.html">Power Supply</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Reliable power supply units designed to ensure stable and
@@ -554,8 +598,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-network"></div>
-                    <h5><a href="poe-switch.html">PoE Switch</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-network-wired"></i>
+</div>
+<h5>
+  <a href="poe-switch.html">PoE Switch</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Power over Ethernet switches for powering and connecting IP
@@ -578,8 +627,12 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-cable"></div>
-                    <h5><a href="hdmi-cable.html">HDMI Cable</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-cable-car"></i>
+</div>
+<h5>
+  <a href="hdmi-cable.html">HDMI Cable</a>
+</h5>
                   </div>
                   <div class="text">
                     High-quality HDMI cables for clear video output from DVRs
@@ -626,8 +679,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-ethernet"></div>
-                    <h5><a href="cat6-cable.html">CAT6 Cable</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-ethernet"></i>
+</div>
+<h5>
+  <a href="cat6-cable.html">CAT6 Cable</a>
+</h5>
+
                   </div>
                   <div class="text">
                     High-speed CAT6 network cables for stable data transmission
@@ -650,10 +708,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-wire"></div>
-                    <h5>
-                      <a href="3plus1-copper-wire.html">3+1 Copper Wire</a>
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-bolt"></i>
+</div>
+<h5>
+  <a href="3plus1-copper-wire.html">3+1 Copper Wire</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Premium copper cables used for power and video transmission
@@ -676,12 +737,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-box"></div>
-                    <h5>
-                      <a href="weatherproof-conceal-box.html"
-                        >Weatherproof Conceal Box</a
-                      >
-                    </h5>
+                    <div class="icon">
+  <i class="fa-solid fa-box"></i>
+</div>
+<h5>
+  <a href="weatherproof-conceal-box.html">Weatherproof Conceal Box</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Protective conceal boxes to safeguard camera connections
@@ -704,8 +766,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-camera"></div>
-                    <h5><a href="camera-housing.html">Camera Housing</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-camera"></i>
+</div>
+<h5>
+  <a href="camera-housing.html">Camera Housing</a>
+</h5>
+
                   </div>
                   <div class="text">
                     Durable camera housings providing extra protection for
@@ -752,8 +819,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-connector"></div>
-                    <h5><a href="bnc-connectors.html">BNC Connectors</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-plug-circle-bolt"></i>
+</div>
+<h5>
+  <a href="bnc-connectors.html">BNC Connectors</a>
+</h5>
+
                   </div>
                   <div class="text">
                     High-quality BNC connectors ensuring stable video signal
@@ -776,8 +848,13 @@
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
-                    <div class="icon flaticon-connector"></div>
-                    <h5><a href="rc-connectors.html">RC Connectors</a></h5>
+                    <div class="icon">
+  <i class="fa-solid fa-plug"></i>
+</div>
+<h5>
+  <a href="rc-connectors.html">RC Connectors</a>
+</h5>
+
                   </div>
                   <div class="text">
                     RC connectors used for power connectivity in CCTV camera
@@ -800,13 +877,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -965,69 +1042,54 @@
 	<!-- Clients Section -->
     <section class="clients-section">
         <div class="auto-container">
-          <div class="sponsors-outer">
-            <!--Sponsors Carousel-->
-            <ul class="sponsors-carousel owl-carousel owl-theme">
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/1.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/2.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/3.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/4.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/5.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/1.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/2.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-              <li class="slide-item">
-                <figure class="image-box">
-                  <a href="#"
-                    ><img src="assets/images/clients/3.png" alt=""
-                  /></a>
-                </figure>
-              </li>
-            </ul>
-          </div>
+            
+            <div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
+                </ul>
+            </div>
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
-      </section>
+            
+    </section>
       <!-- End Clients Section -->
 
       <!-- Main Footer -->

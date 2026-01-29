@@ -56,6 +56,12 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
+	<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -75,10 +81,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/5a.jpg)">
     	<div class="auto-container">
-			<h1>Our Services</h1>
+			<h1>AMC & Support Products</h1>
 			<ul class="page-breadcrumb">
 				<li><a href="index-2.html">home</a></li>
-				<li>What We Do</li>
+				<li>Services</li>
+				<li><a href="amc-support.php">AMC & Support</a></li>
+				<li>Products</li>
 			</ul>
         </div>
     </section>
@@ -95,17 +103,19 @@
 
         <div class="row clearfix">
 
-        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
             <a href="amc-services.html">
-                <img src="assets/images/services/amc.jpg" alt="Annual Maintenance Contracts">
+                <img src="assets/images/products/amc1.jpg" alt="Annual Maintenance Contracts">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-tools"></div>
+                <div class="icon">
+  <i class="fa-solid fa-screwdriver-wrench"></i>
+</div>
                 <h5><a href="amc-services.html">Annual Maintenance Contracts (AMC)</a></h5>
             </div>
             <div class="text">
@@ -122,13 +132,16 @@
     <div class="inner-box">
         <div class="image">
             <a href="system-maintenance.html">
-                <img src="assets/images/services/system-maintenance.jpg" alt="System Maintenance Services">
+                <img src="assets/images/products/amc2.webp" alt="System Maintenance Services">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-settings"></div>
+                <div class="icon">
+  <i class="fa-solid fa-gears"></i>
+</div>
+
                 <h5><a href="system-maintenance.html">System Maintenance & Support</a></h5>
             </div>
             <div class="text">
@@ -145,13 +158,16 @@
     <div class="inner-box">
         <div class="image">
             <a href="after-sales-support.html">
-                <img src="assets/images/services/after-sales-support.jpg" alt="After Sales Technical Support">
+                <img src="assets/images/products/amc3.webp" alt="After Sales Technical Support">
             </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
-                <div class="icon flaticon-headset"></div>
+                <div class="icon">
+  <i class="fa-solid fa-headset"></i>
+</div>
+
                 <h5><a href="after-sales-support.html">After-Sales Technical Support</a></h5>
             </div>
             <div class="text">
@@ -179,13 +195,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -347,20 +363,51 @@
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

@@ -133,15 +133,6 @@
 							</div>
 						</div>
 						
-						<!-- Package Widget -->
-						<div class="sidebar-widget package-widget">
-							<div class="widget-inner" style="background-image: url(assets/images/resource/package.jpg)">
-								<h3>Your Privacy Is Our Top Priority.</h3>
-								<div class="text">Get to know how much <br> Security Costs.</div>
-								<a href="price.html" class="theme-btn btn-style-one"><span class="txt">View packages</span></a>
-							</div>
-						</div>
-						
 					</aside>
 				</div>
 				

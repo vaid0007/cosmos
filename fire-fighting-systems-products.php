@@ -56,6 +56,12 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+
     <!-- Legacy Browser Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -98,15 +104,17 @@
 
         <div class="row clearfix">
 
-        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-installation.jpg" alt="Fire Fighting System Installation">
+      <img src="assets/images/products/f1.webp" alt="Fire Fighting System Installation">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-fire-extinguisher"></div>
+        <div class="icon">
+  <i class="fa-solid fa-fire-extinguisher"></i>
+</div>
         <h5>Fire-Fighting System Installation</h5>
       </div>
       <div class="text">
@@ -121,12 +129,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-hydrant.jpg" alt="Fire Hydrant System">
+      <img src="assets/images/products/f2.webp" alt="Fire Hydrant System">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-water"></div>
+        <div class="icon">
+  <i class="fa-solid fa-water"></i>
+</div>
+
         <h5>Fire Hydrant & Sprinkler Systems</h5>
       </div>
       <div class="text">
@@ -141,12 +152,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-alarm.jpg" alt="Fire Alarm Systems">
+      <img src="assets/images/products/f3.webp" alt="Fire Alarm Systems">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-alarm"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bell"></i>
+</div>
+
         <h5>Fire Alarm & Detection Systems</h5>
       </div>
       <div class="text">
@@ -161,12 +175,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/smoke-detector.jpg" alt="Smoke Detector">
+      <img src="assets/images/products/f4.jpg" alt="Smoke Detector">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-smoke"></div>
+        <div class="icon">
+  <i class="fa-solid fa-smog"></i>
+</div>
+
         <h5>Smoke & Heat Detectors</h5>
       </div>
       <div class="text">
@@ -181,12 +198,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/gas-flooding.jpg" alt="Gas Flooding System">
+      <img src="assets/images/products/f5.jpg" alt="Gas Flooding System">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-gas"></div>
+        <div class="icon">
+  <i class="fa-solid fa-gas-pump"></i>
+</div>
+
         <h5>Fire Suppression & Gas Flooding</h5>
       </div>
       <div class="text">
@@ -201,12 +221,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-extinguisher.jpg" alt="Fire Extinguisher Service">
+      <img src="assets/images/products/f6.webp" alt="Fire Extinguisher Service">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-fire-extinguisher"></div>
+        <div class="icon">
+  <i class="fa-solid fa-fire-extinguisher"></i>
+</div>
+
         <h5>Fire Extinguisher Services</h5>
       </div>
       <div class="text">
@@ -221,12 +244,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-pump.jpg" alt="Fire Pump Room">
+      <img src="assets/images/products/f7.jpg" alt="Fire Pump Room">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-engine"></div>
+       <div class="icon">
+  <i class="fa-solid fa-gears"></i>
+</div>
+
         <h5>Fire Pump Room Installation</h5>
       </div>
       <div class="text">
@@ -241,12 +267,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/emergency-exit.jpg" alt="Emergency Exit Systems">
+      <img src="assets/images/products/f8.jpg" alt="Emergency Exit Systems">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-exit"></div>
+        <div class="icon">
+  <i class="fa-solid fa-person-running"></i>
+</div>
+
         <h5>Emergency Exit & Evacuation</h5>
       </div>
       <div class="text">
@@ -261,12 +290,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-signage.jpg" alt="Fire Safety Signage">
+      <img src="assets/images/products/f9.jpg" alt="Fire Safety Signage">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-sign"></div>
+        <div class="icon">
+  <i class="fa-solid fa-sign-hanging"></i>
+</div>
+
         <h5>Fire Safety Signage & Assembly Points</h5>
       </div>
       <div class="text">
@@ -281,12 +313,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-testing.jpg" alt="Fire System Testing">
+      <img src="assets/images/products/f10.jpg" alt="Fire System Testing">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-check"></div>
+        <div class="icon">
+  <i class="fa-solid fa-circle-check"></i>
+</div>
+
         <h5>Testing & Certification</h5>
       </div>
       <div class="text">
@@ -301,12 +336,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-amc.jpg" alt="Fire AMC">
+      <img src="assets/images/products/f11.webp" alt="Fire AMC">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-tools"></div>
+        <div class="icon">
+  <i class="fa-solid fa-screwdriver-wrench"></i>
+</div>
+
         <h5>Fire Safety AMC</h5>
       </div>
       <div class="text">
@@ -321,12 +359,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-audit.jpg" alt="Fire Safety Audit">
+      <img src="assets/images/products/f12.webp" alt="Fire Safety Audit">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-clipboard"></div>
+        <div class="icon">
+  <i class="fa-solid fa-clipboard-check"></i>
+</div>
+
         <h5>Fire Safety Audits</h5>
       </div>
       <div class="text">
@@ -341,12 +382,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/compliance.jpg" alt="Fire Compliance Consultancy">
+      <img src="assets/images/products/f13.jpg" alt="Fire Compliance Consultancy">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-consulting"></div>
+        <div class="icon">
+  <i class="fa-solid fa-user-shield"></i>
+</div>
+
         <h5>Compliance Consultancy</h5>
       </div>
       <div class="text">
@@ -371,15 +415,18 @@
 
         <div class="row clearfix">
 
-        <div class="security-block col-lg-4 col-md-6 col-sm-12">
+<div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-extinguishers.jpg" alt="Fire Extinguishers">
+      <img src="assets/images/products/f14.jpg" alt="Fire Extinguishers">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-fire-extinguisher"></div>
+        <div class="icon">
+  <i class="fa-solid fa-fire-extinguisher"></i>
+</div>
+
         <h5>Fire Extinguishers</h5>
       </div>
       <div class="text">
@@ -393,12 +440,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-hose-reel.jpg" alt="Fire Hose Reels">
+      <img src="assets/images/products/f15.jpg" alt="Fire Hose Reels">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-hose"></div>
+        <div class="icon">
+  <i class="fa-solid fa-water"></i>
+</div>
+
         <h5>Fire Hose Reels & Valves</h5>
       </div>
       <div class="text">
@@ -413,12 +463,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-sprinkler.jpg" alt="Fire Sprinklers">
+      <img src="assets/images/products/f16.jpg" alt="Fire Sprinklers">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-water"></div>
+        <div class="icon">
+  <i class="fa-solid fa-droplet"></i>
+</div>
+
         <h5>Fire Sprinklers & Valves</h5>
       </div>
       <div class="text">
@@ -433,12 +486,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-alarm-panel.jpg" alt="Fire Alarm Panels">
+      <img src="assets/images/products/f17.png" alt="Fire Alarm Panels">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-alarm"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bell"></i>
+</div>
+
         <h5>Fire Alarm Panels</h5>
       </div>
       <div class="text">
@@ -453,12 +509,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-detector.jpg" alt="Fire Detectors">
+      <img src="assets/images/products/f18.jpeg" alt="Fire Detectors">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-smoke"></div>
+        <div class="icon">
+  <i class="fa-solid fa-smog"></i>
+</div>
+
         <h5>Fire Detectors</h5>
       </div>
       <div class="text">
@@ -473,12 +532,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-bucket.jpg" alt="Fire Buckets">
+      <img src="assets/images/products/f19.jpg" alt="Fire Buckets">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-bucket"></div>
+        <div class="icon">
+  <i class="fa-solid fa-bucket"></i>
+</div>
+
         <h5>Fire Buckets & Hose Boxes</h5>
       </div>
       <div class="text">
@@ -493,12 +555,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-pump-motor.jpg" alt="Fire Pumps">
+      <img src="assets/images/products/f20.jpg" alt="Fire Pumps">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-engine"></div>
+        <div class="icon">
+  <i class="fa-solid fa-gears"></i>
+</div>
+
         <h5>Fire Pumps & Motors</h5>
       </div>
       <div class="text">
@@ -513,12 +578,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-rated-door.jpg" alt="Fire Rated Doors">
+      <img src="assets/images/products/f21.webp" alt="Fire Rated Doors">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-door"></div>
+        <div class="icon">
+  <i class="fa-solid fa-door-closed"></i>
+</div>
+
         <h5>Fire-Rated Doors</h5>
       </div>
       <div class="text">
@@ -533,12 +601,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/emergency-light.jpg" alt="Emergency Lights">
+      <img src="assets/images/products/f22.jpg" alt="Emergency Lights">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-exit"></div>
+        <div class="icon">
+  <i class="fa-solid fa-person-running"></i>
+</div>
+
         <h5>Emergency Lights & Exit Signage</h5>
       </div>
       <div class="text">
@@ -553,12 +624,15 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/services/fire-ppe.jpg" alt="Fire Safety PPE">
+      <img src="assets/images/products/f23.avif" alt="Fire Safety PPE">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
       <div class="upper-box">
-        <div class="icon flaticon-shield"></div>
+        <div class="icon">
+  <i class="fa-solid fa-helmet-safety"></i>
+</div>
+
         <h5>Fire Safety PPE Kits</h5>
       </div>
       <div class="text">
@@ -583,13 +657,13 @@
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="phone flaticon-call-3"></div>
-						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>700.231.0025</span></div>
+						<div class="text"><span>Call us TODAY for a FREE Quote</span> - Your Home or <br> Commercial Security System : <span>+91 99993 88433</span></div>
 					</div>
 				</div>
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -751,20 +825,51 @@
         <div class="auto-container">
             
             <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
                     <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/6.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/7.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/8.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/9.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/10.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/11.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/12.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/13.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/14.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/16.png" alt=""></a></figure></li>
                 </ul>
             </div>
-            
+		</div>
+
+		<div class="auto-container py-5">
+
+			<div class="sponsors-outer">
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/17.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/18.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/19.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/20.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/21.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/22.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/23.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/24.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/25.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/26.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/27.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/28.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/29.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/30.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/31.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="assets/images/clients/32.png" alt=""></a></figure></li>
+                </ul>
+            </div>
         </div>
+            
     </section>
     <!-- End Clients Section -->
 	

@@ -44,6 +44,12 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="assets/images/favicons/android-chrome-512x512.png">
 
+
+	<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
     <!-- IE Support -->
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -146,7 +152,7 @@
 				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="content">
-							<div class="icon-box">
+							<div class="icon-box fa-solid fa-fire-extinguisher">
 							</div>
 							<h5>
 								<a href="fire-fighting-systems.php">
@@ -161,7 +167,7 @@
 				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="content">
-							<div class="icon-box">
+							<div class="icon-box fa-solid fa-video">
 							</div>
 							<h5>
 								<a href="cctv-security-systems.php">
@@ -176,7 +182,7 @@
 				<div class="featured-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="content">
-							<div class="icon-box">
+							<div class="icon-box fa-solid fa-bug-slash">
 							</div>
 							<h5>
 								<a href="pest-control-services.php">

@@ -188,7 +188,7 @@ Hydraulic Locks
                 <div class="icon">
   <i class="fa-solid fa-road-barrier"></i>
 </div>
-                <h5>Boom Barriers</h5>
+                <h5>Boom Barrier</br>Solutions</h5>
             </div>
             <div class="text">
                 Automated boom barriers for vehicle access
@@ -266,7 +266,7 @@ Hydraulic Locks
   <i class="fa-solid fa-road-barrier"></i>
 </div>
 <h5>
-Tyre Killers
+Tyre Killer</br>Barriers
 </h5>
             </div>
             <div class="text">

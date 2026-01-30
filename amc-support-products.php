@@ -165,9 +165,7 @@
                 <h5>After-Sales Technical Support</h5>
             </div>
             <div class="text">
-                Dedicated after-sales support including remote
-                assistance, on-site service, upgrades, and
-                technical guidance.
+                Dedicated after-sales support including remote assistance, on-site service, system upgrades, and ongoing technical guidance.
             </div>
         </div>
     </div>

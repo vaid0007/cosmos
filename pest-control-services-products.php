@@ -114,7 +114,7 @@
   <i class="fa-solid fa-bug"></i>
 </div>
 
-        <h5>General Pest Control</h5>
+        <h5>General Pest</br>Control</h5>
       </div>
       <div class="text">
         Comprehensive pest control solutions for homes and offices,
@@ -275,7 +275,7 @@
   <i class="fa-solid fa-industry"></i>
 </div>
 
-        <h5>Fumigation Services</h5>
+        <h5>Fumigation</br>Services</h5>
       </div>
       <div class="text">
         Warehouse and export-unit fumigation services complying
@@ -474,8 +474,7 @@
         <h5>Glue Boards</h5>
       </div>
       <div class="text">
-        Non-toxic glue boards used for monitoring
-        and controlling crawling insects.
+        Eco-friendly, non-toxic glue boards for reliable monitoring and control of crawling insects.
       </div>
     </div>
   </div>
@@ -543,8 +542,7 @@
         <h5>Application Tools</h5>
       </div>
       <div class="text">
-        Specialized tools used for precise chemical
-        application and pest treatment processes.
+        Professional-grade tools for precise chemical application and controlled pest treatment processes.
       </div>
     </div>
   </div>
@@ -586,7 +584,7 @@
   <i class="fa-solid fa-lightbulb"></i>
 </div>
 
-        <h5>Insect Light Traps</h5>
+        <h5>Insect Light</br>Traps</h5>
       </div>
       <div class="text">
         UV-based insect light traps for effective

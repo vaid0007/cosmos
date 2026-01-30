@@ -185,9 +185,7 @@
                     </h5>
                   </div>
                   <div class="text">
-                    High-definition CCTV cameras offering clear, reliable
-                    surveillance for homes, offices, retail stores, and
-                    commercial environments.
+                    High-definition CCTV cameras for clear, reliable surveillance across residential and commercial spaces.
                   </div>
                 </div>
               </div>
@@ -366,8 +364,7 @@ Wireless <br />Cameras
 
                   </div>
                   <div class="text">
-                    SIM-based 4G cameras ideal for remote locations without
-                    wired internet connectivity.
+                    SIM-based 4G cameras for remote locations without wired internet.
                   </div>
                 </div>
               </div>
@@ -455,9 +452,7 @@ DVR
 
                   </div>
                   <div class="text">
-                    Digital Video Recorders for HD CCTV cameras, enabling
-                    reliable recording, playback, and centralized surveillance
-                    management.
+                   Digital Video Recorders for HD CCTV cameras, enabling reliable recording and centralized management.
                   </div>
                 </div>
               </div>
@@ -621,8 +616,7 @@ NVR
                     <h5>VGA Cable</h5>
                   </div>
                   <div class="text">
-                    VGA cables for reliable video transmission between recording
-                    devices and monitors.
+                    VGA cables designed to ensure stable and reliable video transmission between recording devices and monitors.
                   </div>
                 </div>
               </div>
@@ -702,8 +696,7 @@ NVR
 
                   </div>
                   <div class="text">
-                    Protective conceal boxes to safeguard camera connections
-                    from dust, rain, and damage.
+                    Conceal boxes to protect camera connections from environmental damage.
                   </div>
                 </div>
               </div>
@@ -724,7 +717,7 @@ NVR
   <i class="fa-solid fa-camera"></i>
 </div>
 <h5>
-  Camera Housing
+  Camera</br>Housing
 </h5>
 
                   </div>
@@ -751,8 +744,7 @@ NVR
                     <h5>Coupler</h5>
                   </div>
                   <div class="text">
-                    Secure couplers for joining attachment of CCTV cables and
-                    accessories.
+                    Secure couplers for safe and reliable joining of CCTV cables and related accessories.
                   </div>
                 </div>
               </div>

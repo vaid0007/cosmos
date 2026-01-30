@@ -118,8 +118,7 @@
         <h5>Fire-Fighting System Installation</h5>
       </div>
       <div class="text">
-        End-to-end supply and installation of certified fire-fighting
-        systems for residential, commercial, and industrial facilities.
+        Turnkey supply and installation of certified fire-fighting systems for residential, commercial, and industrial facilities.
       </div>
     </div>
   </div>
@@ -184,7 +183,7 @@
   <i class="fa-solid fa-smog"></i>
 </div>
 
-        <h5>Smoke & Heat Detectors</h5>
+        <h5>Smoke & Heat</br>Detectors</h5>
       </div>
       <div class="text">
         Installation of smoke, heat, and multisensor
@@ -233,8 +232,7 @@
         <h5>Fire Extinguisher Services</h5>
       </div>
       <div class="text">
-        Supply, refilling, testing, and maintenance of
-        all types of fire extinguishers.
+        Supply, refilling, testing, and maintenance of all types of fire extinguishers for reliable performance and regulatory compliance.        
       </div>
     </div>
   </div>
@@ -302,8 +300,7 @@
         <h5>Fire Safety Signage & Assembly Points</h5>
       </div>
       <div class="text">
-        Installation of safety signage and clearly
-        marked assembly points as per norms.
+        Installation of safety signage and clearly marked assembly points as per statutory safety norms and guidelines.
       </div>
     </div>
   </div>
@@ -475,8 +472,7 @@
         <h5>Fire Sprinklers & Valves</h5>
       </div>
       <div class="text">
-        Automatic fire sprinklers, spray nozzles,
-        and control valves for fast fire suppression.
+        Automatic fire sprinklers, spray nozzles, and control valves designed for fast and effective fire suppression.
       </div>
     </div>
   </div>
@@ -521,8 +517,7 @@
         <h5>Fire Detectors</h5>
       </div>
       <div class="text">
-        Smoke, heat, and multisensor detectors for
-        accurate and rapid fire detection.
+        Smoke, heat, and multisensor detectors to ensure early alerts and dependable fire detection.
       </div>
     </div>
   </div>
@@ -613,8 +608,7 @@
         <h5>Emergency Lights & Exit Signage</h5>
       </div>
       <div class="text">
-        Emergency lighting and illuminated exit signage
-        to guide safe evacuation during power failure.
+      Emergency lighting and illuminated exit signage for safe evacuation.
       </div>
     </div>
   </div>

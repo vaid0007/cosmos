@@ -146,7 +146,7 @@
         <div class="auto-container">
           <h1>CCTV & Security Systems Products</h1>
           <ul class="page-breadcrumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Services</li>
             <li>
               <a href="cctv-security-systems.php">CCTV & Security Systems</a>
@@ -171,19 +171,17 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="hd-cameras.html">
                     <img
                       src="assets/images/services/1.jpg"
                       alt="HD CCTV Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
                     <div class="icon flaticon-cctv"></div>
                     <h5>
-                      <a href="hd-cameras.html"> HD <br />Cameras </a>
+                   HD <br />Cameras 
                     </h5>
                   </div>
                   <div class="text">
@@ -198,19 +196,17 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="ip-cameras.html">
                     <img
                       src="assets/images/services/2.jpg"
                       alt="IP Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
                     <div class="icon flaticon-lcd"></div>
                     <h5>
-                      <a href="ip-cameras.html">IP <br />Cameras</a>
+                      IP <br />Cameras
                     </h5>
                   </div>
                   <div class="text">
@@ -224,21 +220,17 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="varifocal-cameras.html">
                     <img
                       src="assets/images/services/3.jpg"
                       alt="Varifocal Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
                     <div class="icon"><i class="fa-solid fa-camera"></i></div>
                     <h5>
-                      <a href="varifocal-cameras.html"
-                        >Varifocal <br />Cameras</a
-                      >
+                      Varifocal <br/>Cameras                      >
                     </h5>
                   </div>
                   <div class="text">
@@ -252,12 +244,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="ptz-cameras.html">
                     <img
                       src="assets/images/services/4.jpg"
                       alt="PTZ Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -266,7 +256,7 @@
   <i class="fa-solid fa-video"></i>
 </div>
                     <h5>
-                      <a href="ptz-cameras.html">PTZ <br />Cameras</a>
+                      PTZ <br />Cameras
                     </h5>
                   </div>
                   <div class="text">
@@ -280,12 +270,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="anpr-cameras.html">
                     <img
                       src="assets/images/services/5.jpg"
                       alt="ANPR Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -294,7 +282,7 @@
   <i class="fa-solid fa-car-rear"></i>
 </div>
 <h5>
-  <a href="anpr-cameras.html">ANPR <br />Cameras</a>
+ANPR <br />Cameras
 </h5>
 
                   </div>
@@ -309,12 +297,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="wireless-cameras.html">
                     <img
                       src="assets/images/services/6.jpg"
                       alt="Wireless Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -323,7 +309,7 @@
   <i class="fa-solid fa-wifi"></i>
 </div>
 <h5>
-  <a href="wireless-cameras.html">Wireless <br />Cameras</a>
+Wireless <br />Cameras
 </h5>
 
                   </div>
@@ -338,12 +324,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="wifi-cameras.html">
                     <img
                       src="assets/images/services/7.jpg"
                       alt="WiFi Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -352,7 +336,7 @@
   <i class="fa-solid fa-wifi"></i>
 </div>
 <h5>
-  <a href="wifi-cameras.html">Wi-Fi <br />Cameras</a>
+  Wi-Fi <br />Cameras
 </h5>
                   </div>
                   <div class="text">
@@ -366,12 +350,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="4g-cameras.html">
                     <img
                       src="assets/images/services/8.jpg"
                       alt="4G Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -380,8 +362,7 @@
   <i class="fa-solid fa-signal"></i>
 </div>
 <h5>
-  <a href="4g-cameras.html">4G <br />Cameras</a>
-</h5>
+  4G <br />Cameras</h5>
 
                   </div>
                   <div class="text">
@@ -395,12 +376,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="solar-cameras.html">
                     <img
                       src="assets/images/services/9.jpg"
                       alt="Solar Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -409,7 +388,7 @@
   <i class="fa-solid fa-solar-panel"></i>
 </div>
 <h5>
-  <a href="solar-cameras.html">Solar <br />Cameras</a>
+  Solar <br />Cameras
 </h5>
 
                   </div>
@@ -424,12 +403,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="spy-cameras.html">
                     <img
                       src="assets/images/services/10.jpg"
                       alt="Spy Cameras"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -438,8 +415,7 @@
   <i class="fa-solid fa-eye"></i>
 </div>
 <h5>
-  <a href="spy-cameras.html">Spy <br />Cameras</a>
-</h5>
+ Spy <br />Cameras</h5>
 
                   </div>
                   <div class="text">
@@ -462,12 +438,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="dvr.html">
                     <img
                       src="assets/images/services/11.jpg"
                       alt="DVR Digital Video Recorder"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -476,7 +450,7 @@
   <i class="fa-solid fa-hard-drive"></i>
 </div>
 <h5>
-  <a href="dvr.html">DVR</a>
+DVR
 </h5>
 
                   </div>
@@ -492,12 +466,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="nvr.html">
                     <img
                       src="assets/images/services/12.jpg"
                       alt="NVR Network Video Recorder"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -506,7 +478,7 @@
   <i class="fa-solid fa-server"></i>
 </div>
 <h5>
-  <a href="nvr.html">NVR</a>
+NVR
 </h5>
 
                   </div>
@@ -521,12 +493,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="hard-disk.html">
                     <img
                       src="assets/images/services/13.jpg"
                       alt="CCTV Hard Disk"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -535,7 +505,7 @@
   <i class="fa-solid fa-hard-drive"></i>
 </div>
 <h5>
-  <a href="hard-disk.html">Hard Disk</a>
+  Hard Disk
 </h5>
 
                   </div>
@@ -559,12 +529,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="power-supply.html">
                     <img
                       src="assets/images/services/14.jpg"
                       alt="CCTV Power Supply"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -573,7 +541,7 @@
   <i class="fa-solid fa-plug"></i>
 </div>
 <h5>
-  <a href="power-supply.html">Power Supply</a>
+ Power Supply
 </h5>
 
                   </div>
@@ -588,12 +556,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="poe-switch.html">
                     <img
                       src="assets/images/services/15.jpg"
                       alt="PoE Switch"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -602,7 +568,7 @@
   <i class="fa-solid fa-network-wired"></i>
 </div>
 <h5>
-  <a href="poe-switch.html">PoE Switch</a>
+  PoE Switch
 </h5>
 
                   </div>
@@ -617,12 +583,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="hdmi-cable.html">
                     <img
                       src="assets/images/services/16.jpg"
                       alt="HDMI Cable"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -631,7 +595,7 @@
   <i class="fa-solid fa-cable-car"></i>
 </div>
 <h5>
-  <a href="hdmi-cable.html">HDMI Cable</a>
+  HDMI Cable
 </h5>
                   </div>
                   <div class="text">
@@ -645,18 +609,16 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="vga-cable.html">
                     <img
                       src="assets/images/services/17.jpg"
                       alt="VGA Cable"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
                     <div class="icon flaticon-monitor"></div>
-                    <h5><a href="vga-cable.html">VGA Cable</a></h5>
+                    <h5>VGA Cable</h5>
                   </div>
                   <div class="text">
                     VGA cables for reliable video transmission between recording
@@ -669,12 +631,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="cat6-cable.html">
                     <img
                       src="assets/images/services/18.jpg"
                       alt="CAT6 Cable"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -683,7 +643,7 @@
   <i class="fa-solid fa-ethernet"></i>
 </div>
 <h5>
-  <a href="cat6-cable.html">CAT6 Cable</a>
+  CAT6 Cable
 </h5>
 
                   </div>
@@ -698,12 +658,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="3plus1-copper-wire.html">
                     <img
                       src="assets/images/services/19.jpg"
                       alt="3+1 Copper Wire"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -712,7 +670,7 @@
   <i class="fa-solid fa-bolt"></i>
 </div>
 <h5>
-  <a href="3plus1-copper-wire.html">3+1 Copper Wire</a>
+  3+1 Copper Wire
 </h5>
 
                   </div>
@@ -727,12 +685,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="weatherproof-conceal-box.html">
                     <img
                       src="assets/images/services/20.jpg"
                       alt="Weatherproof Conceal Box"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -741,7 +697,7 @@
   <i class="fa-solid fa-box"></i>
 </div>
 <h5>
-  <a href="weatherproof-conceal-box.html">Weatherproof Conceal Box</a>
+  Weatherproof Conceal Box
 </h5>
 
                   </div>
@@ -756,12 +712,10 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="camera-housing.html">
                     <img
                       src="assets/images/services/21.jpg"
                       alt="Camera Housing"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -770,7 +724,7 @@
   <i class="fa-solid fa-camera"></i>
 </div>
 <h5>
-  <a href="camera-housing.html">Camera Housing</a>
+  Camera Housing
 </h5>
 
                   </div>
@@ -785,18 +739,16 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="coupler.html">
                     <img
                       src="assets/images/services/22.jpg"
                       alt="Coupler"
                     />
-                  </a>
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
                   <div class="upper-box">
                     <div class="icon flaticon-link"></div>
-                    <h5><a href="coupler.html">Coupler</a></h5>
+                    <h5>Coupler</h5>
                   </div>
                   <div class="text">
                     Secure couplers for joining attachment of CCTV cables and
@@ -809,12 +761,12 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="bnc-connectors.html">
+              
                     <img
                       src="assets/images/services/23.jpg"
                       alt="BNC Connectors"
                     />
-                  </a>
+                  
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -823,7 +775,7 @@
   <i class="fa-solid fa-plug-circle-bolt"></i>
 </div>
 <h5>
-  <a href="bnc-connectors.html">BNC Connectors</a>
+  BNC Connectors
 </h5>
 
                   </div>
@@ -838,12 +790,11 @@
             <div class="security-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box">
                 <div class="image">
-                  <a href="rc-connectors.html">
+                  
                     <img
                       src="assets/images/services/24.jpg"
-                      alt="RC Connectors"
-                    />
-                  </a>
+                      alt="RC Connectors"/>
+                
                 </div>
                 <div class="lower-content">
                   <div class="hover-bg-color"></div>
@@ -852,7 +803,7 @@
   <i class="fa-solid fa-plug"></i>
 </div>
 <h5>
-  <a href="rc-connectors.html">RC Connectors</a>
+  RC Connectors
 </h5>
 
                   </div>

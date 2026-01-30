@@ -76,8 +76,8 @@
     <div class="auto-container">
         <h1>CCTV & Security Systems</h1>
         <ul class="page-breadcrumb">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="services.html">Services</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li>Services</li>
             <li>CCTV & Security Systems</li>
         </ul>
     </div>

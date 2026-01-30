@@ -104,15 +104,13 @@
     <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="biometric-systems.html">
                 <img src="assets/images/products/a1.webp" alt="Biometric Systems">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
                 <div class="icon flaticon-fingerprint"></div>
-                <h5><a href="biometric-systems.html">Biometric Systems</a></h5>
+                <h5>Biometric Systems</h5>
             </div>
             <div class="text">
                 Advanced biometric access control systems using
@@ -126,15 +124,13 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="electronic-locks.html">
                 <img src="assets/images/products/a2.jpg" alt="Electronic Locks">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
             <div class="upper-box">
                 <div class="icon flaticon-lock"></div>
-                <h5><a href="electronic-locks.html">Electronic Locks</a></h5>
+                <h5>Electronic Locks<h5>
             </div>
             <div class="text">
                 Smart electronic locking solutions for secure
@@ -148,9 +144,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="hydraulic-locks.html">
                 <img src="assets/images/products/a3.jpg" alt="Hydraulic Locks">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -159,7 +153,7 @@
   <i class="fa-solid fa-door-closed"></i>
 </div>
 <h5>
-  <a href="hydraulic-locks.html">Hydraulic Locks</a>
+Hydraulic Locks
 </h5>
             </div>
             <div class="text">
@@ -186,9 +180,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="boom-barriers.html">
                 <img src="assets/images/products/a4.jpg" alt="Boom Barriers">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -196,7 +188,7 @@
                 <div class="icon">
   <i class="fa-solid fa-road-barrier"></i>
 </div>
-                <h5><a href="boom-barriers.html">Boom Barriers</a></h5>
+                <h5>Boom Barriers</h5>
             </div>
             <div class="text">
                 Automated boom barriers for vehicle access
@@ -210,9 +202,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="motorized-gates.html">
                 <img src="assets/images/products/a5.jpg" alt="Motorized Gates">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -221,7 +211,7 @@
   <i class="fa-solid fa-door-open"></i>
 </div>
 
-                <h5><a href="motorized-gates.html">Motorized Gates</a></h5>
+                <h5>Motorized Gates</h5>
             </div>
             <div class="text">
                 Automatic motorized gate systems for secure
@@ -235,9 +225,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="dfmd-gates.html">
                 <img src="assets/images/products/a6.jpg" alt="DFMD Gates">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -246,7 +234,7 @@
   <i class="fa-solid fa-shield-halved"></i>
 </div>
 
-                <h5><a href="dfmd-gates.html">DFMD Gates</a></h5>
+                <h5>DFMD Gates</h5>
             </div>
             <div class="text">
                 Door Frame Metal Detector gates for enhanced
@@ -269,9 +257,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="tyre-killers.html">
                 <img src="assets/images/products/a7.jpg" alt="Tyre Killers">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -280,7 +266,7 @@
   <i class="fa-solid fa-road-barrier"></i>
 </div>
 <h5>
-  <a href="tyre-killers.html">Tyre Killers</a>
+Tyre Killers
 </h5>
             </div>
             <div class="text">
@@ -295,9 +281,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="parking-management.html">
                 <img src="assets/images/products/a8.avif" alt="Parking Management Systems">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -306,7 +290,7 @@
   <i class="fa-solid fa-square-parking"></i>
 </div>
 <h5>
-  <a href="parking-management.html">Parking Management Systems</a>
+ Parking Management Systems
 </h5>
 
             </div>

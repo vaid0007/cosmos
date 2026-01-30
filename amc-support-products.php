@@ -81,12 +81,12 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/5a.jpg)">
     	<div class="auto-container">
-			<h1>AMC & Support Products</h1>
+			<h1>AMC & Support Services</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index-2.html">home</a></li>
+				<li><a href="index.php">home</a></li>
 				<li>Services</li>
 				<li><a href="amc-support.php">AMC & Support</a></li>
-				<li>Products</li>
+				<li>AMC Plans</li>
 			</ul>
         </div>
     </section>
@@ -106,9 +106,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="amc-services.html">
                 <img src="assets/images/products/amc1.jpg" alt="Annual Maintenance Contracts">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -116,7 +114,7 @@
                 <div class="icon">
   <i class="fa-solid fa-screwdriver-wrench"></i>
 </div>
-                <h5><a href="amc-services.html">Annual Maintenance Contracts (AMC)</a></h5>
+                <h5>Annual Maintenance Contracts (AMC)</h5>
             </div>
             <div class="text">
                 Comprehensive AMC plans covering preventive
@@ -131,9 +129,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="system-maintenance.html">
                 <img src="assets/images/products/amc2.webp" alt="System Maintenance Services">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -142,7 +138,7 @@
   <i class="fa-solid fa-gears"></i>
 </div>
 
-                <h5><a href="system-maintenance.html">System Maintenance & Support</a></h5>
+                <h5>System Maintenance & Support</h5>
             </div>
             <div class="text">
                 Professional maintenance and troubleshooting
@@ -157,9 +153,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-            <a href="after-sales-support.html">
                 <img src="assets/images/products/amc3.webp" alt="After Sales Technical Support">
-            </a>
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -168,7 +162,7 @@
   <i class="fa-solid fa-headset"></i>
 </div>
 
-                <h5><a href="after-sales-support.html">After-Sales Technical Support</a></h5>
+                <h5>After-Sales Technical Support</h5>
             </div>
             <div class="text">
                 Dedicated after-sales support including remote

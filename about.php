@@ -264,7 +264,7 @@
                       <span class="icon flaticon-security-camera"></span>
                     </div>
                     <h5>
-                      <a href="/cctv-security-systems.php"
+                      <a href="cctv-security-systems.php"
                         >Premium Indoor <br />
                         Cameras</a
                       >
@@ -281,7 +281,7 @@
                       <span class="icon flaticon-alarm-1"></span>
                     </div>
                     <h5>
-                      <a href="/contact"
+                      <a href="contact.php"
                         >24/7 Quick Alarm <br />
                         Response</a
                       >
@@ -298,7 +298,7 @@
                       <span class="icon flaticon-calculator"></span>
                     </div>
                     <h5>
-                      <a href="/access-control-automation.php"
+                      <a href="access-control-automation.php"
                         >Amazing Security <br />
                         Systems</a
                       >

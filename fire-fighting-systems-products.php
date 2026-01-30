@@ -107,7 +107,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f1.webp" alt="Fire Fighting System Installation">
+      <img src="assets/images/products/f1.jpg" alt="Fire Fighting System Installation">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -129,7 +129,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f2.webp" alt="Fire Hydrant System">
+      <img src="assets/images/products/f2.jpg" alt="Fire Hydrant System">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -152,7 +152,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f3.webp" alt="Fire Alarm Systems">
+      <img src="assets/images/products/f3.jpg" alt="Fire Alarm Systems">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -221,7 +221,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f6.webp" alt="Fire Extinguisher Service">
+      <img src="assets/images/products/f6.jpg" alt="Fire Extinguisher Service">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -336,7 +336,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f11.webp" alt="Fire AMC">
+      <img src="assets/images/products/f11.jpg" alt="Fire AMC">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -359,7 +359,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f12.webp" alt="Fire Safety Audit">
+      <img src="assets/images/products/f12.jpg" alt="Fire Safety Audit">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>
@@ -578,7 +578,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
   <div class="inner-box">
     <div class="image">
-      <img src="assets/images/products/f21.webp" alt="Fire Rated Doors">
+      <img src="assets/images/products/f21.jpg" alt="Fire Rated Doors">
     </div>
     <div class="lower-content">
       <div class="hover-bg-color"></div>

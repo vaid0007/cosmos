@@ -129,7 +129,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-                <img src="assets/images/products/amc2.webp" alt="System Maintenance Services">
+                <img src="assets/images/products/amc2.jpg" alt="System Maintenance Services">
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -153,7 +153,7 @@
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-                <img src="assets/images/products/amc3.webp" alt="After Sales Technical Support">
+                <img src="assets/images/products/amc3.jpg" alt="After Sales Technical Support">
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>

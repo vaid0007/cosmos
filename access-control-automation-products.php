@@ -104,7 +104,7 @@
     <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-                <img src="assets/images/products/a1.webp" alt="Biometric Systems">
+                <img src="assets/images/products/a1.jpg" alt="Biometric Systems">
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>
@@ -281,7 +281,7 @@ Tyre Killers
 <div class="security-block col-lg-4 col-md-6 col-sm-12">
     <div class="inner-box">
         <div class="image">
-                <img src="assets/images/products/a8.avif" alt="Parking Management Systems">
+                <img src="assets/images/products/a8.jpg" alt="Parking Management Systems">
         </div>
         <div class="lower-content">
             <div class="hover-bg-color"></div>

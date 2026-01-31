@@ -40,7 +40,7 @@
             	<div class="inner-container clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.php"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
                     </div>
                     
 					<div class="nav-outer clearfix">
@@ -59,23 +59,23 @@
 							
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-									<li class="current"><a href="index.php">Home</a></li>
-									<li class=""><a href="about.php">About</a>
+									<li class="current"><a href="index">Home</a></li>
+									<li class=""><a href="about">About</a>
 									</li>
 									<li class="dropdown"><a href="#">Services</a>
 										<ul>
-											<li><a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
-<li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
-<li><a href="access-control-automation.php">Access Control & Automation</a></li>
-<li><a href="pest-control-services.php">Pest Control Services</a></li>
-<li><a href="amc-support.php">AMC & Support</a></li>
+											<li><a href="cctv-security-systems">CCTV & Security Systems</a></li>
+<li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
+<li><a href="access-control-automation">Access Control & Automation</a></li>
+<li><a href="pest-control-services">Pest Control Services</a></li>
+<li><a href="amc-support">AMC & Support</a></li>
 
 										</ul>
 									</li>
-									<li><a href="gallery.php">Gallery</a></li>
-									<!-- <li class=""><a href="blog.php">Blog</a> -->
+									<li><a href="gallery">Gallery</a></li>
+									<!-- <li class=""><a href="blog">Blog</a> -->
 									</li>
-									<li><a href="contact.php">Contact us</a></li>
+									<li><a href="contact">Contact us</a></li>
 								</ul>
 							</div>
 						</nav>
@@ -92,7 +92,7 @@
 							
 							<!-- Quote Btn -->
 							<div class="btn-box">
-								<a href="contact.php" class="quote-btn theme-btn">security estimate</a>
+								<a href="contact" class="quote-btn theme-btn">security estimate</a>
 							</div>
 
 						</div>
@@ -109,7 +109,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.php" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
+                    <a href="index" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
@@ -128,7 +128,7 @@
             <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index"><img src="assets/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div><!-- End Mobile Menu -->

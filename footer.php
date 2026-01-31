@@ -13,7 +13,7 @@
 									<li>
 										<span class="icon flaticon-call-3"></span>
 										Any Questions?
-										<strong>9999388433</strong>
+										<strong>+91 99993 88433</strong>
 									</li>
 								</ul>
 							</div>

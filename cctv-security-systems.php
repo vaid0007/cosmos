@@ -76,7 +76,7 @@
     <div class="auto-container">
         <h1>CCTV & Security Systems</h1>
         <ul class="page-breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li>Services</li>
             <li>CCTV & Security Systems</li>
         </ul>
@@ -101,11 +101,11 @@
 								</div>
 								
 								<ul class="blog-cat">
-									<li><a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
-<li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
-<li><a href="access-control-automation.php">Access Control & Automation</a></li>
-<li><a href="pest-control-services.php">Pest Control Services</a></li>
-<li><a href="amc-support.php">AMC & Support</a></li>
+									<li><a href="cctv-security-systems">CCTV & Security Systems</a></li>
+<li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
+<li><a href="access-control-automation">Access Control & Automation</a></li>
+<li><a href="pest-control-services">Pest Control Services</a></li>
+<li><a href="amc-support">AMC & Support</a></li>
 
 								</ul>
 							</div>
@@ -394,7 +394,7 @@
 
 
                 <div class="btns-box clearfix">
-                    <a href="cctv-security-systems-products.php" class="theme-btn btn-style-one">
+                    <a href="cctv-security-systems-products" class="theme-btn btn-style-one">
                         <span class="txt"><i class="flaticon-shield-1"></i> View CCTV Products</span>
                     </a>
                 </div>

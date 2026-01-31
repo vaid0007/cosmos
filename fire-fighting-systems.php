@@ -81,7 +81,7 @@
         <div class="auto-container">
           <h1>Fire Fighting Systems</h1>
           <ul class="page-breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li>Services</li>
             <li>Fire Fighting Systems</li>
           </ul>
@@ -105,26 +105,26 @@
 
                     <ul class="blog-cat">
                       <li>
-                        <a href="cctv-security-systems.php"
+                        <a href="cctv-security-systems"
                           >CCTV & Security Systems</a
                         >
                       </li>
                       <li>
-                        <a href="fire-fighting-systems.php"
+                        <a href="fire-fighting-systems"
                           >Fire Fighting Systems</a
                         >
                       </li>
                       <li>
-                        <a href="access-control-automation.php"
+                        <a href="access-control-automation"
                           >Access Control & Automation</a
                         >
                       </li>
                       <li>
-                        <a href="pest-control-services.php"
+                        <a href="pest-control-services"
                           >Pest Control Services</a
                         >
                       </li>
-                      <li><a href="amc-support.php">AMC & Support</a></li>
+                      <li><a href="amc-support">AMC & Support</a></li>
                     </ul>
                   </div>
                 </div>
@@ -431,7 +431,7 @@
 
         <div class="btns-box clearfix">
           <a
-            href="fire-fighting-systems-products.php"
+            href="fire-fighting-systems-products"
             class="theme-btn btn-style-one"
           >
             <span class="txt">

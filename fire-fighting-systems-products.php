@@ -83,9 +83,9 @@
     	<div class="auto-container">
 			<h1>Fire Fighting Systems Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index.php">home</a></li>
+				<li><a href="index">home</a></li>
             <li>Services</li>
-            <li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
+            <li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
 			<li>Products</li>
 			</ul>
         </div>
@@ -657,7 +657,7 @@
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>

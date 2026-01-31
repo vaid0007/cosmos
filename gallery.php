@@ -69,7 +69,7 @@
     	<div class="auto-container">
 			<h1>Photo Gallery</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index.php">home</a></li>
+				<li><a href="index">home</a></li>
 				<li>Gallery</li>
 			</ul>
         </div>
@@ -90,7 +90,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -108,7 +108,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -126,7 +126,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -144,7 +144,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -162,7 +162,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -180,7 +180,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>
@@ -198,7 +198,7 @@
 							<div class="overlay-box">
 								<div class="overlay-inner">
 									<div class="content">
-										<h4><a href="gallery.php">Automation System</a></h4>
+										<h4><a href="gallery">Automation System</a></h4>
 										<div class="category">Commercial</div>
 									</div>
 								</div>

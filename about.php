@@ -112,7 +112,7 @@
         <div class="auto-container">
           <h1>About Us</h1>
           <ul class="page-breadcrumb">
-            <li><a href="index.php">home</a></li>
+            <li><a href="index">home</a></li>
             <li>About</li>
           </ul>
         </div>
@@ -264,7 +264,7 @@
                       <span class="icon flaticon-security-camera"></span>
                     </div>
                     <h5>
-                      <a href="cctv-security-systems.php"
+                      <a href="cctv-security-systems"
                         >Premium Indoor <br />
                         Cameras</a
                       >
@@ -281,7 +281,7 @@
                       <span class="icon flaticon-alarm-1"></span>
                     </div>
                     <h5>
-                      <a href="contact.php"
+                      <a href="contact"
                         >24/7 Quick Alarm <br />
                         Response</a
                       >
@@ -298,7 +298,7 @@
                       <span class="icon flaticon-calculator"></span>
                     </div>
                     <h5>
-                      <a href="access-control-automation.php"
+                      <a href="access-control-automation"
                         >Amazing Security <br />
                         Systems</a
                       >
@@ -416,7 +416,7 @@
                         </span>
                       </div>
                       <h5>
-                        <a href="service-detail.html"
+                        <a href=""
                           >Certified Security Experts</a
                         >
                       </h5>
@@ -441,7 +441,7 @@
                         </span>
                       </div>
                       <h5>
-                        <a href="service-detail.html"
+                        <a href=""
                           >18+ Years of Experience</a
                         >
                       </h5>
@@ -483,7 +483,7 @@
                         </span>
                       </div>
                       <h5>
-                        <a href="service-detail.html">Advanced Technology</a>
+                        <a href="">Advanced Technology</a>
                       </h5>
                       <div class="text">
                         We deploy modern CCTV cameras, smart alarms, and access
@@ -506,7 +506,7 @@
                         </span>
                       </div>
                       <h5>
-                        <a href="service-detail.html">Reliable 24/7 Support</a>
+                        <a href="">Reliable 24/7 Support</a>
                       </h5>
                       <div class="text">
                         Our dedicated support team ensures uninterrupted
@@ -691,7 +691,7 @@
             <!-- Button Column -->
             <div class="button-column col-lg-4 col-md-12 col-sm-12">
               <div class="inner-column">
-                <a href="contact.php" class="theme-btn btn-style-two"
+                <a href="contact" class="theme-btn btn-style-two"
                   ><span class="txt"
                     ><i class="flaticon-shield-1"></i> free estimate</span
                   ></a

@@ -80,7 +80,7 @@
     <div class="auto-container">
         <h1>Access Control & Automation</h1>
         <ul class="page-breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li>Services</li>
             <li>Access Control & Automation</li>
         </ul>
@@ -106,11 +106,11 @@
 								</div>
 								
 								<ul class="blog-cat">
-									<li><a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
-<li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
-<li><a href="access-control-automation.php">Access Control & Automation</a></li>
-<li><a href="pest-control-services.php">Pest Control Services</a></li>
-<li><a href="amc-support.php">AMC & Support</a></li>
+									<li><a href="cctv-security-systems">CCTV & Security Systems</a></li>
+<li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
+<li><a href="access-control-automation">Access Control & Automation</a></li>
+<li><a href="pest-control-services">Pest Control Services</a></li>
+<li><a href="amc-support">AMC & Support</a></li>
 
 								</ul>
 							</div>
@@ -360,7 +360,7 @@
 
 
                 <div class="btns-box clearfix">
-                    <a href="access-control-automation-products.php" class="theme-btn btn-style-one">
+                    <a href="access-control-automation-products" class="theme-btn btn-style-one">
                         <span class="txt">
                             <i class="flaticon-key"></i> View Access Control Products
                         </span>

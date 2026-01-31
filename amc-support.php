@@ -82,7 +82,7 @@
     <div class="auto-container">
         <h1>AMC & Support Services</h1>
         <ul class="page-breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li>Services</li>
             <li>AMC & Support</li>
         </ul>
@@ -109,11 +109,11 @@
 								</div>
 								
 								<ul class="blog-cat">
-									<li><a href="cctv-security-systems.php">CCTV & Security Systems</a></li>
-<li><a href="fire-fighting-systems.php">Fire Fighting Systems</a></li>
-<li><a href="access-control-automation.php">Access Control & Automation</a></li>
-<li><a href="pest-control-services.php">Pest Control Services</a></li>
-<li><a href="amc-support.php">AMC & Support</a></li>
+									<li><a href="cctv-security-systems">CCTV & Security Systems</a></li>
+<li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
+<li><a href="access-control-automation">Access Control & Automation</a></li>
+<li><a href="pest-control-services">Pest Control Services</a></li>
+<li><a href="amc-support">AMC & Support</a></li>
 
 								</ul>
 							</div>
@@ -378,7 +378,7 @@
 
 
                 <div class="btns-box clearfix">
-                    <a href="amc-support-products.php" class="theme-btn btn-style-one">
+                    <a href="amc-support-products" class="theme-btn btn-style-one">
                         <span class="txt">
                             <i class="flaticon-tools"></i> View AMC Plans
                         </span>

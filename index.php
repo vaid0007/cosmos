@@ -81,7 +81,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="fire-fighting-systems.php" class="theme-btn btn-style-one">
+					<a href="fire-fighting-systems" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -104,7 +104,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="cctv-security-systems.php" class="theme-btn btn-style-one">
+					<a href="cctv-security-systems" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -127,7 +127,7 @@
 				</div>
 
 				<div class="btns-box clearfix">
-					<a href="pest-control-services.php" class="theme-btn btn-style-one">
+					<a href="pest-control-services" class="theme-btn btn-style-one">
 						<span class="txt"><i class="flaticon-shield-1"></i> get started</span>
 					</a>
 				</div>
@@ -155,7 +155,7 @@
 							<div class="icon-box fa-solid fa-fire-extinguisher">
 							</div>
 							<h5>
-								<a href="fire-fighting-systems.php">
+								<a href="fire-fighting-systems">
 									Fire Fighting <br> & Safety Systems
 								</a>
 							</h5>
@@ -170,7 +170,7 @@
 							<div class="icon-box fa-solid fa-video">
 							</div>
 							<h5>
-								<a href="cctv-security-systems.php">
+								<a href="cctv-security-systems">
 									CCTV Surveillance <br> & Monitoring
 								</a>
 							</h5>
@@ -185,7 +185,7 @@
 							<div class="icon-box fa-solid fa-bug-slash">
 							</div>
 							<h5>
-								<a href="pest-control-services.php">
+								<a href="pest-control-services">
 									Pest Control <br> & Sanitization
 								</a>
 							</h5>
@@ -238,7 +238,7 @@
 						management tailored to each site’s requirements.
 					</div>
 
-					<a href="about.php" class="read-more">
+					<a href="about" class="read-more">
 						Read More About Cosmos Enterprises
 						<span class="fa fa-angle-right"></span>
 					</a>
@@ -289,7 +289,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security-systems.php">
+						<a href="cctv-security-systems">
 							<img src="assets/images/resource/security-4.jpg" alt="CCTV Surveillance Systems" />
 						</a>
 					</div>
@@ -297,7 +297,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-cctv"></div>
-							<h5><a href="cctv-security-systems.php">CCTV Surveillance Systems</a></h5>
+							<h5><a href="cctv-security-systems">CCTV Surveillance Systems</a></h5>
 						</div>
 						<div class="text">
 							HD, IP, and AI-enabled CCTV solutions for real-time monitoring,
@@ -311,7 +311,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="fire-fighting-systems.php">
+						<a href="fire-fighting-systems">
 							<img src="assets/images/resource/fireprotectionsystemcomponent.jpg" alt="Fire Fighting Systems" />
 						</a>
 					</div>
@@ -319,7 +319,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-shield"></div>
-							<h5><a href="fire-fighting-systems.php">Fire Fighting</br> Systems</a></h5>
+							<h5><a href="fire-fighting-systems">Fire Fighting</br> Systems</a></h5>
 						</div>
 						<div class="text">
 							Complete fire protection solutions including hydrants,
@@ -333,7 +333,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="fire-fighting-systems.php">
+						<a href="fire-fighting-systems">
 							<img src="assets/images/resource/security-6.jpg" alt="Fire Alarm Systems" />
 						</a>
 					</div>
@@ -341,7 +341,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-alarm-1"></div>
-							<h5><a href="fire-fighting-systems.php">Fire Alarm &</br> Detection</a></h5>
+							<h5><a href="fire-fighting-systems">Fire Alarm &</br> Detection</a></h5>
 						</div>
 						<div class="text">
 							Smoke, heat, and multisensor detection systems for early
@@ -355,7 +355,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security-systems.php">
+						<a href="cctv-security-systems">
 							<img src="assets/images/resource/security-7.jpg" alt="Access Control Systems" />
 						</a>
 					</div>
@@ -363,7 +363,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-keyboard"></div>
-							<h5><a href="cctv-security-systems.php">Access Control</br> Systems</a></h5>
+							<h5><a href="cctv-security-systems">Access Control</br> Systems</a></h5>
 						</div>
 						<div class="text">
 							Biometric, RFID, and keypad-based access control solutions
@@ -377,7 +377,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="cctv-security-systems.php">
+						<a href="cctv-security-systems">
 							<img src="assets/images/resource/security-8.jpg" alt="Video Door Phones" />
 						</a>
 					</div>
@@ -385,7 +385,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-bell"></div>
-							<h5><a href="cctv-security-systems.php">Video Door</br> Phones</a></h5>
+							<h5><a href="cctv-security-systems">Video Door</br> Phones</a></h5>
 						</div>
 						<div class="text">
 							Smart video door phones and intercom systems for secure
@@ -399,7 +399,7 @@
 			<div class="security-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="image">
-						<a href="pest-control-services.php">
+						<a href="pest-control-services">
 							<img src="assets/images/resource/disinfectfoggingservices.jpg" alt="Pest Control Services" />
 						</a>
 					</div>
@@ -407,7 +407,7 @@
 						<div class="hover-bg-color"></div>
 						<div class="upper-box">
 							<div class="icon flaticon-home"></div>
-							<h5><a href="pest-control-services.php">Pest Control</br> Services</a></h5>
+							<h5><a href="pest-control-services">Pest Control</br> Services</a></h5>
 						</div>
 						<div class="text">
 							Eco-friendly pest control, termite treatment, and
@@ -440,7 +440,7 @@
 				<!-- Button Column -->
 				<div class="button-column col-lg-4 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
+						<a href="contact" class="theme-btn btn-style-two"><span class="txt"><i class="flaticon-shield-1"></i> free estimate</span></a>
 					</div>
 				</div>
 			</div>
@@ -481,7 +481,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="cctv-security-systems.php">CCTV & Security Systems</a></h4>
+									<h4><a href="cctv-security-systems">CCTV & Security Systems</a></h4>
 									<div class="category">Industrial & Commercial</div>
 								</div>
 							</div>
@@ -498,7 +498,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="fire-fighting-systems.php">Fire Fighting Systems</a></h4>
+									<h4><a href="fire-fighting-systems">Fire Fighting Systems</a></h4>
 									<div class="category">Commercial Buildings</div>
 								</div>
 							</div>
@@ -515,7 +515,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="access-control-automation.php">Access Control & Automation</a></h4>
+									<h4><a href="access-control-automation">Access Control & Automation</a></h4>
 									<div class="category">Offices & Institutions</div>
 								</div>
 							</div>
@@ -532,7 +532,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="pest-control-services.php">Pest Control Services</a></h4>
+									<h4><a href="pest-control-services">Pest Control Services</a></h4>
 									<div class="category">Residential & Commercial</div>
 								</div>
 							</div>
@@ -549,7 +549,7 @@
 						<div class="overlay-box">
 							<div class="overlay-inner">
 								<div class="content">
-									<h4><a href="amc-support.php">AMC & Support</a></h4>
+									<h4><a href="amc-support">AMC & Support</a></h4>
 									<div class="category">Residential & Commercial</div>
 								</div>
 							</div>

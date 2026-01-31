@@ -57,7 +57,7 @@
                             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.php"><img src="assets/images/logo_cosmos.png" alt="" /></a>
+                                    	<a href="index"><img src="assets/images/logo_cosmos.png" alt="" /></a>
                                     </div>
 <div class="text">
   COSMOS provides trusted CCTV and security solutions with advanced technology,
@@ -80,12 +80,11 @@
                                 <div class="footer-widget links-widget">
 									<h5>Pages</h5>
 									<ul class="list-link">
-										<li><a href="/index.php">Home</a></li>
-										<li><a href="/about.php">About Us</a></li>
-										<li><a href="/cctv-security-systems.php">Services</a></li>
-										<li><a href="/gallery.php">Gallery</a></li>
-										<!-- <li><a href="/blog.php">Blog</a></li> -->
-										<li><a href="/contact.php">Contact Us</a></li>
+										<li><a href="/index">Home</a></li>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/cctv-security-systems">Services</a></li>
+										<li><a href="/gallery">Gallery</a></li>
+										<li><a href="/contact">Contact Us</a></li>
 										<li><a href="#">Terms and Conditions</a></li>
 										<li><a href="#">Privacy Policy</a></li>
 										<li><a href="#">Disclamer</a></li>
@@ -105,11 +104,11 @@
                                 <div class="footer-widget links-widget">
 									<h5>Services</h5>
 									<ul class="list-link">
-										<li><a href="/cctv-security-systems.php">CCTV & Security Systems</a></li>
-										<li><a href="/fire-fighting-systems.php">Fire Fighting Systems</a></li>
-										<li><a href="/access-control-automation.php">Access Control & Automation</a></li>
-										<li><a href="/pest-control-services.php">Pest Control Services</a></li>
-										<li><a href="/amc-support.php">AMC & Support Services</a></li>
+										<li><a href="/cctv-security-systems">CCTV & Security Systems</a></li>
+										<li><a href="/fire-fighting-systems">Fire Fighting Systems</a></li>
+										<li><a href="/access-control-automation">Access Control & Automation</a></li>
+										<li><a href="/pest-control-services">Pest Control Services</a></li>
+										<li><a href="/amc-support">AMC & Support Services</a></li>
 									</ul>
 								</div>
 							</div>

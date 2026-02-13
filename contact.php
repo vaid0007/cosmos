@@ -69,7 +69,7 @@
     	<div class="auto-container">
 			<h1>get in touch</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
 				<li>Contact us</li>
 			</ul>
         </div>
@@ -98,7 +98,7 @@
 							<div class="text">Give us a call and our experienced and friendly staff would be happy to assist you.</div>
 							<ul class="info-list">
 								<li><span class="icon flaticon-call-3"></span><a href="tel:+91 99993 88433">+91 99993 88433</a></li>
-								<li><span class="icon flaticon-email-5"></span><a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a></li>
+								<li><span class="icon flaticon-email-5"></span><a href="mailto:cosmosenterprise02@gmail.com">cosmosenterprise02@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -132,7 +132,7 @@
 						<h5>Contact us</h5>
 						<a class="phone" href="tel:+91 99993 88433">+91 99993 88433</a>
 						<div class="emails">
-							<a href="mailto:cosmosenterprises34@gmail.com">cosmosenterprises34@gmail.com</a>						</div>
+							<a href="mailto:cosmosenterprise02@gmail.com">cosmosenterprise02@gmail.com</a>						</div>
 					</div>
 				</div>
 				

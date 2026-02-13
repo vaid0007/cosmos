@@ -14,8 +14,9 @@
 					
 						<!-- Info List -->
                         <ul class="info-list">
-							<li><span class="icon fa fa-phone-square"></span> <a href="tel:+91 99993 88433"> Call :+ 91 	99993 88433</a></li>
-							<li><span class="icon fa fa-envelope"></span> <a href="mailto:cosmosenterprises34@gmail.com">Email : cosmosenterprises34@gmail.com</a></li>
+							<li><span class="icon fa fa-phone-square"></span> <a href="tel:+91 99993 88433"> Call :+ 91 99993 88433</a></li>
+							<li><span class="icon fa fa-phone-square"></span> <a href="tel:+91 82870 24442"> Call :+ 91 82870 24442</a></li>
+							<li><span class="icon fa fa-envelope"></span> <a href="mailto:cosmosenterprise02@gmail.com">Email : cosmosenterprise02@gmail.com</a></li>
 						</ul>
 						
                     </div>
@@ -24,9 +25,22 @@
 					<div class="top-right pull-right">
 						<!-- Social Box -->
 						<ul class="social-box">
-							<li><a href="#" class="fa fa-facebook-f"></a></li>
-							<li><a href="#" class="fa fa-instagram"></a></li>
-							<li><a href="#" class="fa fa-linkedin"></a></li>
+						<li>
+  <a href="https://facebook.com/yourpage"
+     target="_blank"
+     rel="noopener noreferrer">
+     <i class="fa-brands fa-facebook-f"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://www.instagram.com/cosmosenterprises_1"
+     target="_blank"
+     rel="noopener noreferrer">
+     <i class="fa-brands fa-instagram"></i>
+  </a>
+</li>
+
 						</ul>
 					</div>
 					
@@ -40,7 +54,7 @@
             	<div class="inner-container clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="./"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
                     </div>
                     
 					<div class="nav-outer clearfix">
@@ -59,7 +73,7 @@
 							
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-									<li class="current"><a href="index">Home</a></li>
+									<li class="current"><a href="./">Home</a></li>
 									<li class=""><a href="about">About</a>
 									</li>
 									<li class="dropdown"><a href="#">Services</a>
@@ -109,7 +123,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
+                    <a href="./" title=""><img src="assets/images/logo_cosmos.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
@@ -128,7 +142,7 @@
             <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index"><img src="assets/images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="./"><img src="assets/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div><!-- End Mobile Menu -->

@@ -458,7 +458,7 @@
 			<div class="overlay-box">
 				<div class="overlay-inner">
 					<h3>
-						<a href="#">
+						<a href="contact">
 							Advanced Safety & Security Solutions by Cosmos Enterprises
 						</a>
 					</h3>
@@ -697,7 +697,7 @@
                 </div>
                 <!--Lower Content-->
                 <div class="lower-content">
-                  <h5><a href="#">Tarun Sehgal</a></h5>
+                                    <h5>Tarun Sehgal</h5>
                   <div class="designation">CEO and Founder</div>
                 </div>
               </div>
@@ -719,7 +719,7 @@
                 </div>
                 <!--Lower Content-->
                 <div class="lower-content">
-                  <h5><a href="#">Ajay Rathi</a></h5>
+                                    <h5>Ajay Rathi</h5>
                   <div class="designation">Director</div>
                 </div>
               </div>
@@ -741,7 +741,7 @@
                 </div>
                 <!--Lower Content-->
                 <div class="lower-content">
-                  <h5><a href="#">James Anderson</a></h5>
+                                    <h5>James Anderson</h5>
                   <div class="designation">Security Agent</div>
                 </div>
               </div>
@@ -763,7 +763,7 @@
                 </div>
                 <!--Lower Content-->
                 <div class="lower-content">
-                  <h5><a href="#">Arjun Kashyap</a></h5>
+                                    <h5>Arjun Kashyap</h5>
                   <div class="designation">Sales Head</div>
                 </div>
               </div>
@@ -785,7 +785,7 @@
                 </div>
                 <!--Lower Content-->
                 <div class="lower-content">
-                  <h5><a href="#">Jitendra Yadav</a></h5>
+                                    <h5>Jitendra Yadav</h5>
                   <div class="designation">Marketing Head</div>
                 </div>
               </div>

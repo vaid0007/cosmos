@@ -83,7 +83,7 @@
     	<div class="auto-container">
 			<h1>Fire Fighting Systems Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
             <li>Services</li>
             <li><a href="fire-fighting-systems">Fire Fighting Systems</a></li>
 			<li>Products</li>

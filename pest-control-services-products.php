@@ -82,7 +82,7 @@
     	<div class="auto-container">
 			<h1>Pest Control Services</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
 				<li>Services</li>
         <li><a href="pest-control-services">Pest Control Services</a></li>
         <li>Products</li>

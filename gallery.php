@@ -69,7 +69,7 @@
     	<div class="auto-container">
 			<h1>Photo Gallery</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
 				<li>Gallery</li>
 			</ul>
         </div>

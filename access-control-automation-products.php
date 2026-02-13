@@ -83,7 +83,7 @@
     	<div class="auto-container">
 			<h1>Access Control & Automation Products</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
 				<li>Services</li>
                 <li><a href="access-control-automation">Access Control & Automation</a></li>
 				<li>Products</li>

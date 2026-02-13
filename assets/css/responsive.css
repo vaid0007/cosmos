@@ -301,7 +301,22 @@
 }
 
 @media only screen and (max-width: 767px){
-	
+	.main-header .header-top{
+    padding:8px 0;
+}
+
+.main-header .header-top .top-left,
+.main-header .header-top .top-right{
+    width:100%;
+    text-align:center;
+    float:none;
+}
+
+.main-header .header-top li{
+    display:block;
+    margin-bottom:5px;
+}
+
 	.header-upper .logo-outer {
 		position:relative;
 		left:0px;
@@ -597,8 +612,11 @@
 	}
 	
 	.main-header .header-top .top-left{
-		display:none;
-	}
+    display:block;
+    width:100%;
+    text-align:center;
+}
+
 	
 	.nav-outer .mobile-nav-toggler{
 		color:#000000;

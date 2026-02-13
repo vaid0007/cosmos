@@ -83,7 +83,7 @@
     	<div class="auto-container">
 			<h1>AMC & Support Services</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index">home</a></li>
+				<li><a href="./">home</a></li>
 				<li>Services</li>
 				<li><a href="amc-support">AMC & Support</a></li>
 				<li>AMC Plans</li>

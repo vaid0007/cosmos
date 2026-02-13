@@ -76,7 +76,7 @@
     <div class="auto-container">
         <h1>CCTV & Security Systems</h1>
         <ul class="page-breadcrumb">
-            <li><a href="index">Home</a></li>
+            <li><a href="./">Home</a></li>
             <li>Services</li>
             <li>CCTV & Security Systems</li>
         </ul>
@@ -117,7 +117,7 @@
 								<h3>Need Help?</h3>
 								<div class="title">Call us or Email</div>
 								<a href="tel: +91 99993 88433" class="phone">+91 99993 88433</a>
-								<a href="cosmosenterprises34@gmail.com" class="email">cosmosenterprises34@gmail.com</a>
+								<a href="cosmosenterprise02@gmail.com" class="email">cosmosenterprise02@gmail.com</a>
 							</div>
 						</div>
 						

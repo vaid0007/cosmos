@@ -1,4 +1,7 @@
-<!-- Preloader -->
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Preloader -->
     <div class="preloader"></div>
  	
  	<!-- Main Header-->
@@ -149,3 +152,24 @@
 	
     </header>
     <!-- End Main Header -->
+	 <!-- Floating Buttons -->
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<div class="floating-buttons">
+
+    <!-- WhatsApp -->
+    <a href="https://wa.me/919999388433"
+       class="float-btn whatsapp"
+       target="_blank"
+       rel="noopener noreferrer">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+
+    <!-- Call -->
+    <a href="tel:+919999388433"
+       class="float-btn call">
+        <i class="fa-solid fa-phone"></i>
+    </a>
+
+</div>
+</head>
+<body>

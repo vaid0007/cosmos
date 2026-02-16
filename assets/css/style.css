@@ -734,7 +734,7 @@ img{
 .main-header .header-top .info-list li .icon{
 	position:absolute;
 	left:0px;
-	top:0px;
+	top:3px;
 	color:#032461;
 	font-size:16px;
 }

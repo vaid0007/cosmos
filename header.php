@@ -145,7 +145,7 @@
             <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="./"><img src="assets/images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="./"><img src="assets/images/logo_cosmos.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div><!-- End Mobile Menu -->

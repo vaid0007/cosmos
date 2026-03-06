@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 
 <!-- Mirrored from cdn.bolvo.com/teknik/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Jan 2026 07:33:00 GMT -->
@@ -167,37 +167,47 @@
                 	<div class="content">
                         <!-- Contact Form -->
                         <div class="contact-form">
-                            <form method="post" action="">
-                                <div class="row clearfix">
-                                    
-									<div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="text" name="username" value="" placeholder="First Name*" required>
-                                    </div>
-									
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="text" name="lastname" value="" placeholder="Last Name" required>
-                                    </div>
-									
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="email" name="email" value="" placeholder="Your Email" required>
-                                    </div>
-									
-									<div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <input type="text" name="phone" value="" placeholder="Phone Number" required>
-                                    </div>
-                                    
-                                    <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                                        <textarea name="message" placeholder="Query/Request/Message"></textarea>
-                                    </div>
-                                    
-                                    <div class="form-group btn-column col-md-12 col-sm-12 col-xs-12">
-                                        <button type="submit" class="theme-btn submit-btn"><span class="txt">send	 <i class="fa fa-angle-right"></i></span></button>
-                                    </div>
-                                    
-                                </div>
-                                
-                            </form>
-                        </div>
+
+<form action="https://formsubmit.co/vickysharma567890@gmail.com" method="POST">
+
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_subject" value="New Contact Message - Cosmos Enterprises">
+<input type="hidden" name="_template" value="table">
+<input type="hidden" name="_next" value="http://localhost/cosmos/contact.php">
+
+<div class="row clearfix">
+
+<div class="form-group col-md-6 col-sm-6 col-xs-12">
+<input type="text" name="first_name" placeholder="First Name*" required>
+</div>
+
+<div class="form-group col-md-6 col-sm-6 col-xs-12">
+<input type="text" name="last_name" placeholder="Last Name" required>
+</div>
+
+<div class="form-group col-md-6 col-sm-6 col-xs-12">
+<input type="email" name="email" placeholder="Your Email" required>
+</div>
+
+<div class="form-group col-md-6 col-sm-6 col-xs-12">
+<input type="text" name="phone" placeholder="Phone Number" required>
+</div>
+
+<div class="form-group col-md-12 col-sm-12 col-xs-12">
+<textarea name="message" placeholder="Query / Request / Message" required></textarea>
+</div>
+
+<div class="form-group btn-column col-md-12 col-sm-12 col-xs-12">
+<button type="submit" class="theme-btn submit-btn">
+<span class="txt">Send <i class="fa fa-angle-right"></i></span>
+</button>
+</div>
+
+</div>
+
+</form>
+
+</div>
                         
                     </div>
                 </div>
